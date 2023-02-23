@@ -1,0 +1,46 @@
+head	1.1;
+access;
+symbols;
+locks
+	rjs:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2023.02.23.22.07.26;	author rjs;	state Exp;
+branches;
+next	;
+
+
+desc
+@.
+@
+
+
+1.1
+log
+@.
+@
+text
+@<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title> Página de Romildo José da Silva </title>
+</head>
+<body>
+
+  Esta é a minha página HTML.
+
+  Aprecie-a!
+
+  Agora é começar a trabalhar nela.
+
+  Okay?
+  Yes2
+
+  Página em contrução.
+
+</body>
+</html>
+@
