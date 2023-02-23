@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2023.02.23.23.35.50;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2023.02.23.22.07.26;	author rjs;	state Exp;
@@ -17,30 +22,84 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
 text
-@<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-    "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+@<html>
 <head>
   <title> Página de Romildo José da Silva </title>
 </head>
 <body>
 
-  Esta é a minha página HTML.
+<style type="text/css">
+  body { margin-left: 5%; margin-right: 5%;
+       margin-top: 5%; margin-bottom: 5%;}
+</style>
 
-  Aprecie-a!
+  <h1><p>
+      <font face="Lucida Bright, Times New Roman">
+      <img src="fotoNewYorkFace.jpg"
+           width="15%" height="auto" align="left">
+      Professor Romildo José da Silva<br>
+      Departamento de Matemática<br>
+      Centro de Ciências<br>
+      Universidade Federal do Ceará.
+      </font>
+  </p></h1>
 
-  Agora é começar a trabalhar nela.
+  <br>
 
-  Okay?
-  Yes2
+  <font face="Lucida Bright, Times New Roman" size="+1">
+  <p>
+     Nesta página você encontra as informações
+  </p>    
 
-  Página em contrução.
+
+
+  <p>
+    Romildo José da Silva
+  </p>
+
+  <p>
+    New Space Radar Will Hunt Planet-Threatening Asteroids
+  </p>
+
+  <font face="Verdana, Times New Roman" size="+2">
+  <p>
+     Nesta página você encontra as informações
+  </p>    
+  
+  
 
 </body>
 </html>
+@
+
+
+1.1
+log
+@.
+@
+text
+@a0 2
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+d7 4
+a10 1
+  Esta é a minha página HTML.
+d12 10
+a21 1
+  Aprecie-a!
+d23 1
+a23 1
+  Agora é começar a trabalhar nela.
+d25 4
+a28 2
+  Okay?
+  Yes2
+d30 16
+a45 1
+  Página em contrução.
 @
