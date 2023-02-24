@@ -1,10 +1,20 @@
-head	1.6;
+head	1.8;
 access;
 symbols;
 locks
-	rjs:1.6; strict;
+	rjs:1.8; strict;
 comment	@# @;
 
+
+1.8
+date	2023.02.24.01.15.58;	author rjs;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2023.02.24.01.12.42;	author rjs;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2023.02.24.01.04.25;	author rjs;	state Exp;
@@ -42,7 +52,7 @@ desc
 @
 
 
-1.6
+1.8
 log
 @.
 @
@@ -75,13 +85,13 @@ text
   <font face="Lucida Bright, Times New Roman" size="+1">
     
     <h3> Coordenação da Olimpíada Cearense de Matemática - OCM. </h3>
-    <p> Sou o coordenador da OCM desde 2018. Em 2023 a OCM será realizada no dia 3
+    <p> Sou o coordenador da OCM desde 2018. Em 2023, a OCM será realizada no dia 3
     de junho de 2023, das 08h00 às 12h00, em local a ser definido e divulgado. </p>
     <p> <a href="https://ocm.mat.br/" target="_blank">Nova Página da OCM</a> </p>
     <p> <a href="http://www.mat.ufc.br/ocm" target="_blank">Antiga Página da OCM</a> </p>
     <p> A página antiga está ativa porque nem todas as informações migraram para
       a nova página. Entretanto, a inscrição para OCM estará disponível somente na
-      nova página, como ocorreu em 2019, 2021 e 2022. Não ocorreu a edição de 2020 da
+      nova página, como ocorreu em 2019, 2021 e 2022. Não houve a edição de 2020 da
     OCM por conta da Pandemia de Coronavírus.</p>
 
     <h3> Coordenador Regional da Olimpíada Brasileira de Matemática - OBM. </h3>
@@ -94,13 +104,14 @@ text
     <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 1</a></p>
     <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 2</a></p>
     <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>    
-    <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do DEPMAT</a> </p>  
+    <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do Departamento de Matemática</a> </p>  
     
-      <h3> Meus contatos: </h3>
+      <h3> Meus contatos. </h3>
       <p>
       rjsdusk@@gmail.com<br>
       rjs@@mat.ufc.br<br>
-      ocm@@mat.ufc.br - email para assuntos relativos à OCM<br>      
+      ocm@@mat.ufc.br - email para assuntos relativos à OCM<br>
+      WhatsApp: 55 85 98201-6979<br>
       <a href="https://www.youtube.com/channel/UC1xg-MeWJihmtkA0yDohw5A" target="_blank">
         Meu Canal no YouTube: @@romildosilva8319 </a>
       </p>
@@ -115,6 +126,37 @@ text
 </html>
 
 
+@
+
+
+1.7
+log
+@.
+@
+text
+@d35 1
+a35 1
+      nova página, como ocorreu em 2019, 2021 e 2022. Não ocorreu a edição de 2020 da
+@
+
+
+1.6
+log
+@.
+@
+text
+@d29 1
+a29 1
+    <p> Sou o coordenador da OCM desde 2018. Em 2023 a OCM será realizada no dia 3
+d48 1
+a48 1
+    <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do DEPMAT</a> </p>  
+d50 1
+a50 1
+      <h3> Meus contatos: </h3>
+d54 2
+a55 1
+      ocm@@mat.ufc.br - email para assuntos relativos à OCM<br>      
 @
 
 
