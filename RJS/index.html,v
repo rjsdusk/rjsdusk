@@ -1,10 +1,15 @@
-head	1.4;
+head	1.5;
 access;
 symbols;
 locks
-	rjs:1.4; strict;
+	rjs:1.5; strict;
 comment	@# @;
 
+
+1.5
+date	2023.02.24.00.44.27;	author rjs;	state Exp;
+branches;
+next	1.4;
 
 1.4
 date	2023.02.24.00.30.01;	author rjs;	state Exp;
@@ -32,7 +37,7 @@ desc
 @
 
 
-1.4
+1.5
 log
 @.
 @
@@ -67,7 +72,12 @@ text
     <h3> Coordenação da Olimpíada Cearense de Matemática - OCM. </h3>
     <p> Sou o coordenador da OCM desde 2018. Em 2023 a OCM será realizada no dia 3
     de junho de 2023, das 08h00 às 12h00, em local a ser definido e divulgado. </p>
-    <p> <a href="https://ocm.mat.br/" target="_blank">Página da OCM</a> </p>
+    <p> <a href="https://ocm.mat.br/" target="_blank">Nova Página da OCM</a> </p>
+    <p> <a href="http://www.mat.ufc.br/ocm" target="_blank">Antiga Página da OCM</a> </p>
+    <p> A página antiga está ativa porque nem todas as informações migraram para
+      a nova página. Entretanto, a inscrição para OCM estará disponível somente na
+      nova página, como ocorreu em 2019, 2021 e 2022. Não ocorreu a edição de 2020 da
+    OCM por conta da Pandemia de Coronavírus.</p>
 
     <h3> Coordenador Regional da Olimpíada Brasileira de Matemática - OBM. </h3>
 
@@ -90,6 +100,17 @@ text
 
 </body>
 </html>
+@
+
+
+1.4
+log
+@.
+@
+text
+@d31 6
+a36 1
+    <p> <a href="https://ocm.mat.br/" target="_blank">Página da OCM</a> </p>
 @
 
 
