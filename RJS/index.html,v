@@ -1,10 +1,15 @@
-head	1.5;
+head	1.6;
 access;
 symbols;
 locks
-	rjs:1.5; strict;
+	rjs:1.6; strict;
 comment	@# @;
 
+
+1.6
+date	2023.02.24.01.04.25;	author rjs;	state Exp;
+branches;
+next	1.5;
 
 1.5
 date	2023.02.24.00.44.27;	author rjs;	state Exp;
@@ -37,7 +42,7 @@ desc
 @
 
 
-1.5
+1.6
 log
 @.
 @
@@ -86,7 +91,10 @@ text
     <p> <a href="https://www.obm.org.br/" target="_blank">Página da OBM</a> </p>
 
     <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionarei no primeiro semestre de 2023. </h3>
-      <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do DEPMAT</a> </p>  
+    <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 1</a></p>
+    <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 2</a></p>
+    <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>    
+    <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do DEPMAT</a> </p>  
     
       <h3> Meus contatos: </h3>
       <p>
@@ -96,10 +104,32 @@ text
       <a href="https://www.youtube.com/channel/UC1xg-MeWJihmtkA0yDohw5A" target="_blank">
         Meu Canal no YouTube: @@romildosilva8319 </a>
       </p>
-    
+
+      <h3> Plataforma Lattes - CNPq </h3>
+      <p>
+      <a href="http://lattes.cnpq.br/2544950623691525" target="_blank">
+        Meus Currículo Lattes
+        </p>
 
 </body>
 </html>
+
+
+@
+
+
+1.5
+log
+@.
+@
+text
+@d45 4
+a48 1
+      <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do DEPMAT</a> </p>  
+d58 6
+a63 1
+    
+d67 2
 @
 
 
