@@ -1,10 +1,15 @@
-head	1.13;
+head	1.14;
 access;
 symbols;
 locks
-	rjs:1.13; strict;
+	rjs:1.14; strict;
 comment	@# @;
 
+
+1.14
+date	2023.02.24.16.55.55;	author rjs;	state Exp;
+branches;
+next	1.13;
 
 1.13
 date	2023.02.24.16.25.09;	author rjs;	state Exp;
@@ -77,7 +82,7 @@ desc
 @
 
 
-1.13
+1.14
 log
 @.
 @
@@ -119,7 +124,7 @@ text
       nova página, como ocorreu em 2019, 2021 e 2022. Não houve a edição de 2020 da
     OCM por conta da Pandemia de Coronavírus.</p>
 
-    <h3> Coordenador Regional da Olimpíada Brasileira de Matemática - OBM. </h3>
+    <h3> Coordenação Regional da Olimpíada Brasileira de Matemática - OBM. </h3>
 
      <p> Em fevereiro de 2023 assumi a coordenação local da OBM, responsável pela
     aplicação das provas em Fortaleza.</p>
@@ -166,6 +171,17 @@ text
 </html>
 
 
+@
+
+
+1.13
+log
+@.
+@
+text
+@d38 1
+a38 1
+    <h3> Coordenador Regional da Olimpíada Brasileira de Matemática - OBM. </h3>
 @
 
 
