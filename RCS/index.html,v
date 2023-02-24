@@ -1,10 +1,15 @@
-head	1.8;
+head	1.9;
 access;
 symbols;
 locks
-	rjs:1.8; strict;
+	rjs:1.9; strict;
 comment	@# @;
 
+
+1.9
+date	2023.02.24.01.25.33;	author rjs;	state Exp;
+branches;
+next	1.8;
 
 1.8
 date	2023.02.24.01.15.58;	author rjs;	state Exp;
@@ -52,7 +57,7 @@ desc
 @
 
 
-1.8
+1.9
 log
 @.
 @
@@ -103,8 +108,9 @@ text
     <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionarei no primeiro semestre de 2023. </h3>
     <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 1</a></p>
     <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 2</a></p>
-    <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>    
-    <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do Departamento de Matemática</a> </p>  
+    <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>
+    <p> <a href="https://matematica.ufc.br/pt/apresentacao/" target="_blank">Nova Página do Departamento de Matemática</a> </p>      
+    <p> <a href="http://www.mat.ufc.br/" target="_blank">Antiga Página do Departamento de Matemática</a> </p>  
     
       <h3> Meus contatos. </h3>
       <p>
@@ -126,6 +132,18 @@ text
 </html>
 
 
+@
+
+
+1.8
+log
+@.
+@
+text
+@d47 3
+a49 2
+    <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>    
+    <p> <a href="http://www.mat.ufc.br/" target="_blank">Página do Departamento de Matemática</a> </p>  
 @
 
 
