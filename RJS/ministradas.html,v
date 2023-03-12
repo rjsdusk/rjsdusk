@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2023.03.12.19.27.09;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2023.03.12.18.42.41;	author rjs;	state Exp;
@@ -17,9 +22,9 @@ desc
 @
 
 
-1.1
+1.2
 log
-@.
+@*** empty log message ***
 @
 text
 @<html>
@@ -38,9 +43,9 @@ text
     <font face="Lucida Bright, Times New Roman">
 Professor: Romildo José da Silva<br>
 Disciplina: Cálculo Diferencial e Integral I<br>
-Código: CB0534 Turma: 05<br>
+Código: CB0534 Turma: 12<br>
 Curso: Bacharelado em Matemática<br>
-Semestre: 2023.1<br>
+Semestre: 2022.1<br>
 Horário: Seg, Qua e Sex, 08h00 - 10h00
     </font>
   </p>
@@ -55,9 +60,9 @@ Horário: Seg, Qua e Sex, 08h00 - 10h00
     <font face="Lucida Bright, Times New Roman">
 Professor: Romildo José da Silva<br>
 Disciplina: Cálculo Diferencial e Integral I<br>
-Código: CB0534 Turma: 09<br>
+Código: CB0534 Turma: 11<br>
 Curso: Ciência da Computação<br>
-Semestre: 2023.1<br>
+Semestre: 2022.1<br>
 Horário: Seg, Qua e Sex, 10h00 - 12h00
     </font>
   </p>
@@ -69,4 +74,24 @@ Horário: Seg, Qua e Sex, 10h00 - 12h00
 
 </body>
 </html>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d17 1
+a17 1
+Código: CB0534 Turma: 05<br>
+d19 1
+a19 1
+Semestre: 2023.1<br>
+d34 1
+a34 1
+Código: CB0534 Turma: 09<br>
+d36 1
+a36 1
+Semestre: 2023.1<br>
 @
