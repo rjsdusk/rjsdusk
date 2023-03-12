@@ -1,10 +1,15 @@
-head	1.19;
+head	1.20;
 access;
 symbols;
 locks
-	rjs:1.19; strict;
+	rjs:1.20; strict;
 comment	@# @;
 
+
+1.20
+date	2023.03.12.19.37.23;	author rjs;	state Exp;
+branches;
+next	1.19;
 
 1.19
 date	2023.03.12.18.51.41;	author rjs;	state Exp;
@@ -107,9 +112,9 @@ desc
 @
 
 
-1.19
+1.20
 log
-@*** empty log message ***
+@.
 @
 text
 @<html>
@@ -141,7 +146,7 @@ text
     
     <h3> Coordenação da Olimpíada Cearense de Matemática - OCM. </h3>
     <p> Sou o coordenador da OCM desde 2018. Em 2023, a OCM será realizada no dia 3
-    de junho de 2023, das 08h00 às 12h00, em local a ser definido e divulgado. </p>
+    de junho de 2023, das 13h00 às 17h00, em local a ser definido e divulgado. </p>
     <p> <a href="https://ocm.mat.br/" target="_blank">Nova Página da OCM</a> </p>
     <p> <a href="http://www.mat.ufc.br/ocm" target="_blank">Antiga Página da OCM</a> </p>
     <p> A página antiga está ativa porque nem todas as informações migraram para
@@ -197,6 +202,17 @@ text
 </body>
 </html>
 
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+    de junho de 2023, das 08h00 às 12h00, em local a ser definido e divulgado. </p>
 @
 
 
