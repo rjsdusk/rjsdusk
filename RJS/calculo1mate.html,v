@@ -1,10 +1,35 @@
-head	1.1;
+head	1.6;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.6; strict;
 comment	@# @;
 
+
+1.6
+date	2023.03.12.18.51.40;	author rjs;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2023.03.12.18.42.41;	author rjs;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2023.03.11.18.19.54;	author rjs;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2023.03.11.18.19.27;	author rjs;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2023.03.11.18.10.48;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2023.02.24.01.04.25;	author rjs;	state Exp;
@@ -17,9 +42,91 @@ desc
 @
 
 
+1.6
+log
+@*** empty log message ***
+@
+text
+@<html>
+<head>
+  <title> Minha Página HTML: rjsdusk </title>
+</head>
+<body>
+
+<style type="text/css">
+  body { margin-left: 5%; margin-right: 5%;
+       margin-top: 5%; margin-bottom: 5%;}
+</style>
+
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+Professor: Romildo José da Silva<br>
+Disciplina: Cálculo Diferencial e Integral I<br>
+Código: CB0534 Turma: 05<br>
+Curso: Bacharelado em Matemática<br>
+Semestre: 2023.1<br>
+Horário: Seg, Qua e Sex, 08h00 - 10h00
+    </font>
+  </p>
+</h1>
+
+<font face="Lucida Bright, Times New Roman" size="+1">
+<br>
+<p> <a href="diarioCB0534Turma05_2023.1.pdf" target="_blank">Diário da Disciplina</a> </p>
+<p> <a href="https://groups.google.com/g/calculoprimeiromat20231" target="_blank">Grupo da Disciplina no Google</a> </p>
+<p> <a href="https://www.ufc.br/calendario-universitario/2023" target="_blank">Calendário Universitário da UFC - 2023</a> </p>
+<p> <a href="https://www.rjsdusk.org">Página Inicial</a> </p>
+</font>
+
+</body>
+</html>
+@
+
+
+1.5
+log
+@.
+@
+text
+@d31 1
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d30 1
+@
+
+
+1.3
+log
+@.
+@
+text
+@d18 1
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d25 1
+a25 1
+<br><br>
+d28 1
+@
+
+
 1.1
 log
 @.
 @
 text
-@@
+@d1 30
+@

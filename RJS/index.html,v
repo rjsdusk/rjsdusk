@@ -1,10 +1,30 @@
-head	1.15;
+head	1.19;
 access;
 symbols;
 locks
-	rjs:1.15; strict;
+	rjs:1.19; strict;
 comment	@# @;
 
+
+1.19
+date	2023.03.12.18.51.42;	author rjs;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2023.03.12.18.42.41;	author rjs;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2023.03.11.18.19.27;	author rjs;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2023.03.11.18.10.53;	author rjs;	state Exp;
+branches;
+next	1.15;
 
 1.15
 date	2023.02.24.19.07.43;	author rjs;	state Exp;
@@ -87,9 +107,9 @@ desc
 @
 
 
-1.15
+1.19
 log
-@.
+@*** empty log message ***
 @
 text
 @<html>
@@ -137,9 +157,10 @@ text
     <p> <a href="https://www.obm.org.br/2023/02/14/veja-o-calendario-de-testes-de-selecao-para-as-competicoes-internacionais-de-2023/" target="_blank">Calendário de Testes de Seleção para Competições Internacionais em 2023</a> </p>
 
     <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionarei no primeiro semestre de 2023. </h3>
-    <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 1</a></p>
-    <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 2</a></p>
-    <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>
+    <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 05 - Bacharelado em Matemática</a></p>
+    <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 09 - Ciência da Computação</a></p>
+    <p><a href="./seriesedo.html" target="_blank">CB0591 - Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>
+    <p><a href="./ministradas.html" target="_blank">YouTube - Disciplinas Ministradas em Semestres Anteriores</a></p>
     <p> <a href="https://matematica.ufc.br/pt/apresentacao/" target="_blank">Nova Página do Departamento de Matemática</a> </p>      
     <p> <a href="http://www.mat.ufc.br/" target="_blank">Antiga Página do Departamento de Matemática</a> </p>
         <p> <a href="https://www.ufc.br/" target="_blank">Página da UFC</a> </p>  
@@ -156,12 +177,12 @@ text
       </p>
 
       <h3> Meus Contatos em QrCode. </h3>
-      <p> Sem endereço e com endereço </p>
+      <!-- <p> Sem endereço e com endereço </p> -->
     <p>
       <img src="qrCodeRomildo.png"
            width="20%" height="auto" align="left">
-      <img src="qrCodeRomildo_comEndereco.png"
-           width="20%" height="auto" align="left">      
+      <!-- <img src="qrCodeRomildo_comEndereco.png" -->
+      <!--      width="20%" height="auto" align="left">       -->
     </p>
     <br clear="all">
 
@@ -171,12 +192,66 @@ text
         Meus Currículo Lattes </a>
       </p>
 
-
+    </font>
 
 </body>
 </html>
 
+@
 
+
+1.18
+log
+@.
+@
+text
+@d66 1
+a66 1
+      <p> Sem endereço e com endereço </p>
+d70 2
+a71 2
+      <img src="qrCodeRomildo_comEndereco.png"
+           width="20%" height="auto" align="left">      
+d81 1
+a81 1
+
+a84 1
+
+@
+
+
+1.17
+log
+@.
+@
+text
+@d48 2
+a49 1
+    <p><a href="./seriesedo.html" target="_blank">CB0591	Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@d46 2
+a47 2
+    <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 05</a></p>
+    <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 09</a></p>
+@
+
+
+1.15
+log
+@.
+@
+text
+@d46 2
+a47 2
+    <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 1</a></p>
+    <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 2</a></p>
 @
 
 
