@@ -1,10 +1,15 @@
-head	1.2;
+head	1.3;
 access;
 symbols;
 locks
-	rjs:1.2; strict;
+	rjs:1.3; strict;
 comment	@# @;
 
+
+1.3
+date	2023.03.13.02.01.23;	author rjs;	state Exp;
+branches;
+next	1.2;
 
 1.2
 date	2023.03.12.19.27.09;	author rjs;	state Exp;
@@ -22,9 +27,9 @@ desc
 @
 
 
-1.2
+1.3
 log
-@*** empty log message ***
+@.
 @
 text
 @<html>
@@ -72,8 +77,51 @@ Horário: Seg, Qua e Sex, 10h00 - 12h00
 <p><a href="./aulasCiencia_daComputacao20221.html" target="_blank">Aulas no YouTube</a></p>
 </font>
 
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+Professor: Romildo José da Silva<br>
+Disciplina: Cálculo Diferencial e Integral II<br>
+Código: CB0535 Turma: 06<br>
+Curso: Bacharelado em Matemática<br>
+Semestre: 2022.2<br>
+Horário: Seg, Qua e Sex, 10h00 - 12h00
+    </font>
+  </p>
+</h1>
+
+<font face="Lucida Bright, Times New Roman" size="+1">
+<p><a href="./aulasBachareladoMatematica20222.html" target="_blank">Aulas no YouTube</a></p>
+</font>
+
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+Professor: Romildo José da Silva<br>
+Disciplina: Cálculo Diferencial e Integral II<br>
+Código: CB0535 Turma: 09<br>
+Curso: Ciência da Computação<br>
+Semestre: 2022.2<br>
+Horário: Seg, Qua e Sex, 08h00 - 10h00
+    </font>
+  </p>
+</h1>
+
+<font face="Lucida Bright, Times New Roman" size="+1">
+<p><a href="./aulasCiencia_daComputacao20222.html" target="_blank">Aulas no YouTube</a></p>
+</font>
+
 </body>
 </html>
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d46 34
 @
 
 
