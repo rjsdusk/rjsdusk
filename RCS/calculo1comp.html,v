@@ -1,10 +1,15 @@
-head	1.7;
+head	1.8;
 access;
 symbols;
 locks
-	rjs:1.7; strict;
+	rjs:1.8; strict;
 comment	@# @;
 
+
+1.8
+date	2023.03.17.01.56.35;	author rjs;	state Exp;
+branches;
+next	1.7;
 
 1.7
 date	2023.03.15.01.17.35;	author rjs;	state Exp;
@@ -47,7 +52,7 @@ desc
 @
 
 
-1.7
+1.8
 log
 @.
 @
@@ -78,7 +83,7 @@ Horário: Seg, Qua e Sex, 10h00 - 12h00
 
 <font face="Lucida Bright, Times New Roman" size="+1">
 <br>
-<p> <a href="diarioCB0534Turma05_2023.1.pdf" target="_blank">Diário da Disciplina</a> </p>
+<p> <a href="diarioCB0534Turma09_2023.1.pdf" target="_blank">Diário da Disciplina</a> </p>
 <p> <a href="https://www.dropbox.com/sh/lvykdvrv6rfq878/AADrycUnT8vETGOQOFjVZkxOa?dl=0" target="_blank">Pasta da Disciplina no Dropbox</a> </p>
 <p> <a href="https://drive.google.com/drive/folders/1EEwxvIA68d7zyTIFeKWZImVt_VyeO-r-?usp=sharing" target="_blank">Pasta da Disciplina no Google Drive</a> </p>
 <p> <a href="https://groups.google.com/g/calculoprimeirocomp20231" target="_blank">Grupo da Disciplina no Google</a> </p>
@@ -88,6 +93,17 @@ Horário: Seg, Qua e Sex, 10h00 - 12h00
 
 </body>
 </html>
+@
+
+
+1.7
+log
+@.
+@
+text
+@d27 1
+a27 1
+<p> <a href="diarioCB0534Turma05_2023.1.pdf" target="_blank">Diário da Disciplina</a> </p>
 @
 
 
