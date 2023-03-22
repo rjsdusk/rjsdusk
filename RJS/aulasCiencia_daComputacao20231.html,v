@@ -1,4 +1,28 @@
-<html>
+head	1.1;
+access;
+symbols;
+locks
+	rjs:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2023.03.22.22.37.36;	author rjs;	state Exp;
+branches;
+next	;
+
+
+desc
+@.
+@
+
+
+1.1
+log
+@.
+@
+text
+@<html>
 <head>
   <title> Minha Página HTML: rjsdusk </title>
 </head>
@@ -16,7 +40,7 @@
       encontrada nos endereços dos vídeos.<br>
       Posso ter informado algum link errado.<br>
       Envie um e-mail informando o problema<br>
-      encontrado para rjsdusk@gmail.com.
+      encontrado para rjsdusk@@gmail.com.
     </font>
   </p>
 </h1>
@@ -51,3 +75,4 @@
 <p>Aula 02 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/r1oqck8WWvE" target="_blank">https://youtu.be/r1oqck8WWvE</a></p>
 </font>
+@
