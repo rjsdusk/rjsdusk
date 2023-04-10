@@ -1,10 +1,15 @@
-head	1.4;
+head	1.5;
 access;
 symbols;
 locks
-	rjs:1.4; strict;
+	rjs:1.5; strict;
 comment	@# @;
 
+
+1.5
+date	2023.04.10.16.38.12;	author rjs;	state Exp;
+branches;
+next	1.4;
 
 1.4
 date	2023.03.30.22.17.29;	author rjs;	state Exp;
@@ -32,7 +37,7 @@ desc
 @
 
 
-1.4
+1.5
 log
 @.
 @
@@ -76,61 +81,155 @@ text
 <p><a href="https://youtu.be/k3lxi9-P04U" target="_blank">https://youtu.be/k3lxi9-P04U</a></p>
 
 <br>
-<p>Aula 02 no YouTube!</p>
-<p>Aula 02 - Parte 01/05 - Matemática Industrial</p>
+<p>Continuação Aula 01 no YouTube!</p>
+<p>Continuação Aula 01 - Parte 01/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/xZYURKQDfrE" target="_blank">https://youtu.be/xZYURKQDfrE</a></p>
-<p>Aula 02 - Parte 02/05 - Matemática Industrial</p>
+<p>Continuação Aula 01 - Parte 02/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/H2nBIGJYzfU" target="_blank">https://youtu.be/H2nBIGJYzfU</a></p>
-<p>Aula 02 - Parte 03/05 - Matemática Industrial</p>
+<p>Continuação Aula 01 - Parte 03/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/wd3upCNZOFY" target="_blank">https://youtu.be/wd3upCNZOFY</a></p>
-<p>Aula 02 - Parte 04/05 - Matemática Industrial</p>
+<p>Continuação Aula 01 - Parte 04/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/3mHWhU4iGUE" target="_blank">https://youtu.be/3mHWhU4iGUE</a></p>
-<p>Aula 02 - Parte 05/05 - Matemática Industrial</p>
+<p>Continuação Aula 01 - Parte 05/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/Z_531YatP1c" target="_blank">https://youtu.be/Z_531YatP1c</a></p>
+
+<br>
+<p>Aula 02 no YouTube!</p>
+<p>Aula 02 - Parte 01/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/_tqQrmnedEw" target="_blank">https://youtu.be/_tqQrmnedEw</a></p>
+<p>Aula 02 - Parte 02/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/h_lynHwHTjo" target="_blank">https://youtu.be/h_lynHwHTjo</a></p>
+<p>Aula 02 - Parte 03/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/Fihi47ytu4c" target="_blank">https://youtu.be/Fihi47ytu4c</a></p>
+<p>Aula 02 - Parte 04/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/2yE_ghR4Skw" target="_blank">https://youtu.be/2yE_ghR4Skw</a></p>
+<p>Aula 02 - Parte 05/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/6KbNIW6aHF0" target="_blank">https://youtu.be/6KbNIW6aHF0</a></p>
+<p>Aula 02 - Parte 06/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/Fr9AAYjACzE" target="_blank">https://youtu.be/Fr9AAYjACzE</a></p>
+
+<br>
+<p>Continuação Aula 02 no YouTube!</p>
+<p>Continuação Aula 02 - Parte 01/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/CdmuuBK5Fuc" target="_blank">https://youtu.be/CdmuuBK5Fuc</a></p>
+<p>Continuação Aula 02 - Parte 02/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/zwoOgllYl2A" target="_blank">https://youtu.be/zwoOgllYl2A</a></p>
+<p>Continuação Aula 02 - Parte 03/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/fA6z4i2c5KQ" target="_blank">https://youtu.be/fA6z4i2c5KQ</a></p>
+<p>Continuação Aula 02 - Parte 04/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/NPn7Q5b8NgE" target="_blank">https://youtu.be/NPn7Q5b8NgE</a></p>
+<p>Continuação Aula 02 - Parte 05/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/tPps6XH_ZSE" target="_blank">https://youtu.be/tPps6XH_ZSE</a></p>
 
 <br>
 <p>Aula 03 no YouTube!</p>
 <p>Aula 03 - Parte 01/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/_tqQrmnedEw" target="_blank">https://youtu.be/_tqQrmnedEw</a></p>
+<p><a href="https://youtu.be/-O_xQ8Ilw0w" target="_blank">https://youtu.be/-O_xQ8Ilw0w</a></p>
 <p>Aula 03 - Parte 02/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/h_lynHwHTjo" target="_blank">https://youtu.be/h_lynHwHTjo</a></p>
+<p><a href="https://youtu.be/yXoGtwziz2k" target="_blank">https://youtu.be/yXoGtwziz2k</a></p>
 <p>Aula 03 - Parte 03/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/Fihi47ytu4c" target="_blank">https://youtu.be/Fihi47ytu4c</a></p>
+<p><a href="https://youtu.be/ZXiTm7wAuTk" target="_blank">https://youtu.be/ZXiTm7wAuTk</a></p>
 <p>Aula 03 - Parte 04/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/2yE_ghR4Skw" target="_blank">https://youtu.be/2yE_ghR4Skw</a></p>
+<p><a href="https://youtu.be/m_2J7rtAIhY" target="_blank">https://youtu.be/m_2J7rtAIhY</a></p>
 <p>Aula 03 - Parte 05/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/6KbNIW6aHF0" target="_blank">https://youtu.be/6KbNIW6aHF0</a></p>
+<p><a href="https://youtu.be/DQG1dok9V8Y" target="_blank">https://youtu.be/DQG1dok9V8Y</a></p>
 <p>Aula 03 - Parte 06/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/Fr9AAYjACzE" target="_blank">https://youtu.be/Fr9AAYjACzE</a></p>
+<p><a href="https://youtu.be/seWaIBBH_8c" target="_blank">https://youtu.be/seWaIBBH_8c</a></p>
 
 <br>
 <p>Aula 04 no YouTube!</p>
-<p>Aula 04 - Parte 01/05 - Matemática Industrial</p>
-<p><a href="https://youtu.be/CdmuuBK5Fuc" target="_blank">https://youtu.be/CdmuuBK5Fuc</a></p>
-<p>Aula 04 - Parte 02/05 - Matemática Industrial</p>
-<p><a href="https://youtu.be/zwoOgllYl2A" target="_blank">https://youtu.be/zwoOgllYl2A</a></p>
-<p>Aula 04 - Parte 03/05 - Matemática Industrial</p>
-<p><a href="https://youtu.be/fA6z4i2c5KQ" target="_blank">https://youtu.be/fA6z4i2c5KQ</a></p>
-<p>Aula 04 - Parte 04/05 - Matemática Industrial</p>
-<p><a href="https://youtu.be/NPn7Q5b8NgE" target="_blank">https://youtu.be/NPn7Q5b8NgE</a></p>
-<p>Aula 04 - Parte 05/05 - Matemática Industrial</p>
-<p><a href="https://youtu.be/tPps6XH_ZSE" target="_blank">https://youtu.be/tPps6XH_ZSE</a></p>
+<p>Aula 04 - Parte 01/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/XYVUsNEjSN0" target="_blank">https://youtu.be/XYVUsNEjSN0</a></p>
+<p>Aula 04 - Parte 02/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/A-m0FXPKsQk" target="_blank">https://youtu.be/A-m0FXPKsQk</a></p>
+<p>Aula 04 - Parte 03/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/gU15DLYbJko" target="_blank">https://youtu.be/gU15DLYbJko</a></p>
+<p>Aula 04 - Parte 04/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/VhNWgDYhv8c" target="_blank">https://youtu.be/VhNWgDYhv8c</a></p>
+<p>Aula 04 - Parte 05/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/_Fay9I38U_c" target="_blank">https://youtu.be/_Fay9I38U_c</a></p>
+<p>Aula 04 - Parte 06/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/MOWm8ITNY2s" target="_blank">https://youtu.be/MOWm8ITNY2s</a></p>
+</font>
+@
 
-<br>
+
+1.4
+log
+@.
+@
+text
+@d40 2
+a41 2
+<p>Aula 02 no YouTube!</p>
+<p>Aula 02 - Parte 01/05 - Matemática Industrial</p>
+d43 1
+a43 1
+<p>Aula 02 - Parte 02/05 - Matemática Industrial</p>
+d45 1
+a45 1
+<p>Aula 02 - Parte 03/05 - Matemática Industrial</p>
+d47 1
+a47 1
+<p>Aula 02 - Parte 04/05 - Matemática Industrial</p>
+d49 1
+a49 1
+<p>Aula 02 - Parte 05/05 - Matemática Industrial</p>
+d53 2
+a54 2
+<p>Aula 03 no YouTube!</p>
+<p>Aula 03 - Parte 01/06 - Matemática Industrial</p>
+d56 1
+a56 1
+<p>Aula 03 - Parte 02/06 - Matemática Industrial</p>
+d58 1
+a58 1
+<p>Aula 03 - Parte 03/06 - Matemática Industrial</p>
+d60 1
+a60 1
+<p>Aula 03 - Parte 04/06 - Matemática Industrial</p>
+d62 1
+a62 1
+<p>Aula 03 - Parte 05/06 - Matemática Industrial</p>
+d64 1
+a64 1
+<p>Aula 03 - Parte 06/06 - Matemática Industrial</p>
+d68 2
+a69 2
+<p>Aula 04 no YouTube!</p>
+<p>Aula 04 - Parte 01/05 - Matemática Industrial</p>
+d71 1
+a71 1
+<p>Aula 04 - Parte 02/05 - Matemática Industrial</p>
+d73 1
+a73 1
+<p>Aula 04 - Parte 03/05 - Matemática Industrial</p>
+d75 1
+a75 1
+<p>Aula 04 - Parte 04/05 - Matemática Industrial</p>
+d77 1
+a77 1
+<p>Aula 04 - Parte 05/05 - Matemática Industrial</p>
+d81 2
+a82 2
 <p>Aula 05 no YouTube!</p>
 <p>Aula 05 - Parte 01/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/-O_xQ8Ilw0w" target="_blank">https://youtu.be/-O_xQ8Ilw0w</a></p>
+d84 1
+a84 1
 <p>Aula 05 - Parte 02/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/yXoGtwziz2k" target="_blank">https://youtu.be/yXoGtwziz2k</a></p>
+d86 1
+a86 1
 <p>Aula 05 - Parte 03/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/ZXiTm7wAuTk" target="_blank">https://youtu.be/ZXiTm7wAuTk</a></p>
+d88 1
+a88 1
 <p>Aula 05 - Parte 04/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/m_2J7rtAIhY" target="_blank">https://youtu.be/m_2J7rtAIhY</a></p>
+d90 1
+a90 1
 <p>Aula 05 - Parte 05/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/DQG1dok9V8Y" target="_blank">https://youtu.be/DQG1dok9V8Y</a></p>
+d92 1
+a92 1
 <p>Aula 05 - Parte 06/06 - Matemática Industrial</p>
-<p><a href="https://youtu.be/seWaIBBH_8c" target="_blank">https://youtu.be/seWaIBBH_8c</a></p>
-</font>
+d94 15
 @
 
 
