@@ -1,10 +1,15 @@
-head	1.6;
+head	1.7;
 access;
 symbols;
 locks
-	rjs:1.6; strict;
+	rjs:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2023.04.13.22.24.21;	author rjs;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2023.04.11.20.41.09;	author rjs;	state Exp;
@@ -42,7 +47,7 @@ desc
 @
 
 
-1.6
+1.7
 log
 @.
 @
@@ -168,7 +173,31 @@ text
 <p><a href="https://youtu.be/Pcvq77G2zk8" target="_blank">https://youtu.be/Pcvq77G2zk8</a></p>
 <p>Aula 05 - Parte 05/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/HH4xlwLPo5c" target="_blank">https://youtu.be/HH4xlwLPo5c</a></p>
+
+<br>
+<p>Aula 06 no YouTube!</p>
+<p>Aula 06 - Parte 01/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/9Z2EKh_CSik" target="_blank">https://youtu.be/9Z2EKh_CSik</a></p>
+<p>Aula 06 - Parte 02/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/SpJu5eTmjhw" target="_blank">https://youtu.be/SpJu5eTmjhw</a></p>
+<p>Aula 06 - Parte 03/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/VJBu8IAWacA" target="_blank">https://youtu.be/VJBu8IAWacA</a></p>
+<p>Aula 06 - Parte 04/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/GFCD-8okcjo" target="_blank">https://youtu.be/GFCD-8okcjo</a></p>
+<p>Aula 06 - Parte 05/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/uSAsEMedCdI" target="_blank">https://youtu.be/uSAsEMedCdI</a></p>
+<p>Aula 06 - Parte 06/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/li-0P7flfek" target="_blank">https://youtu.be/li-0P7flfek</a></p>
 </font>
+@
+
+
+1.6
+log
+@.
+@
+text
+@d122 15
 @
 
 
