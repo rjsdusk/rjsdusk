@@ -1,10 +1,15 @@
-head	1.7;
+head	1.8;
 access;
 symbols;
 locks
-	rjs:1.7; strict;
+	rjs:1.8; strict;
 comment	@# @;
 
+
+1.8
+date	2023.04.16.11.35.25;	author rjs;	state Exp;
+branches;
+next	1.7;
 
 1.7
 date	2023.04.14.20.19.01;	author rjs;	state Exp;
@@ -47,7 +52,7 @@ desc
 @
 
 
-1.7
+1.8
 log
 @.
 @
@@ -220,7 +225,33 @@ text
 <p><a href="https://youtu.be/PQVmazyvbbI" target="_blank">https://youtu.be/PQVmazyvbbI</a></p>
 <p>Aula 10 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/b06aOW7KC1o" target="_blank">https://youtu.be/b06aOW7KC1o</a></p>
+
+<br>
+<p>Aula 11 no YouTube!</p>
+<p>Aula 11 - Parte 01/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/reW4YUn8SWc" target="_blank">https://youtu.be/reW4YUn8SWc</a></p>
+<p>Aula 11 - Parte 02/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/RyXrscemSj0" target="_blank">https://youtu.be/RyXrscemSj0</a></p>
+<p>Aula 11 - Parte 03/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/5DEQ57t6QqY" target="_blank">https://youtu.be/5DEQ57t6QqY</a></p>
+<p>Aula 11 - Parte 04/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/bzJ19MIKH8M" target="_blank">https://youtu.be/bzJ19MIKH8M</a></p>
+<p>Aula 11 - Parte 05/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/vpCFn05vjqs" target="_blank">https://youtu.be/vpCFn05vjqs</a></p>
+<p>Aula 11 - Parte 06/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/9kd4G1ENTjs" target="_blank">https://youtu.be/9kd4G1ENTjs</a></p>
+<p>Aula 11 - Parte 07/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/QYJJLrn-Idc" target="_blank">https://youtu.be/QYJJLrn-Idc</a></p>
 </font>
+@
+
+
+1.7
+log
+@.
+@
+text
+@d169 17
 @
 
 
