@@ -1,10 +1,15 @@
-head	1.8;
+head	1.9;
 access;
 symbols;
 locks
-	rjs:1.8; strict;
+	rjs:1.9; strict;
 comment	@# @;
 
+
+1.9
+date	2023.04.20.18.24.03;	author rjs;	state Exp;
+branches;
+next	1.8;
 
 1.8
 date	2023.04.18.17.24.32;	author rjs;	state Exp;
@@ -52,7 +57,7 @@ desc
 @
 
 
-1.8
+1.9
 log
 @.
 @
@@ -208,7 +213,29 @@ text
 <p><a href="https://youtu.be/IZGI1TrWzUI" target="_blank">https://youtu.be/IZGI1TrWzUI</a></p>
 <p>Aula 07 - Parte 06/06 - Matemática Industrial</p>
 <p><a href="https://youtu.be/2-gxZPM6nvs" target="_blank">https://youtu.be/2-gxZPM6nvs</a></p>
+
+<br>
+<p>Continuação Aula 07 no YouTube!</p>
+<p>Continuação Aula 07 - Parte 01/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/fKzm0v5cKGg" target="_blank">https://youtu.be/fKzm0v5cKGg</a></p>
+<p>Continuação Aula 07 - Parte 02/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/XXM3eZXCnZQ" target="_blank">https://youtu.be/XXM3eZXCnZQ</a></p>
+<p>Continuação Aula 07 - Parte 03/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/SGQjG3iEIJM" target="_blank">https://youtu.be/SGQjG3iEIJM</a></p>
+<p>Continuação Aula 07 - Parte 04/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/uvIPBaRLsVo" target="_blank">https://youtu.be/uvIPBaRLsVo</a></p>
+<p>Continuação Aula 07 - Parte 05/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/IEMMSQlovac" target="_blank">https://youtu.be/IEMMSQlovac</a></p>
 </font>
+@
+
+
+1.8
+log
+@.
+@
+text
+@d152 13
 @
 
 
