@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	rjs:1.10; strict;
+	rjs:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2023.04.25.19.47.14;	author rjs;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2023.04.19.18.51.59;	author rjs;	state Exp;
@@ -62,7 +67,7 @@ desc
 @
 
 
-1.10
+1.11
 log
 @.
 @
@@ -299,20 +304,62 @@ text
 <p><a href="https://youtu.be/1YFgog3B5dU" target="_blank">https://youtu.be/1YFgog3B5dU</a></p>
 
 <br>
+<p>Continuação Aula 13 no YouTube!</p>
+<p>Continuação Aula 13 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Dq-rl3KA098" target="_blank">https://youtu.be/Dq-rl3KA098</a></p>
+<p>Continuação Aula 13 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/6tm4OQ05nco" target="_blank">https://youtu.be/6tm4OQ05nco</a></p>
+<p>Continuação Aula 13 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/a3TZhOYuVoI" target="_blank">https://youtu.be/a3TZhOYuVoI</a></p>
+<p>Continuação Aula 13 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/tv95DxYbm9Y" target="_blank">https://youtu.be/tv95DxYbm9Y</a></p>
+<p>Continuação Aula 13 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/9McYJCSp7FQ" target="_blank">https://youtu.be/9McYJCSp7FQ</a></p>
+<p>Continuação Aula 13 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/58Obcl_dYOs" target="_blank">https://youtu.be/58Obcl_dYOs</a></p>
+
+<br>
 <p>Aula 14 no YouTube!</p>
 <p>Aula 14 - Parte 01/06 - Bacharelado em Matemática</p>
-<p><a href="https://youtu.be/Dq-rl3KA098" target="_blank">https://youtu.be/Dq-rl3KA098</a></p>
+<p><a href="https://youtu.be/7L3smNeBdCo" target="_blank">https://youtu.be/7L3smNeBdCo</a></p>
 <p>Aula 14 - Parte 02/06 - Bacharelado em Matemática</p>
-<p><a href="https://youtu.be/6tm4OQ05nco" target="_blank">https://youtu.be/6tm4OQ05nco</a></p>
+<p><a href="https://youtu.be/uS6NU1WddIY" target="_blank">https://youtu.be/uS6NU1WddIY</a></p>
 <p>Aula 14 - Parte 03/06 - Bacharelado em Matemática</p>
-<p><a href="https://youtu.be/a3TZhOYuVoI" target="_blank">https://youtu.be/a3TZhOYuVoI</a></p>
+<p><a href="https://youtu.be/kddJQNKutf8" target="_blank">https://youtu.be/kddJQNKutf8</a></p>
 <p>Aula 14 - Parte 04/06 - Bacharelado em Matemática</p>
-<p><a href="https://youtu.be/tv95DxYbm9Y" target="_blank">https://youtu.be/tv95DxYbm9Y</a></p>
+<p><a href="https://youtu.be/Shm7kWGoyQI" target="_blank">https://youtu.be/Shm7kWGoyQI</a></p>
 <p>Aula 14 - Parte 05/06 - Bacharelado em Matemática</p>
-<p><a href="https://youtu.be/9McYJCSp7FQ" target="_blank">https://youtu.be/9McYJCSp7FQ</a></p>
+<p><a href="https://youtu.be/nf-ILRqyfvg" target="_blank">https://youtu.be/nf-ILRqyfvg</a></p>
 <p>Aula 14 - Parte 06/06 - Bacharelado em Matemática</p>
-<p><a href="https://youtu.be/58Obcl_dYOs" target="_blank">https://youtu.be/58Obcl_dYOs</a></p>
+<p><a href="https://youtu.be/dPBo_1Mv-3E" target="_blank">https://youtu.be/dPBo_1Mv-3E</a></p>
 </font>
+@
+
+
+1.10
+log
+@.
+@
+text
+@d233 15
+d250 1
+a250 1
+<p><a href="https://youtu.be/Dq-rl3KA098" target="_blank">https://youtu.be/Dq-rl3KA098</a></p>
+d252 1
+a252 1
+<p><a href="https://youtu.be/6tm4OQ05nco" target="_blank">https://youtu.be/6tm4OQ05nco</a></p>
+d254 1
+a254 1
+<p><a href="https://youtu.be/a3TZhOYuVoI" target="_blank">https://youtu.be/a3TZhOYuVoI</a></p>
+d256 1
+a256 1
+<p><a href="https://youtu.be/tv95DxYbm9Y" target="_blank">https://youtu.be/tv95DxYbm9Y</a></p>
+d258 1
+a258 1
+<p><a href="https://youtu.be/9McYJCSp7FQ" target="_blank">https://youtu.be/9McYJCSp7FQ</a></p>
+d260 1
+a260 1
+<p><a href="https://youtu.be/58Obcl_dYOs" target="_blank">https://youtu.be/58Obcl_dYOs</a></p>
 @
 
 
