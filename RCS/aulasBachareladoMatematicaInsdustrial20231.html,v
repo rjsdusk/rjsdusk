@@ -1,10 +1,15 @@
-head	1.9;
+head	1.10;
 access;
 symbols;
 locks
-	rjs:1.9; strict;
+	rjs:1.10; strict;
 comment	@# @;
 
+
+1.10
+date	2023.04.26.19.49.46;	author rjs;	state Exp;
+branches;
+next	1.9;
 
 1.9
 date	2023.04.20.18.24.03;	author rjs;	state Exp;
@@ -57,7 +62,7 @@ desc
 @
 
 
-1.9
+1.10
 log
 @.
 @
@@ -226,7 +231,29 @@ text
 <p><a href="https://youtu.be/uvIPBaRLsVo" target="_blank">https://youtu.be/uvIPBaRLsVo</a></p>
 <p>Continuação Aula 07 - Parte 05/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/IEMMSQlovac" target="_blank">https://youtu.be/IEMMSQlovac</a></p>
+
+<br>
+<p>Aula 08 no YouTube!</p>
+<p>Aula 08 - Parte 01/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/gqNUkrsD-7c" target="_blank">https://youtu.be/gqNUkrsD-7c</a></p>
+<p>Aula 08 - Parte 02/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/EU3bZkYsV30" target="_blank">https://youtu.be/EU3bZkYsV30</a></p>
+<p>Aula 08 - Parte 03/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/pvUj-2N8dqE" target="_blank">https://youtu.be/pvUj-2N8dqE</a></p>
+<p>Aula 08 - Parte 04/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/zFqzLW7VG2k" target="_blank">https://youtu.be/zFqzLW7VG2k</a></p>
+<p>Aula 08 - Parte 05/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/6i2qNSdYCcI" target="_blank">https://youtu.be/6i2qNSdYCcI</a></p>
 </font>
+@
+
+
+1.9
+log
+@.
+@
+text
+@d165 13
 @
 
 
