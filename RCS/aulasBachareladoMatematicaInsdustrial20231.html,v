@@ -1,10 +1,15 @@
-head	1.14;
+head	1.15;
 access;
 symbols;
 locks
-	rjs:1.14; strict;
+	rjs:1.15; strict;
 comment	@# @;
 
+
+1.15
+date	2023.05.18.21.25.08;	author rjs;	state Exp;
+branches;
+next	1.14;
 
 1.14
 date	2023.05.17.21.23.59;	author rjs;	state Exp;
@@ -82,7 +87,7 @@ desc
 @
 
 
-1.14
+1.15
 log
 @.
 @
@@ -316,7 +321,31 @@ text
 <p><a href="https://youtu.be/T6j5V1ZwA9A" target="_blank">https://youtu.be/T6j5V1ZwA9A</a></p>
 <p>Aula 11 - Parte 06/06 - Matemática Industrial</p>
 <p><a href="https://youtu.be/abje1ufrMl0" target="_blank">https://youtu.be/abje1ufrMl0</a></p>
+
+<br>
+<p>Continuação Aula 11 no YouTube!</p>
+<p>Continuação Aula 11 - Parte 01/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/BB4mOuxk19Y" target="_blank">https://youtu.be/BB4mOuxk19Y</a></p>
+<p>Continuação Aula 11 - Parte 02/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/BB4mOuxk19Y" target="_blank">https://youtu.be/BB4mOuxk19Y</a></p>
+<p>Continuação Aula 11 - Parte 03/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/B8u8ohg1DSQ" target="_blank">https://youtu.be/B8u8ohg1DSQ</a></p>
+<p>Continuação Aula 11 - Parte 04/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/GefNOZnVQXo" target="_blank">https://youtu.be/GefNOZnVQXo</a></p>
+<p>Continuação Aula 11 - Parte 05/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/Zou529QrBmc" target="_blank">https://youtu.be/Zou529QrBmc</a></p>
+<p>Continuação Aula 11 - Parte 06/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/lz54wtA1Eyw" target="_blank">https://youtu.be/lz54wtA1Eyw</a></p>
 </font>
+@
+
+
+1.14
+log
+@.
+@
+text
+@d230 15
 @
 
 
