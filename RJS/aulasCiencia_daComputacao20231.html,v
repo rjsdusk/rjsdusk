@@ -1,10 +1,15 @@
-head	1.18;
+head	1.19;
 access;
 symbols;
 locks
-	rjs:1.18; strict;
+	rjs:1.19; strict;
 comment	@# @;
 
+
+1.19
+date	2023.05.21.23.53.31;	author rjs;	state Exp;
+branches;
+next	1.18;
 
 1.18
 date	2023.05.19.22.14.03;	author rjs;	state Exp;
@@ -102,7 +107,7 @@ desc
 @
 
 
-1.18
+1.19
 log
 @.
 @
@@ -472,7 +477,31 @@ text
 <p><a href="https://youtu.be/OQrvj5kD1VE" target="_blank">https://youtu.be/OQrvj5kD1VE</a></p>
 <p>Aula 21 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/dmSuBacEzMI" target="_blank">https://youtu.be/dmSuBacEzMI</a></p>
+
+<br>
+<p>Exercício 01 no YouTube!</p>
+<p>Exercício 01 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/d5yKeXy4xs8" target="_blank">https://youtu.be/d5yKeXy4xs8</a></p>
+<p>Exercício 01 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/FhKROIX7hyk" target="_blank">https://youtu.be/FhKROIX7hyk</a></p>
+<p>Exercício 01 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/4g9tZsthFqI" target="_blank">https://youtu.be/4g9tZsthFqI</a></p>
+<p>Exercício 01 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/2rDhOaLRdi4" target="_blank">https://youtu.be/2rDhOaLRdi4</a></p>
+<p>Exercício 01 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/_cdC_48imsY" target="_blank">https://youtu.be/_cdC_48imsY</a></p>
+<p>Exercício 01 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/WFMJiXYA7AA" target="_blank">https://youtu.be/WFMJiXYA7AA</a></p>
 </font>
+@
+
+
+1.18
+log
+@.
+@
+text
+@d366 15
 @
 
 

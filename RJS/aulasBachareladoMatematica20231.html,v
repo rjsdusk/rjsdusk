@@ -1,10 +1,15 @@
-head	1.17;
+head	1.18;
 access;
 symbols;
 locks
-	rjs:1.17; strict;
+	rjs:1.18; strict;
 comment	@# @;
 
+
+1.18
+date	2023.05.21.23.53.29;	author rjs;	state Exp;
+branches;
+next	1.17;
 
 1.17
 date	2023.05.19.22.14.01;	author rjs;	state Exp;
@@ -97,7 +102,7 @@ desc
 @
 
 
-1.17
+1.18
 log
 @.
 @
@@ -484,7 +489,31 @@ text
 <p><a href="https://youtu.be/v_YFF3cUNvc" target="_blank">https://youtu.be/v_YFF3cUNvc</a></p>
 <p>Aula 21 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/-eKJO2BdBPo" target="_blank">https://youtu.be/-eKJO2BdBPo</a></p>
+
+<br>
+<p>Exercício 01 no YouTube!</p>
+<p>Exercício 01 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/42UyBW-qv6Y" target="_blank">https://youtu.be/42UyBW-qv6Y</a></p>
+<p>Exercício 01 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/zssKBgnzWNg" target="_blank">https://youtu.be/zssKBgnzWNg</a></p>
+<p>Exercício 01 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/ze-4rMvNjrQ" target="_blank">https://youtu.be/ze-4rMvNjrQ</a></p>
+<p>Exercício 01 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/2x1TRmJMppc" target="_blank">https://youtu.be/2x1TRmJMppc</a></p>
+<p>Exercício 01 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/gf1xYD3W9Kg" target="_blank">https://youtu.be/gf1xYD3W9Kg</a></p>
+<p>Exercício 01 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/pn33nQq4SLo" target="_blank">https://youtu.be/pn33nQq4SLo</a></p>
 </font>
+@
+
+
+1.17
+log
+@.
+@
+text
+@d383 15
 @
 
 
