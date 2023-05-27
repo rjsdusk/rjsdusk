@@ -1,10 +1,15 @@
-head	1.20;
+head	1.21;
 access;
 symbols;
 locks
-	rjs:1.20; strict;
+	rjs:1.21; strict;
 comment	@# @;
 
+
+1.21
+date	2023.05.27.21.35.15;	author rjs;	state Exp;
+branches;
+next	1.20;
 
 1.20
 date	2023.05.24.22.26.52;	author rjs;	state Exp;
@@ -112,7 +117,7 @@ desc
 @
 
 
-1.20
+1.21
 log
 @.
 @
@@ -544,7 +549,31 @@ text
 <p><a href="https://youtu.be/1Rh5k1wTBrQ" target="_blank">https://youtu.be/1Rh5k1wTBrQ</a></p>
 <p>Aula 23 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/qLC-JWpHkN4" target="_blank">https://youtu.be/qLC-JWpHkN4</a></p>
+
+<br>
+<p>Aula 24 no YouTube!</p>
+<p>Aula 24 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/6PZj3NQcBlA" target="_blank">https://youtu.be/6PZj3NQcBlA</a></p>
+<p>Aula 24 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/xtxE26Q40RA" target="_blank">https://youtu.be/xtxE26Q40RA</a></p>
+<p>Aula 24 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/uPLle40K57Q" target="_blank">https://youtu.be/uPLle40K57Q</a></p>
+<p>Aula 24 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/4uKfGiqAqR4" target="_blank">https://youtu.be/4uKfGiqAqR4</a></p>
+<p>Aula 24 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/YCMhLELX-1o" target="_blank">https://youtu.be/YCMhLELX-1o</a></p>
+<p>Aula 24 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/SgvCm_87-w0" target="_blank">https://youtu.be/SgvCm_87-w0</a></p>
 </font>
+@
+
+
+1.20
+log
+@.
+@
+text
+@d428 15
 @
 
 
