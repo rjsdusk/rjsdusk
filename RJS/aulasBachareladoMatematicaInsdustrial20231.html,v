@@ -1,10 +1,15 @@
-head	1.17;
+head	1.18;
 access;
 symbols;
 locks
-	rjs:1.17; strict;
+	rjs:1.18; strict;
 comment	@# @;
 
+
+1.18
+date	2023.06.01.23.27.34;	author rjs;	state Exp;
+branches;
+next	1.17;
 
 1.17
 date	2023.05.25.22.29.16;	author rjs;	state Exp;
@@ -97,7 +102,7 @@ desc
 @
 
 
-1.17
+1.18
 log
 @.
 @
@@ -376,7 +381,31 @@ text
 <p><a href="https://youtu.be/ZB1txkVwMrA" target="_blank">https://youtu.be/ZB1txkVwMrA</a></p>
 <p>Continuação Aula 12 - Parte 06/06 - Matemática Industrial</p>
 <p><a href="https://youtu.be/1N0fqBxLlUI" target="_blank">https://youtu.be/1N0fqBxLlUI</a></p>
+
+<br>
+<p>Finalização Aula 12 no YouTube!</p>
+<p>Finalização Aula 12 - Parte 01/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/Z3d5DUbJm4E" target="_blank">https://youtu.be/Z3d5DUbJm4E</a></p>
+<p>Finalização Aula 12 - Parte 02/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/XCX8hl2E-V0" target="_blank">https://youtu.be/XCX8hl2E-V0</a></p>
+<p>Finalização Aula 12 - Parte 03/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/-qKHajRrgkQ" target="_blank">https://youtu.be/-qKHajRrgkQ</a></p>
+<p>Finalização Aula 12 - Parte 04/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/vBY2NQyG0rQ" target="_blank">https://youtu.be/vBY2NQyG0rQ</a></p>
+<p>Finalização Aula 12 - Parte 05/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/P4ocVps4qkc" target="_blank">https://youtu.be/P4ocVps4qkc</a></p>
+<p>Finalização Aula 12 - Parte 06/06 - Matemática Industrial</p>
+<p><a href="https://youtu.be/-GRXop2jv-E" target="_blank">https://youtu.be/-GRXop2jv-E</a></p>
 </font>
+@
+
+
+1.17
+log
+@.
+@
+text
+@d275 15
 @
 
 
