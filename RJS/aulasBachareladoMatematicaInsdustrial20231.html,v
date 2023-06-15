@@ -1,10 +1,15 @@
-head	1.19;
+head	1.20;
 access;
 symbols;
 locks
-	rjs:1.19; strict;
+	rjs:1.20; strict;
 comment	@# @;
 
+
+1.20
+date	2023.06.15.21.58.31;	author rjs;	state Exp;
+branches;
+next	1.19;
 
 1.19
 date	2023.06.15.01.48.26;	author rjs;	state Exp;
@@ -107,35 +112,12 @@ desc
 @
 
 
-1.19
+1.20
 log
 @.
 @
 text
-@<html>
-<head>
-  <title> Minha Página HTML: rjsdusk </title>
-</head>
-<body>
-
-<style type="text/css">
-  body { margin-left: 5%; margin-right: 5%;
-       margin-top: 5%; margin-bottom: 5%;}
-</style>
-
-<h1>
-  <p>
-    <font face="Lucida Bright, Times New Roman">
-      Favor informar qualquer inconsistência<br>
-      encontrada nos endereços dos vídeos.<br>
-      Posso ter informado algum link errado.<br>
-      Envie um e-mail informando o problema<br>
-      encontrado para rjsdusk@@gmail.com.
-    </font>
-  </p>
-</h1>
-
-<font face="Lucida Bright, Times New Roman" size="+1">
+@<font face="Lucida Bright, Times New Roman" size="+1">
 
 <br>
 <p>Aula 01 no YouTube!</p>
@@ -429,7 +411,53 @@ text
 <p><a href="https://youtu.be/G3ifUkTl694" target="_blank">https://youtu.be/G3ifUkTl694</a></p>
 <p>Aula 14 - Parte 06/06 - Matemática Industrial</p>
 <p><a href="https://youtu.be/blSUrik0jI8" target="_blank">https://youtu.be/blSUrik0jI8</a></p>
+
+<br>
+<p>Aula 15 no YouTube!</p>
+<p>Aula 15 - Parte 01/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/6POKk9c0JjA" target="_blank">https://youtu.be/6POKk9c0JjA</a></p>
+<p>Aula 15 - Parte 02/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/wTCuY5HTfGA" target="_blank">https://youtu.be/wTCuY5HTfGA</a></p>
+<p>Aula 15 - Parte 03/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/_KBdjOdUMwI" target="_blank">https://youtu.be/_KBdjOdUMwI</a></p>
+<p>Aula 15 - Parte 04/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/Jpcc8HnhIT8" target="_blank">https://youtu.be/Jpcc8HnhIT8</a></p>
+<p>Aula 15 - Parte 05/05 - Matemática Industrial</p>
+<p><a href="https://youtu.be/jYRz-ZGLbd8" target="_blank">https://youtu.be/jYRz-ZGLbd8</a></p>
 </font>
+@
+
+
+1.19
+log
+@.
+@
+text
+@a0 23
+<html>
+<head>
+  <title> Minha Página HTML: rjsdusk </title>
+</head>
+<body>
+
+<style type="text/css">
+  body { margin-left: 5%; margin-right: 5%;
+       margin-top: 5%; margin-bottom: 5%;}
+</style>
+
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+      Favor informar qualquer inconsistência<br>
+      encontrada nos endereços dos vídeos.<br>
+      Posso ter informado algum link errado.<br>
+      Envie um e-mail informando o problema<br>
+      encontrado para rjsdusk@@gmail.com.
+    </font>
+  </p>
+</h1>
+
+d295 13
 @
 
 
