@@ -1,10 +1,15 @@
-head	1.20;
+head	1.21;
 access;
 symbols;
 locks
-	rjs:1.20; strict;
+	rjs:1.21; strict;
 comment	@# @;
 
+
+1.21
+date	2023.06.17.01.31.47;	author rjs;	state Exp;
+branches;
+next	1.20;
 
 1.20
 date	2023.06.15.21.58.31;	author rjs;	state Exp;
@@ -112,7 +117,7 @@ desc
 @
 
 
-1.20
+1.21
 log
 @.
 @
@@ -413,18 +418,42 @@ text
 <p><a href="https://youtu.be/blSUrik0jI8" target="_blank">https://youtu.be/blSUrik0jI8</a></p>
 
 <br>
-<p>Aula 15 no YouTube!</p>
-<p>Aula 15 - Parte 01/05 - Matemática Industrial</p>
+<p>Finalização Aula 14 no YouTube!</p>
+<p>Finalização Aula 14 - Parte 01/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/6POKk9c0JjA" target="_blank">https://youtu.be/6POKk9c0JjA</a></p>
-<p>Aula 15 - Parte 02/05 - Matemática Industrial</p>
+<p>Finalização Aula 14 - Parte 02/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/wTCuY5HTfGA" target="_blank">https://youtu.be/wTCuY5HTfGA</a></p>
-<p>Aula 15 - Parte 03/05 - Matemática Industrial</p>
+<p>Finalização Aula 14 - Parte 03/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/_KBdjOdUMwI" target="_blank">https://youtu.be/_KBdjOdUMwI</a></p>
-<p>Aula 15 - Parte 04/05 - Matemática Industrial</p>
+<p>Finalização Aula 14 - Parte 04/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/Jpcc8HnhIT8" target="_blank">https://youtu.be/Jpcc8HnhIT8</a></p>
-<p>Aula 15 - Parte 05/05 - Matemática Industrial</p>
+<p>Finalização Aula 14 - Parte 05/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/jYRz-ZGLbd8" target="_blank">https://youtu.be/jYRz-ZGLbd8</a></p>
 </font>
+@
+
+
+1.20
+log
+@.
+@
+text
+@d297 2
+a298 2
+<p>Aula 15 no YouTube!</p>
+<p>Aula 15 - Parte 01/05 - Matemática Industrial</p>
+d300 1
+a300 1
+<p>Aula 15 - Parte 02/05 - Matemática Industrial</p>
+d302 1
+a302 1
+<p>Aula 15 - Parte 03/05 - Matemática Industrial</p>
+d304 1
+a304 1
+<p>Aula 15 - Parte 04/05 - Matemática Industrial</p>
+d306 1
+a306 1
+<p>Aula 15 - Parte 05/05 - Matemática Industrial</p>
 @
 
 
