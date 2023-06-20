@@ -1,10 +1,15 @@
-head	1.21;
+head	1.22;
 access;
 symbols;
 locks
-	rjs:1.21; strict;
+	rjs:1.22; strict;
 comment	@# @;
 
+
+1.22
+date	2023.06.20.07.23.00;	author rjs;	state Exp;
+branches;
+next	1.21;
 
 1.21
 date	2023.06.17.01.31.47;	author rjs;	state Exp;
@@ -117,7 +122,7 @@ desc
 @
 
 
-1.21
+1.22
 log
 @.
 @
@@ -429,7 +434,27 @@ text
 <p><a href="https://youtu.be/Jpcc8HnhIT8" target="_blank">https://youtu.be/Jpcc8HnhIT8</a></p>
 <p>Finalização Aula 14 - Parte 05/05 - Matemática Industrial</p>
 <p><a href="https://youtu.be/jYRz-ZGLbd8" target="_blank">https://youtu.be/jYRz-ZGLbd8</a></p>
+
+<br>
+<p>Aula 15 no YouTube!</p>
+<p>Aula 15 - Parte 01/04 - Matemática Industrial</p>
+<p><a href="https://youtu.be/rQYnVH1X91I" target="_blank">https://youtu.be/rQYnVH1X91I</a></p>
+<p>Aula 15 - Parte 02/04 - Matemática Industrial</p>
+<p><a href="https://youtu.be/YAmGk-dV1D0" target="_blank">https://youtu.be/YAmGk-dV1D0</a></p>
+<p>Aula 15 - Parte 03/04 - Matemática Industrial</p>
+<p><a href="https://youtu.be/yWNT1pxtLZM" target="_blank">https://youtu.be/yWNT1pxtLZM</a></p>
+<p>Aula 15 - Parte 04/04 - Matemática Industrial</p>
+<p><a href="https://youtu.be/nZT9hjZAM9o" target="_blank">https://youtu.be/nZT9hjZAM9o</a></p>
 </font>
+@
+
+
+1.21
+log
+@.
+@
+text
+@d308 11
 @
 
 
