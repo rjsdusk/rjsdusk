@@ -1,10 +1,15 @@
-head	1.32;
+head	1.33;
 access;
 symbols;
 locks
-	rjs:1.32; strict;
+	rjs:1.33; strict;
 comment	@# @;
 
+
+1.33
+date	2023.06.24.22.34.42;	author rjs;	state Exp;
+branches;
+next	1.32;
 
 1.32
 date	2023.06.23.23.30.45;	author rjs;	state Exp;
@@ -172,7 +177,7 @@ desc
 @
 
 
-1.32
+1.33
 log
 @.
 @
@@ -1201,7 +1206,31 @@ text
 <p><a href="https://youtu.be/iNt08eDm4XM" target="_blank">https://youtu.be/iNt08eDm4XM</a></p>
 <p>Aula 35 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/hgVB7IBVw54" target="_blank">https://youtu.be/hgVB7IBVw54</a></p>
+
+<br>
+<p>Aula 36 no YouTube!</p>
+<p>Aula 36 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/aPBtU31ncoM" target="_blank">https://youtu.be/aPBtU31ncoM</a></p>
+<p>Aula 36 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/YzXMUF390io" target="_blank">https://youtu.be/YzXMUF390io</a></p>
+<p>Aula 36 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/eyVRoD2GdQg" target="_blank">https://youtu.be/eyVRoD2GdQg</a></p>
+<p>Aula 36 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/5wlqBYn-fE4" target="_blank">https://youtu.be/5wlqBYn-fE4</a></p>
+<p>Aula 36 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/lY9gs9HM9jM" target="_blank">https://youtu.be/lY9gs9HM9jM</a></p>
+<p>Aula 36 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/U8dVqvEkHp0" target="_blank">https://youtu.be/U8dVqvEkHp0</a></p>
 </font>
+@
+
+
+1.32
+log
+@.
+@
+text
+@d1025 15
 @
 
 

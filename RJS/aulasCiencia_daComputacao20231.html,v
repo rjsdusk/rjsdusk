@@ -1,10 +1,15 @@
-head	1.33;
+head	1.34;
 access;
 symbols;
 locks
-	rjs:1.33; strict;
+	rjs:1.34; strict;
 comment	@# @;
 
+
+1.34
+date	2023.06.24.22.34.43;	author rjs;	state Exp;
+branches;
+next	1.33;
 
 1.33
 date	2023.06.23.23.30.46;	author rjs;	state Exp;
@@ -177,7 +182,7 @@ desc
 @
 
 
-1.33
+1.34
 log
 @.
 @
@@ -1281,7 +1286,31 @@ text
 <p><a href="https://youtu.be/hnnreC28prw" target="_blank">https://youtu.be/hnnreC28prw</a></p>
 <p>Aula 35 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/vRz_Y_e5yc8" target="_blank">https://youtu.be/vRz_Y_e5yc8</a></p>
+
+<br>
+<p>Aula 36 no YouTube!</p>
+<p>Aula 36 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/y_GcCUnZxco" target="_blank">https://youtu.be/y_GcCUnZxco</a></p>
+<p>Aula 36 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/_VF4eDStVjs" target="_blank">https://youtu.be/_VF4eDStVjs</a></p>
+<p>Aula 36 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/TmeomDokjcQ" target="_blank">https://youtu.be/TmeomDokjcQ</a></p>
+<p>Aula 36 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/06s8oRjfpjw" target="_blank">https://youtu.be/06s8oRjfpjw</a></p>
+<p>Aula 36 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/DgOcfVlhl8M" target="_blank">https://youtu.be/DgOcfVlhl8M</a></p>
+<p>Aula 36 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ogWfHwUQaO0" target="_blank">https://youtu.be/ogWfHwUQaO0</a></p>
 </font>
+@
+
+
+1.33
+log
+@.
+@
+text
+@d1100 15
 @
 
 
