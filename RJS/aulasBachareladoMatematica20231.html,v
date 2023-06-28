@@ -1,10 +1,15 @@
-head	1.34;
+head	1.35;
 access;
 symbols;
 locks
-	rjs:1.34; strict;
+	rjs:1.35; strict;
 comment	@# @;
 
+
+1.35
+date	2023.06.28.19.56.58;	author rjs;	state Exp;
+branches;
+next	1.34;
 
 1.34
 date	2023.06.26.23.57.23;	author rjs;	state Exp;
@@ -182,7 +187,7 @@ desc
 @
 
 
-1.34
+1.35
 log
 @.
 @
@@ -1239,7 +1244,31 @@ text
 <p><a href="https://youtu.be/pl8Q3pbjMIE" target="_blank">https://youtu.be/pl8Q3pbjMIE</a></p>
 <p>Aula 37 - Parte 05/05 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/f78HswPMgMo" target="_blank">https://youtu.be/f78HswPMgMo</a></p>
+
+<br>
+<p>Aula 38 no YouTube!</p>
+<p>Aula 38 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/loBEmaGE8c4" target="_blank">https://youtu.be/loBEmaGE8c4</a></p>
+<p>Aula 38 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/DkwhB9lhxTg" target="_blank">https://youtu.be/DkwhB9lhxTg</a></p>
+<p>Aula 38 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/iyKH0v_X6Qs" target="_blank">https://youtu.be/iyKH0v_X6Qs</a></p>
+<p>Aula 38 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/clewcea-ang" target="_blank">https://youtu.be/clewcea-ang</a></p>
+<p>Aula 38 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/O5o2EKZmsKQ" target="_blank">https://youtu.be/O5o2EKZmsKQ</a></p>
+<p>Aula 38 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Xp49ebQwHZ8" target="_blank">https://youtu.be/Xp49ebQwHZ8</a></p>
 </font>
+@
+
+
+1.34
+log
+@.
+@
+text
+@d1053 15
 @
 
 
