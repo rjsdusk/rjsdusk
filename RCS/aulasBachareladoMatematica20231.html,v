@@ -1,10 +1,15 @@
-head	1.35;
+head	1.36;
 access;
 symbols;
 locks
-	rjs:1.35; strict;
+	rjs:1.36; strict;
 comment	@# @;
 
+
+1.36
+date	2023.07.03.18.13.11;	author rjs;	state Exp;
+branches;
+next	1.35;
 
 1.35
 date	2023.06.28.19.56.58;	author rjs;	state Exp;
@@ -187,7 +192,7 @@ desc
 @
 
 
-1.35
+1.36
 log
 @.
 @
@@ -1259,7 +1264,46 @@ text
 <p><a href="https://youtu.be/O5o2EKZmsKQ" target="_blank">https://youtu.be/O5o2EKZmsKQ</a></p>
 <p>Aula 38 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/Xp49ebQwHZ8" target="_blank">https://youtu.be/Xp49ebQwHZ8</a></p>
+
+<br>
+<p>Aula 39 no YouTube!</p>
+<p>Aula 39 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/2Qu1ZkFO-M4" target="_blank">https://youtu.be/2Qu1ZkFO-M4</a></p>
+<p>Aula 39 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/JqZNJ64fxwo" target="_blank">https://youtu.be/JqZNJ64fxwo</a></p>
+<p>Aula 39 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/dGXn1RUSrs0" target="_blank">https://youtu.be/dGXn1RUSrs0</a></p>
+<p>Aula 39 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/eMmKR8VBUJg" target="_blank">https://youtu.be/eMmKR8VBUJg</a></p>
+<p>Aula 39 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/xRRQ6jE9m7o" target="_blank">https://youtu.be/xRRQ6jE9m7o</a></p>
+<p>Aula 39 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/c_jlQXXGCGk" target="_blank">https://youtu.be/c_jlQXXGCGk</a></p>
+
+<br>
+<p>Aula 40 no YouTube!</p>
+<p>Aula 40 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/If12nY8sJ0g" target="_blank">https://youtu.be/If12nY8sJ0g</a></p>
+<p>Aula 40 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/gtaA9U3uZtc" target="_blank">https://youtu.be/gtaA9U3uZtc</a></p>
+<p>Aula 40 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Q7w_3g6DV0g" target="_blank">https://youtu.be/Q7w_3g6DV0g</a></p>
+<p>Aula 40 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Xw9VnsALb4o" target="_blank">https://youtu.be/Xw9VnsALb4o</a></p>
+<p>Aula 40 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/qJXTTvVjomQ" target="_blank">https://youtu.be/qJXTTvVjomQ</a></p>
+<p>Aula 40 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/4iWbSSpzkn4" target="_blank">https://youtu.be/4iWbSSpzkn4</a></p>
 </font>
+@
+
+
+1.35
+log
+@.
+@
+text
+@d1068 30
 @
 
 
