@@ -1,10 +1,15 @@
-head	1.21;
+head	1.22;
 access;
 symbols;
 locks
-	rjs:1.21; strict;
+	rjs:1.22; strict;
 comment	@# @;
 
+
+1.22
+date	2023.08.12.13.42.18;	author rjs;	state Exp;
+branches;
+next	1.21;
 
 1.21
 date	2023.03.14.10.44.19;	author rjs;	state Exp;
@@ -117,9 +122,9 @@ desc
 @
 
 
-1.21
+1.22
 log
-@*** empty log message ***
+@.
 @
 text
 @<html>
@@ -166,7 +171,10 @@ text
     <p> <a href="https://www.obm.org.br/" target="_blank">Página da OBM</a> </p>
     <p> <a href="https://www.obm.org.br/2023/02/14/veja-o-calendario-de-testes-de-selecao-para-as-competicoes-internacionais-de-2023/" target="_blank">Calendário de Testes de Seleção para Competições Internacionais em 2023</a> </p>
 
-    <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionarei no primeiro semestre de 2023. </h3>
+    <h3> Disciplinas, do Departamento de Matemática da UFC, que leciono no segundo semestre de 2023. </h3>
+    <p><a href="./calculo2fisi.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 04 - Bacharelado em Física</a></p>
+    <p><a href="./calculo2comp.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 03 - Ciência da Computação</a></p>
+    <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionei no primeiro semestre de 2023. </h3>
     <p><a href="./calculo1mate.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 05 - Bacharelado em Matemática</a></p>
     <p><a href="./calculo1comp.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 09 - Ciência da Computação</a></p>
     <p><a href="./seriesedo.html" target="_blank">CB0591 - Séries de Funções e Equações Diferenciais Ordinárias - Turma 1</a></p>
@@ -207,6 +215,17 @@ text
 </body>
 </html>
 
+@
+
+
+1.21
+log
+@*** empty log message ***
+@
+text
+@d45 4
+a48 1
+    <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionarei no primeiro semestre de 2023. </h3>
 @
 
 
