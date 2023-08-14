@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2023.08.14.20.40.26;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2023.08.12.13.42.15;	author rjs;	state Exp;
@@ -17,7 +22,7 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
@@ -59,5 +64,27 @@ text
 <p><a href="https://youtu.be/2Sp3ijeXvrs" target="_blank">https://youtu.be/2Sp3ijeXvrs</a></p>
 <p>Aula 01 - Parte 05/05 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/-1qfrP5h8nQ" target="_blank">https://youtu.be/-1qfrP5h8nQ</a></p>
+
+<br>
+<p>Aula 02 no YouTube!</p>
+<p>Aula 02 - Parte 01/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/YukUsa4Gbq4" target="_blank">https://youtu.be/YukUsa4Gbq4</a></p>
+<p>Aula 02 - Parte 02/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/eoPSTYCwIAo" target="_blank">https://youtu.be/eoPSTYCwIAo</a></p>
+<p>Aula 02 - Parte 03/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/_oWwoTmClEw" target="_blank">https://youtu.be/_oWwoTmClEw</a></p>
+<p>Aula 02 - Parte 04/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/X3dSnKV-B4A" target="_blank">https://youtu.be/X3dSnKV-B4A</a></p>
+<p>Aula 02 - Parte 05/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/M7K8i0wESXk" target="_blank">https://youtu.be/M7K8i0wESXk</a></p>
 </font>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d38 13
 @
