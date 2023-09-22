@@ -1,10 +1,15 @@
-head	1.16;
+head	1.17;
 access;
 symbols;
 locks
-	rjs:1.16; strict;
+	rjs:1.17; strict;
 comment	@# @;
 
+
+1.17
+date	2023.09.22.17.46.02;	author rjs;	state Exp;
+branches;
+next	1.16;
 
 1.16
 date	2023.09.20.19.27.03;	author rjs;	state Exp;
@@ -92,7 +97,7 @@ desc
 @
 
 
-1.16
+1.17
 log
 @.
 @
@@ -351,7 +356,31 @@ text
 <p><a href="https://youtu.be/bW_gl8QXS68" target="_blank">https://youtu.be/bW_gl8QXS68</a></p>
 <p>Aula 16 - Parte 06/06 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/8h3hSbLk4-8" target="_blank">https://youtu.be/8h3hSbLk4-8</a></p>
+
+<br>
+<p>Aula 17 no YouTube!</p>
+<p>Aula 17 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/rConnNLr0aw" target="_blank">https://youtu.be/rConnNLr0aw</a></p>
+<p>Aula 17 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/J1xKKTZmHVU" target="_blank">https://youtu.be/J1xKKTZmHVU</a></p>
+<p>Aula 17 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/tWoWFXG0VNA" target="_blank">https://youtu.be/tWoWFXG0VNA</a></p>
+<p>Aula 17 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/nWdLH0n_oc0" target="_blank">https://youtu.be/nWdLH0n_oc0</a></p>
+<p>Aula 17 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/aLIKbqx5KRY" target="_blank">https://youtu.be/aLIKbqx5KRY</a></p>
+<p>Aula 17 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/qxcMUkwSBSI" target="_blank">https://youtu.be/qxcMUkwSBSI</a></p>
 </font>
+@
+
+
+1.16
+log
+@.
+@
+text
+@d255 15
 @
 
 
