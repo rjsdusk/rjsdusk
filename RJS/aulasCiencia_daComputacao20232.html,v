@@ -1,10 +1,15 @@
-head	1.17;
+head	1.18;
 access;
 symbols;
 locks
-	rjs:1.17; strict;
+	rjs:1.18; strict;
 comment	@# @;
 
+
+1.18
+date	2023.09.29.16.52.55;	author rjs;	state Exp;
+branches;
+next	1.17;
 
 1.17
 date	2023.09.22.17.46.04;	author rjs;	state Exp;
@@ -97,7 +102,7 @@ desc
 @
 
 
-1.17
+1.18
 log
 @.
 @
@@ -375,7 +380,42 @@ text
 <p><a href="https://youtu.be/o95s3WnmbsQ" target="_blank">https://youtu.be/o95s3WnmbsQ</a></p>
 <p>Aula 17 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/amix19bEeF0" target="_blank">https://youtu.be/amix19bEeF0</a></p>
+
+<br>
+<p>Aula 18 no YouTube!</p>
+<p>Aula 18 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/cIHLLVbidzs" target="_blank">https://youtu.be/cIHLLVbidzs</a></p>
+<p>Aula 18 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/cIHLLVbidzs" target="_blank">https://youtu.be/cIHLLVbidzs</a></p>
+<p>Aula 18 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/xxKVH4SiJMY" target="_blank">https://youtu.be/xxKVH4SiJMY</a></p>
+<p>Aula 18 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/-AyCCwH4ark" target="_blank">https://youtu.be/-AyCCwH4ark</a></p>
+<p>Aula 18 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/QLC8Ho_LXQg" target="_blank">https://youtu.be/QLC8Ho_LXQg</a></p>
+
+<br>
+<p>Aula 19 no YouTube!</p>
+<p>Aula 19 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/Y0s2JQ80kNc" target="_blank">https://youtu.be/Y0s2JQ80kNc</a></p>
+<p>Aula 19 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/K8Ugwry-2_w" target="_blank">https://youtu.be/K8Ugwry-2_w</a></p>
+<p>Aula 19 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/IwOhZlOdxTM" target="_blank">https://youtu.be/IwOhZlOdxTM</a></p>
+<p>Aula 19 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/5JEVBWTriMU" target="_blank">https://youtu.be/5JEVBWTriMU</a></p>
+<p>Aula 19 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/r5REAga3ScI" target="_blank">https://youtu.be/r5REAga3ScI</a></p>
 </font>
+@
+
+
+1.17
+log
+@.
+@
+text
+@d274 26
 @
 
 
