@@ -1,10 +1,15 @@
-head	1.25;
+head	1.26;
 access;
 symbols;
 locks
-	rjs:1.25; strict;
+	rjs:1.26; strict;
 comment	@# @;
 
+
+1.26
+date	2023.10.25.20.23.31;	author rjs;	state Exp;
+branches;
+next	1.25;
 
 1.25
 date	2023.10.21.20.29.54;	author rjs;	state Exp;
@@ -137,7 +142,7 @@ desc
 @
 
 
-1.25
+1.26
 log
 @.
 @
@@ -574,7 +579,46 @@ text
 <p><a href="https://youtu.be/FW4vaD3_IwY" target="_blank">https://youtu.be/FW4vaD3_IwY</a></p>
 <p>Finalização Aula 27 - Parte 07/07 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/IPn0D4zlm0w" target="_blank">https://youtu.be/IPn0D4zlm0w</a></p>
+
+<br>
+<p>Aula 28 no YouTube!</p>
+<p>Aula 28 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/6trNVoe3hfw" target="_blank">https://youtu.be/6trNVoe3hfw</a></p>
+<p>Aula 28 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/Bm2Tb2OfF9s" target="_blank">https://youtu.be/Bm2Tb2OfF9s</a></p>
+<p>Aula 28 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/lZPnCm41nwg" target="_blank">https://youtu.be/lZPnCm41nwg</a></p>
+<p>Aula 28 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/gH0STLrhXW8" target="_blank">https://youtu.be/gH0STLrhXW8</a></p>
+<p>Aula 28 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/9wAkbitwglQ" target="_blank">https://youtu.be/9wAkbitwglQ</a></p>
+<p>Aula 28 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/NYvnHDT5ERA" target="_blank">https://youtu.be/NYvnHDT5ERA</a></p>
+
+<br>
+<p>Aula 29 no YouTube!</p>
+<p>Aula 29 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/Px37w6jr6rg" target="_blank">https://youtu.be/Px37w6jr6rg</a></p>
+<p>Aula 29 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/sMdTesKUiKg" target="_blank">https://youtu.be/sMdTesKUiKg</a></p>
+<p>Aula 29 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/S8mtzN5GtQs" target="_blank">https://youtu.be/S8mtzN5GtQs</a></p>
+<p>Aula 29 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/lNFDPiehrLg" target="_blank">https://youtu.be/lNFDPiehrLg</a></p>
+<p>Aula 29 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/PFeVAjYdPco" target="_blank">https://youtu.be/PFeVAjYdPco</a></p>
+<p>Aula 29 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/7a5IAFcfm_g" target="_blank">https://youtu.be/7a5IAFcfm_g</a></p>
 </font>
+@
+
+
+1.25
+log
+@.
+@
+text
+@d433 30
 @
 
 
