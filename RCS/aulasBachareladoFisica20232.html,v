@@ -1,10 +1,15 @@
-head	1.27;
+head	1.28;
 access;
 symbols;
 locks
-	rjs:1.27; strict;
+	rjs:1.28; strict;
 comment	@# @;
 
+
+1.28
+date	2023.10.31.12.14.57;	author rjs;	state Exp;
+branches;
+next	1.27;
 
 1.27
 date	2023.10.29.16.21.32;	author rjs;	state Exp;
@@ -147,7 +152,7 @@ desc
 @
 
 
-1.27
+1.28
 log
 @.
 @
@@ -629,7 +634,31 @@ text
 <p><a href="https://youtu.be/mPb6UFKKRHM" target="_blank">https://youtu.be/mPb6UFKKRHM</a></p>
 <p>Aula 30 - Parte 06/06 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/cUA_072sm4c" target="_blank">https://youtu.be/cUA_072sm4c</a></p>
+
+<br>
+<p>Aula 31 no YouTube!</p>
+<p>Aula 31 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/YHfAvklRu98" target="_blank">https://youtu.be/YHfAvklRu98</a></p>
+<p>Aula 31 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/sBlH4YTJamM" target="_blank">https://youtu.be/sBlH4YTJamM</a></p>
+<p>Aula 31 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/zYJ8NSq7tQ4" target="_blank">https://youtu.be/zYJ8NSq7tQ4</a></p>
+<p>Aula 31 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/2P7Hc1CVYDk" target="_blank">https://youtu.be/2P7Hc1CVYDk</a></p>
+<p>Aula 31 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/9zeHuK3cw28" target="_blank">https://youtu.be/9zeHuK3cw28</a></p>
+<p>Aula 31 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/4iII1qSgLpo" target="_blank">https://youtu.be/4iII1qSgLpo</a></p>
 </font>
+@
+
+
+1.27
+log
+@.
+@
+text
+@d478 15
 @
 
 
