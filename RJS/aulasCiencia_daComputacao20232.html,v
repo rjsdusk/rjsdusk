@@ -1,10 +1,15 @@
-head	1.30;
+head	1.31;
 access;
 symbols;
 locks
-	rjs:1.30; strict;
+	rjs:1.31; strict;
 comment	@# @;
 
+
+1.31
+date	2023.11.23.12.00.47;	author rjs;	state Exp;
+branches;
+next	1.30;
 
 1.30
 date	2023.11.21.12.19.36;	author rjs;	state Exp;
@@ -162,7 +167,7 @@ desc
 @
 
 
-1.30
+1.31
 log
 @.
 @
@@ -732,7 +737,29 @@ text
 <p><a href="https://youtu.be/2thoIIKs3Rg" target="_blank">https://youtu.be/2thoIIKs3Rg</a></p>
 <p>Aula 36 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/ba-lll2ZzaQ" target="_blank">https://youtu.be/ba-lll2ZzaQ</a></p>
+
+<br>
+<p>Aula 37 no YouTube!</p>
+<p>Aula 37 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/afCy3jpiPj4" target="_blank">https://youtu.be/afCy3jpiPj4</a></p>
+<p>Aula 37 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/5Ran2QIUj7U" target="_blank">https://youtu.be/5Ran2QIUj7U</a></p>
+<p>Aula 37 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/P3FE9_FSnXM" target="_blank">https://youtu.be/P3FE9_FSnXM</a></p>
+<p>Aula 37 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/vRsHKJmzEYI" target="_blank">https://youtu.be/vRsHKJmzEYI</a></p>
+<p>Aula 37 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/3A1hqk_lYqw" target="_blank">https://youtu.be/3A1hqk_lYqw</a></p>
 </font>
+@
+
+
+1.30
+log
+@.
+@
+text
+@d566 13
 @
 
 
