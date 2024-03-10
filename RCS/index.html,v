@@ -1,10 +1,15 @@
-head	1.23;
+head	1.24;
 access;
 symbols;
 locks
-	rjs:1.23; strict;
+	rjs:1.24; strict;
 comment	@# @;
 
+
+1.24
+date	2024.03.10.01.16.24;	author rjs;	state Exp;
+branches;
+next	1.23;
 
 1.23
 date	2024.03.10.00.57.15;	author rjs;	state Exp;
@@ -127,7 +132,7 @@ desc
 @
 
 
-1.23
+1.24
 log
 @.
 @
@@ -177,8 +182,8 @@ text
     <p> <a href="https://www.obm.org.br/2023/02/14/veja-o-calendario-de-testes-de-selecao-para-as-competicoes-internacionais-de-2023/" target="_blank">Calendário de Testes de Seleção para Competições Internacionais em 2023</a> </p>
 
     <h3> Disciplinas, do Departamento de Matemática da UFC, que leciono no primeiro semestre de 2024. </h3>
-    <p><a href="./calculo1fisi20241.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 04 - Bacharelado em Física</a></p>
-    <p><a href="./calculo1comp20241.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 03 - Ciência da Computação</a></p>
+    <p><a href="./calculo1fisi20241.html" target="_blank">CB0535 - Cálculo Diferencial e Integral I - Turma 04 - Bacharelado em Física</a></p>
+    <p><a href="./calculo1comp20241.html" target="_blank">CB0535 - Cálculo Diferencial e Integral I - Turma 08 - Ciência da Computação</a></p>
     <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionei no segundo semestre de 2023. </h3>
     <p><a href="./calculo2fisi20232.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 04 - Bacharelado em Física</a></p>
     <p><a href="./calculo2comp20232.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 03 - Ciência da Computação</a></p>
@@ -223,6 +228,18 @@ text
 </body>
 </html>
 
+@
+
+
+1.23
+log
+@.
+@
+text
+@d46 2
+a47 2
+    <p><a href="./calculo1fisi20241.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 04 - Bacharelado em Física</a></p>
+    <p><a href="./calculo1comp20241.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 03 - Ciência da Computação</a></p>
 @
 
 
