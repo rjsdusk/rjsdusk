@@ -1,10 +1,15 @@
-head	1.3;
+head	1.4;
 access;
 symbols;
 locks
-	rjs:1.3; strict;
+	rjs:1.4; strict;
 comment	@# @;
 
+
+1.4
+date	2024.03.21.21.07.59;	author rjs;	state Exp;
+branches;
+next	1.3;
 
 1.3
 date	2024.03.15.23.56.53;	author rjs;	state Exp;
@@ -27,7 +32,7 @@ desc
 @
 
 
-1.3
+1.4
 log
 @.
 @
@@ -99,7 +104,31 @@ text
 <p><a href="https://youtu.be/tV_M4HeiSWU" target="_blank">https://youtu.be/tV_M4HeiSWU</a></p>
 <p>Aula 03 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/hq_lgygPayE" target="_blank">https://youtu.be/hq_lgygPayE</a></p>
+
+<br>
+<p>Aula 04 no YouTube!</p>
+<p>Aula 04 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/dsaFj8_nzUQ" target="_blank">https://youtu.be/dsaFj8_nzUQ</a></p>
+<p>Aula 04 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/bjchcKOCcQ4" target="_blank">https://youtu.be/bjchcKOCcQ4</a></p>
+<p>Aula 04 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/023Oskg1hIc" target="_blank">https://youtu.be/023Oskg1hIc</a></p>
+<p>Aula 04 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ssvRHqHm07g" target="_blank">https://youtu.be/ssvRHqHm07g</a></p>
+<p>Aula 04 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/9kQJvGVwMMo" target="_blank">https://youtu.be/9kQJvGVwMMo</a></p>
+<p>Aula 04 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/sCfYoWMwR3c" target="_blank">https://youtu.be/sCfYoWMwR3c</a></p>
 </font>
+@
+
+
+1.3
+log
+@.
+@
+text
+@d68 15
 @
 
 
