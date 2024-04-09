@@ -1,0 +1,37 @@
+head	1.1;
+access;
+symbols;
+locks
+	rjs:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2024.04.09.11.44.38;	author rjs;	state Exp;
+branches;
+next	;
+
+
+desc
+@.
+@
+
+
+1.1
+log
+@.
+@
+text
+@
+diff:
+	diffall.sh all
+
+ci:
+	ciall.sh all
+
+ci2:
+	ci2all.sh all
+
+clean:
+	clean.sh
+@
