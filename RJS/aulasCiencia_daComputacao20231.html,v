@@ -1,10 +1,15 @@
-head	1.39;
+head	1.40;
 access;
 symbols;
 locks
-	rjs:1.39; strict;
+	rjs:1.40; strict;
 comment	@# @;
 
+
+1.40
+date	2024.07.15.00.08.12;	author rjs;	state Exp;
+branches;
+next	1.39;
 
 1.39
 date	2023.07.10.21.54.16;	author rjs;	state Exp;
@@ -207,12 +212,35 @@ desc
 @
 
 
-1.39
+1.40
 log
 @.
 @
 text
-@<font face="Lucida Bright, Times New Roman" size="+1">
+@<html>
+<head>
+  <title> Minha Página HTML: rjsdusk </title>
+</head>
+<body>
+
+<style type="text/css">
+  body { margin-left: 5%; margin-right: 5%;
+       margin-top: 5%; margin-bottom: 5%;}
+</style>
+
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+      Favor informar qualquer inconsistência<br>
+      encontrada nos endereços dos vídeos.<br>
+      Posso ter informado algum link errado.<br>
+      Envie um e-mail informando o problema<br>
+      encontrado para rjsdusk@@gmail.com.
+    </font>
+  </p>
+</h1>
+
+<font face="Lucida Bright, Times New Roman" size="+1">
 
 <br>
 <p>Aula 01 no YouTube!</p>
@@ -620,7 +648,7 @@ text
 <p>Aula 25 - Parte 01/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/WsMxJrOwVkI" target="_blank">https://youtu.be/WsMxJrOwVkI</a></p>
 <p>Aula 25 - Parte 02/06 - Ciência da Computação</p>
-<p><a href="https://youtu.be/4TuvFi-OYxI" target="_blank">https://youtu.be/4TuvFi-OYxI</a></p>
+<p><a href="https://youtu.be/AZseLHlrOAU" target="_blank">https://youtu.be/AZseLHlrOAU</a></p>
 <p>Aula 25 - Parte 03/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/r3RpatxiVtc" target="_blank">https://youtu.be/r3RpatxiVtc</a></p>
 <p>Aula 25 - Parte 04/06 - Ciência da Computação</p>
@@ -1422,6 +1450,18 @@ text
 <p>Aula 43 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/1UUnIA-sybA" target="_blank">https://youtu.be/1UUnIA-sybA</a></p>
 </font>
+@
+
+
+1.39
+log
+@.
+@
+text
+@d1 23
+d432 1
+a432 1
+<p><a href="https://youtu.be/4TuvFi-OYxI" target="_blank">https://youtu.be/4TuvFi-OYxI</a></p>
 @
 
 

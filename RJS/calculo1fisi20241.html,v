@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2024.07.15.00.08.14;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2024.03.10.01.03.34;	author rjs;	state Exp;
@@ -17,7 +22,7 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
@@ -53,10 +58,21 @@ Horário: Seg, Qua e Sex, 08h00 - 10h00
 <p> <a href="https://drive.google.com/drive/folders/1TdAgqRBB88oEBb6UsuMjyo_2Std7pX8n?usp=drive_link" target="_blank">Pasta da Disciplina no Google Drive</a> </p>
 <p> <a href="https://groups.google.com/g/calculoprimeirofisi20241" target="_blank">Grupo da Disciplina no Google</a> </p>
 <p> <a href="aulasBachareladoFisica20241.html" target="_blank">Aulas no YouTube</a> </p>
-<p> <a href="https://www.ufc.br/calendario-universitario/2024" target="_blank">Calendário Universitário da UFC - 2024</a> </p>
+<p> <a href="https://www.ufc.br/calendario-universitario/2024-ajuste-pos-greve" target="_blank">Calendário Universitário da UFC 2024 - Ajuste Pós-Greve</a> </p>
 <p> <a href="https://www.rjsdusk.org">Página Inicial</a> </p>
 </font>
 
 </body>
 </html>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d32 1
+a32 1
+<p> <a href="https://www.ufc.br/calendario-universitario/2024" target="_blank">Calendário Universitário da UFC - 2024</a> </p>
 @
