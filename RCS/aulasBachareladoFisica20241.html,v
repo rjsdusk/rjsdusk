@@ -1,10 +1,15 @@
-head	1.13;
+head	1.14;
 access;
 symbols;
 locks
-	rjs:1.13; strict;
+	rjs:1.14; strict;
 comment	@# @;
 
+
+1.14
+date	2024.08.04.19.28.24;	author rjs;	state Exp;
+branches;
+next	1.13;
 
 1.13
 date	2024.08.02.23.49.15;	author rjs;	state Exp;
@@ -77,7 +82,7 @@ desc
 @
 
 
-1.13
+1.14
 log
 @.
 @
@@ -586,7 +591,31 @@ text
 <p><a href="https://youtu.be/9CO9vBZ9gkU" target="_blank">https://youtu.be/9CO9vBZ9gkU</a></p>
 <p>Aula 20 - Parte 06/06 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/4fYSLDS-cXQ" target="_blank">https://youtu.be/4fYSLDS-cXQ</a></p>
+
+<br>
+<p>Aula 21 no YouTube!</p>
+<p>Aula 21 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/AireXbJ_8n4" target="_blank">https://youtu.be/AireXbJ_8n4</a></p>
+<p>Aula 21 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/8ocoF-eYl-A" target="_blank">https://youtu.be/8ocoF-eYl-A</a></p>
+<p>Aula 21 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/9kyta_YU6fs" target="_blank">https://youtu.be/9kyta_YU6fs</a></p>
+<p>Aula 21 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/yp5JKgu_ZQw" target="_blank">https://youtu.be/yp5JKgu_ZQw</a></p>
+<p>Aula 21 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/FpBXt5B3bRQ" target="_blank">https://youtu.be/FpBXt5B3bRQ</a></p>
+<p>Aula 21 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/TqUce-12Tfc" target="_blank">https://youtu.be/TqUce-12Tfc</a></p>
 </font>
+@
+
+
+1.13
+log
+@.
+@
+text
+@d505 15
 @
 
 
