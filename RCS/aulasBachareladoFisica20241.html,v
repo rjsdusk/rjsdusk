@@ -1,10 +1,15 @@
-head	1.15;
+head	1.16;
 access;
 symbols;
 locks
-	rjs:1.15; strict;
+	rjs:1.16; strict;
 comment	@# @;
 
+
+1.16
+date	2024.08.10.13.44.06;	author rjs;	state Exp;
+branches;
+next	1.15;
 
 1.15
 date	2024.08.08.14.17.45;	author rjs;	state Exp;
@@ -87,7 +92,7 @@ desc
 @
 
 
-1.15
+1.16
 log
 @.
 @
@@ -641,7 +646,31 @@ text
 <p><a href="https://youtu.be/7yTQfmyI0qA" target="_blank">https://youtu.be/7yTQfmyI0qA</a></p>
 <p>Aula 23 - Parte 06/06 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/okzPEIhgRVY" target="_blank">https://youtu.be/okzPEIhgRVY</a></p>
+
+<br>
+<p>Aula 24 no YouTube!</p>
+<p>Aula 24 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/1cqqg31BaAg" target="_blank">https://youtu.be/1cqqg31BaAg</a></p>
+<p>Aula 24 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/o0ye_UTajTY" target="_blank">https://youtu.be/o0ye_UTajTY</a></p>
+<p>Aula 24 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/Nf8oe1apIws" target="_blank">https://youtu.be/Nf8oe1apIws</a></p>
+<p>Aula 24 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/ncfu_M7Lgh4" target="_blank">https://youtu.be/ncfu_M7Lgh4</a></p>
+<p>Aula 24 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/JsW3k3WMvlg" target="_blank">https://youtu.be/JsW3k3WMvlg</a></p>
+<p>Aula 24 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/Jx6UjFF3dPQ" target="_blank">https://youtu.be/Jx6UjFF3dPQ</a></p>
 </font>
+@
+
+
+1.15
+log
+@.
+@
+text
+@d550 15
 @
 
 
