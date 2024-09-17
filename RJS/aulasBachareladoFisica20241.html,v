@@ -1,10 +1,15 @@
-head	1.26;
+head	1.27;
 access;
 symbols;
 locks
-	rjs:1.26; strict;
+	rjs:1.27; strict;
 comment	@# @;
 
+
+1.27
+date	2024.09.17.14.41.15;	author rjs;	state Exp;
+branches;
+next	1.26;
 
 1.26
 date	2024.09.12.12.25.32;	author rjs;	state Exp;
@@ -142,7 +147,7 @@ desc
 @
 
 
-1.26
+1.27
 log
 @.
 @
@@ -874,7 +879,40 @@ text
 <p><a href="https://youtu.be/dEH2D7xb7es" target="_blank">https://youtu.be/dEH2D7xb7es</a></p>
 <p>Aula 35 - Parte 06/06 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/2ykBawKR8eA" target="_blank">https://youtu.be/2ykBawKR8eA</a></p>
+
+<br>
+<p>Aula 36 no YouTube!</p>
+<p>Aula 36 - Parte 01/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/-ckTPjwXXuE" target="_blank">https://youtu.be/-ckTPjwXXuE</a></p>
+<p>Aula 36 - Parte 02/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/-mdR46mqMNQ" target="_blank">https://youtu.be/-mdR46mqMNQ</a></p>
+<p>Aula 36 - Parte 03/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/aMQSpHIi5hQ" target="_blank">https://youtu.be/aMQSpHIi5hQ</a></p>
+<p>Aula 36 - Parte 04/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/vdrSXb5AZSo" target="_blank">https://youtu.be/vdrSXb5AZSo</a></p>
+<p>Aula 36 - Parte 05/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/KUwd191nzNg" target="_blank">https://youtu.be/KUwd191nzNg</a></p>
+
+<br>
+<p>Aula 37 no YouTube!</p>
+<p>Aula 37 - Parte 01/04 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/xO0bWjDDefQ" target="_blank">https://youtu.be/xO0bWjDDefQ</a></p>
+<p>Aula 37 - Parte 02/04 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/yf0BE-bKVho" target="_blank">https://youtu.be/yf0BE-bKVho</a></p>
+<p>Aula 37 - Parte 03/04 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/VxaKJJ5Van8" target="_blank">https://youtu.be/VxaKJJ5Van8</a></p>
+<p>Aula 37 - Parte 04/04 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/cHY69T05FTQ" target="_blank">https://youtu.be/cHY69T05FTQ</a></p>
 </font>
+@
+
+
+1.26
+log
+@.
+@
+text
+@d728 24
 @
 
 
