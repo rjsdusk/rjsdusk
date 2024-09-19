@@ -1,10 +1,15 @@
-head	1.27;
+head	1.28;
 access;
 symbols;
 locks
-	rjs:1.27; strict;
+	rjs:1.28; strict;
 comment	@# @;
 
+
+1.28
+date	2024.09.19.14.57.56;	author rjs;	state Exp;
+branches;
+next	1.27;
 
 1.27
 date	2024.09.17.14.41.15;	author rjs;	state Exp;
@@ -147,7 +152,7 @@ desc
 @
 
 
-1.27
+1.28
 log
 @.
 @
@@ -903,7 +908,31 @@ text
 <p><a href="https://youtu.be/VxaKJJ5Van8" target="_blank">https://youtu.be/VxaKJJ5Van8</a></p>
 <p>Aula 37 - Parte 04/04 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/cHY69T05FTQ" target="_blank">https://youtu.be/cHY69T05FTQ</a></p>
+
+<br>
+<p>Aula 38 no YouTube!</p>
+<p>Aula 38 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/TTz_nT32L-I" target="_blank">https://youtu.be/TTz_nT32L-I</a></p>
+<p>Aula 38 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/QGfROb5L8Ss" target="_blank">https://youtu.be/QGfROb5L8Ss</a></p>
+<p>Aula 38 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/gBji8q7rABc" target="_blank">https://youtu.be/gBji8q7rABc</a></p>
+<p>Aula 38 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/_rKz-i6apuA" target="_blank">https://youtu.be/_rKz-i6apuA</a></p>
+<p>Aula 38 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/OrfVkoVzRtU" target="_blank">https://youtu.be/OrfVkoVzRtU</a></p>
+<p>Aula 38 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/kj1Z4NLbDLA" target="_blank">https://youtu.be/kj1Z4NLbDLA</a></p>
 </font>
+@
+
+
+1.27
+log
+@.
+@
+text
+@d752 15
 @
 
 
