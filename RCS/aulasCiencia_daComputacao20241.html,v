@@ -1,10 +1,15 @@
-head	1.33;
+head	1.34;
 access;
 symbols;
 locks
-	rjs:1.33; strict;
+	rjs:1.34; strict;
 comment	@# @;
 
+
+1.34
+date	2024.10.06.16.19.55;	author rjs;	state Exp;
+branches;
+next	1.33;
 
 1.33
 date	2024.10.05.01.52.19;	author rjs;	state Exp;
@@ -177,7 +182,7 @@ desc
 @
 
 
-1.33
+1.34
 log
 @.
 @
@@ -841,8 +846,19 @@ text
 <p>Aula 43 - Parte 04/05 - Ciência da Computação</p>
 <p><a href="https://youtu.be/ylfB5cQlzeQ" target="_blank">https://youtu.be/ylfB5cQlzeQ</a></p>
 <p>Aula 43 - Parte 05/05 - Ciência da Computação</p>
-<p><a href="https://youtu.be/9iS3jXag_wI" target="_blank">https://youtu.be/9iS3jXag_wI</a></p>
+<p><a href="https://youtu.be/ama5HePOWFE" target="_blank">https://youtu.be/ama5HePOWFE</a></p>
 </font>
+@
+
+
+1.33
+log
+@.
+@
+text
+@d660 1
+a660 1
+<p><a href="https://youtu.be/9iS3jXag_wI" target="_blank">https://youtu.be/9iS3jXag_wI</a></p>
 @
 
 
