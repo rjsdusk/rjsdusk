@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2024.10.26.18.57.52;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2024.10.24.18.52.57;	author rjs;	state Exp;
@@ -17,7 +22,7 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
@@ -61,5 +66,29 @@ text
 <p><a href="https://youtu.be/NrwYXOPZ8k0" target="_blank">https://youtu.be/NrwYXOPZ8k0</a></p>
 <p>Aula 01 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/Wn2439GtEiI" target="_blank">https://youtu.be/Wn2439GtEiI</a></p>
+
+<br>
+<p>Aula 02 no YouTube!</p>
+<p>Aula 02 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/dkq9gdskeY4" target="_blank">https://youtu.be/dkq9gdskeY4</a></p>
+<p>Aula 02 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/6LBvID6-UBg" target="_blank">https://youtu.be/6LBvID6-UBg</a></p>
+<p>Aula 02 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/jsBG47F4PFQ" target="_blank">https://youtu.be/jsBG47F4PFQ</a></p>
+<p>Aula 02 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/L4zrQ4qjV78" target="_blank">https://youtu.be/L4zrQ4qjV78</a></p>
+<p>Aula 02 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/HNwLfbtHEmQ" target="_blank">https://youtu.be/HNwLfbtHEmQ</a></p>
+<p>Aula 02 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/zcBUZ6sJ_SA" target="_blank">https://youtu.be/zcBUZ6sJ_SA</a></p>
 </font>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d40 15
 @
