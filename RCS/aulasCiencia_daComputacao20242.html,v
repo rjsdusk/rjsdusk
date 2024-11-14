@@ -1,10 +1,20 @@
-head	1.5;
+head	1.7;
 access;
 symbols;
 locks
-	rjs:1.5; strict;
+	rjs:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2024.11.14.14.49.12;	author rjs;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2024.11.14.13.57.22;	author rjs;	state Exp;
+branches;
+next	1.5;
 
 1.5
 date	2024.11.12.14.01.27;	author rjs;	state Exp;
@@ -37,7 +47,7 @@ desc
 @
 
 
-1.5
+1.7
 log
 @.
 @
@@ -154,7 +164,57 @@ text
 <p><a href="https://youtu.be/d-lJ-rB7zt0" target="_blank">https://youtu.be/d-lJ-rB7zt0</a></p>
 <p>Aula 06 - Parte 05/05 - Ciência da Computação</p>
 <p><a href="https://youtu.be/juw_e9IsMgA" target="_blank">https://youtu.be/juw_e9IsMgA</a></p>
+
+<br>
+<p>Aula 07 no YouTube!</p>
+<p>Aula 07 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/h82AHPdBIw8" target="_blank">https://youtu.be/h82AHPdBIw8</a></p>
+<p>Aula 07 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/rUXhKX3FDwI" target="_blank">https://youtu.be/rUXhKX3FDwI</a></p>
+<p>Aula 07 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/Jn9fb5KWIXE" target="_blank">https://youtu.be/Jn9fb5KWIXE</a></p>
+<p>Aula 07 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/FzzGvG0YJAY" target="_blank">https://youtu.be/FzzGvG0YJAY</a></p>
+<p>Aula 07 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/DbL3S_hmlk0" target="_blank">https://youtu.be/DbL3S_hmlk0</a></p>
+<p>Aula 07 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/8fDYpofnu6I" target="_blank">https://youtu.be/8fDYpofnu6I</a></p>
 </font>
+@
+
+
+1.6
+log
+@.
+@
+text
+@d116 1
+a116 1
+<p>Aula 07 - Parte 01/06 - Bacharelado em Matemática</p>
+d118 1
+a118 1
+<p>Aula 07 - Parte 02/06 - Bacharelado em Matemática</p>
+d120 1
+a120 1
+<p>Aula 07 - Parte 03/06 - Bacharelado em Matemática</p>
+d122 1
+a122 1
+<p>Aula 07 - Parte 04/06 - Bacharelado em Matemática</p>
+d124 1
+a124 1
+<p>Aula 07 - Parte 05/06 - Bacharelado em Matemática</p>
+d126 1
+a126 1
+<p>Aula 07 - Parte 06/06 - Bacharelado em Matemática</p>
+@
+
+
+1.5
+log
+@.
+@
+text
+@d113 15
 @
 
 
