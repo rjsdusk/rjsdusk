@@ -1,10 +1,15 @@
-head	1.6;
+head	1.7;
 access;
 symbols;
 locks
-	rjs:1.6; strict;
+	rjs:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2024.11.19.14.39.39;	author rjs;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2024.11.14.13.57.19;	author rjs;	state Exp;
@@ -42,7 +47,7 @@ desc
 @
 
 
-1.6
+1.7
 log
 @.
 @
@@ -172,7 +177,31 @@ text
 <p><a href="https://youtu.be/Ct8c9i-zbpA" target="_blank">https://youtu.be/Ct8c9i-zbpA</a></p>
 <p>Aula 07 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/rNpcVbHVzYM" target="_blank">https://youtu.be/rNpcVbHVzYM</a></p>
+
+<br>
+<p>Aula 08 no YouTube!</p>
+<p>Aula 08 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/PjKiCMK1cFM" target="_blank">https://youtu.be/PjKiCMK1cFM</a></p>
+<p>Aula 08 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/xZKkpzMxnzM" target="_blank">https://youtu.be/xZKkpzMxnzM</a></p>
+<p>Aula 08 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/BhjxTUkSbtU" target="_blank">https://youtu.be/BhjxTUkSbtU</a></p>
+<p>Aula 08 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/GRGPTrmH3yQ" target="_blank">https://youtu.be/GRGPTrmH3yQ</a></p>
+<p>Aula 08 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/pxfUm3PlAGo" target="_blank">https://youtu.be/pxfUm3PlAGo</a></p>
+<p>Aula 08 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/9eRGkQSnCeg" target="_blank">https://youtu.be/9eRGkQSnCeg</a></p>
 </font>
+@
+
+
+1.6
+log
+@.
+@
+text
+@d126 15
 @
 
 
