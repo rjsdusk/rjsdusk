@@ -1,10 +1,15 @@
-head	1.8;
+head	1.9;
 access;
 symbols;
 locks
-	rjs:1.8; strict;
+	rjs:1.9; strict;
 comment	@# @;
 
+
+1.9
+date	2024.11.24.15.21.27;	author rjs;	state Exp;
+branches;
+next	1.8;
 
 1.8
 date	2024.11.24.13.37.53;	author rjs;	state Exp;
@@ -52,7 +57,7 @@ desc
 @
 
 
-1.8
+1.9
 log
 @.
 @
@@ -185,17 +190,17 @@ text
 
 <br>
 <p>Aula 08 no YouTube!</p>
-<p>Aula 08 - Parte 01/06 - Ciência da Computação</p>
+<p>Aula 08 - Parte 01/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/PjKiCMK1cFM" target="_blank">https://youtu.be/PjKiCMK1cFM</a></p>
-<p>Aula 08 - Parte 02/06 - Ciência da Computação</p>
+<p>Aula 08 - Parte 02/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/xZKkpzMxnzM" target="_blank">https://youtu.be/xZKkpzMxnzM</a></p>
-<p>Aula 08 - Parte 03/06 - Ciência da Computação</p>
+<p>Aula 08 - Parte 03/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/BhjxTUkSbtU" target="_blank">https://youtu.be/BhjxTUkSbtU</a></p>
-<p>Aula 08 - Parte 04/06 - Ciência da Computação</p>
+<p>Aula 08 - Parte 04/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/GRGPTrmH3yQ" target="_blank">https://youtu.be/GRGPTrmH3yQ</a></p>
-<p>Aula 08 - Parte 05/06 - Ciência da Computação</p>
+<p>Aula 08 - Parte 05/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/pxfUm3PlAGo" target="_blank">https://youtu.be/pxfUm3PlAGo</a></p>
-<p>Aula 08 - Parte 06/06 - Ciência da Computação</p>
+<p>Aula 08 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/9eRGkQSnCeg" target="_blank">https://youtu.be/9eRGkQSnCeg</a></p>
 
 <br>
@@ -211,6 +216,32 @@ text
 <p>Aula 09 - Parte 05/05 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/HbG6OhlyOYw" target="_blank">https://youtu.be/HbG6OhlyOYw</a></p>
 </font>
+@
+
+
+1.8
+log
+@.
+@
+text
+@d129 1
+a129 1
+<p>Aula 08 - Parte 01/06 - Ciência da Computação</p>
+d131 1
+a131 1
+<p>Aula 08 - Parte 02/06 - Ciência da Computação</p>
+d133 1
+a133 1
+<p>Aula 08 - Parte 03/06 - Ciência da Computação</p>
+d135 1
+a135 1
+<p>Aula 08 - Parte 04/06 - Ciência da Computação</p>
+d137 1
+a137 1
+<p>Aula 08 - Parte 05/06 - Ciência da Computação</p>
+d139 1
+a139 1
+<p>Aula 08 - Parte 06/06 - Ciência da Computação</p>
 @
 
 
