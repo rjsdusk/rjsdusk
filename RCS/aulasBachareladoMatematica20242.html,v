@@ -1,10 +1,15 @@
-head	1.16;
+head	1.17;
 access;
 symbols;
 locks
-	rjs:1.16; strict;
+	rjs:1.17; strict;
 comment	@# @;
 
+
+1.17
+date	2025.01.21.01.46.33;	author rjs;	state Exp;
+branches;
+next	1.16;
 
 1.16
 date	2025.01.12.12.14.04;	author rjs;	state Exp;
@@ -92,7 +97,7 @@ desc
 @
 
 
-1.16
+1.17
 log
 @.
 @
@@ -452,7 +457,55 @@ text
 <p><a href="https://youtu.be/wAfDfTF0L4Q" target="_blank">https://youtu.be/wAfDfTF0L4Q</a></p>
 <p>Aula 23 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/Nz4pVfp7jiI" target="_blank">https://youtu.be/Nz4pVfp7jiI</a></p>
+
+<br>
+<p>Aula 24 no YouTube!</p>
+<p>Aula 24 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/FSwNEiQgVNs" target="_blank">https://youtu.be/FSwNEiQgVNs</a></p>
+<p>Aula 24 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/LkzhHA5S0iE" target="_blank">https://youtu.be/LkzhHA5S0iE</a></p>
+<p>Aula 24 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/n2O1QVCu-Us" target="_blank">https://youtu.be/n2O1QVCu-Us</a></p>
+<p>Aula 24 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/gSfIfhlGS0A" target="_blank">https://youtu.be/gSfIfhlGS0A</a></p>
+<p>Aula 24 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/774E4VjYWzg" target="_blank">https://youtu.be/774E4VjYWzg</a></p>
+
+<br>
+<p>Aula 25 no YouTube!</p>
+<p>Aula 25 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/nSFO18l255s" target="_blank">https://youtu.be/nSFO18l255s</a></p>
+<p>Aula 25 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/q-imnWZ6SBE" target="_blank">https://youtu.be/q-imnWZ6SBE</a></p>
+<p>Aula 25 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/6wXag7J5gBo" target="_blank">https://youtu.be/6wXag7J5gBo</a></p>
+<p>Aula 25 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Uh1atbHJOM0" target="_blank">https://youtu.be/Uh1atbHJOM0</a></p>
+<p>Aula 25 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/AqB9cjC6sPo" target="_blank">https://youtu.be/AqB9cjC6sPo</a></p>
+
+<br>
+<p>Aula 26 no YouTube!</p>
+<p>Aula 26 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/D0m-pyPvrfE" target="_blank">https://youtu.be/D0m-pyPvrfE</a></p>
+<p>Aula 26 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/PwrcTsVpVAU" target="_blank">https://youtu.be/PwrcTsVpVAU</a></p>
+<p>Aula 26 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/9Xs81theGQg" target="_blank">https://youtu.be/9Xs81theGQg</a></p>
+<p>Aula 26 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/ViZmJH1lPFM" target="_blank">https://youtu.be/ViZmJH1lPFM</a></p>
+<p>Aula 26 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/1cVaxRuv_ow" target="_blank">https://youtu.be/1cVaxRuv_ow</a></p>
 </font>
+@
+
+
+1.16
+log
+@.
+@
+text
+@d356 39
 @
 
 
