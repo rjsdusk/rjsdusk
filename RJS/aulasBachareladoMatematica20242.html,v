@@ -1,10 +1,15 @@
-head	1.19;
+head	1.20;
 access;
 symbols;
 locks
-	rjs:1.19; strict;
+	rjs:1.20; strict;
 comment	@# @;
 
+
+1.20
+date	2025.02.06.15.26.19;	author rjs;	state Exp;
+branches;
+next	1.19;
 
 1.19
 date	2025.01.30.14.02.35;	author rjs;	state Exp;
@@ -107,7 +112,7 @@ desc
 @
 
 
-1.19
+1.20
 log
 @.
 @
@@ -562,7 +567,42 @@ text
 <p><a href="https://youtu.be/3AIHFpzN6OM" target="_blank">https://youtu.be/3AIHFpzN6OM</a></p>
 <p>Aula 30 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/z6_C-AV6O_g" target="_blank">https://youtu.be/z6_C-AV6O_g</a></p>
+
+<br>
+<p>Aula 31 no YouTube!</p>
+<p>Aula 31 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/A-kcsBO5pzs" target="_blank">https://youtu.be/A-kcsBO5pzs</a></p>
+<p>Aula 31 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/5RaAGUmQUh0" target="_blank">https://youtu.be/5RaAGUmQUh0</a></p>
+<p>Aula 31 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/PUWw6D38rF4" target="_blank">https://youtu.be/PUWw6D38rF4</a></p>
+<p>Aula 31 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/7GiBryW4lQQ" target="_blank">https://youtu.be/7GiBryW4lQQ</a></p>
+<p>Aula 31 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/EKskyUNpN14" target="_blank">https://youtu.be/EKskyUNpN14</a></p>
+
+<br>
+<p>Aula 31 no YouTube!</p>
+<p>Aula 31 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/_MwCA6jOSjQ" target="_blank">https://youtu.be/_MwCA6jOSjQ</a></p>
+<p>Aula 31 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/5c7Q6WKSwRA" target="_blank">https://youtu.be/5c7Q6WKSwRA</a></p>
+<p>Aula 31 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/wNLJoX8CNAA" target="_blank">https://youtu.be/wNLJoX8CNAA</a></p>
+<p>Aula 31 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/pgW-9Fm3h-A" target="_blank">https://youtu.be/pgW-9Fm3h-A</a></p>
+<p>Aula 31 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/YVDMCBAqK1M" target="_blank">https://youtu.be/YVDMCBAqK1M</a></p>
 </font>
+@
+
+
+1.19
+log
+@.
+@
+text
+@d451 26
 @
 
 
