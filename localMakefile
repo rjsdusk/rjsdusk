@@ -1,0 +1,46 @@
+txtFiles=$(wildcard *.txt)
+texFiles=$(wildcard *.tex)
+rstFiles=$(wildcard *.rst))
+confFiles=$(wildcard *.conf)
+htmlFiles=$(wildcard *.html)
+shellFiles=$(wildcard *.sh) $(wildcard *.csh) $(wildcard *.bash) $(wildcard *.tcsh)
+makeFiles=$(wildcard *Makefile))
+rcsFiles=$(wildcard $(txtFiles) $(texFiles) $(rstFiles) $(confFiles) $(shellFiles) $(htmlFiles) $(makeFiles))
+
+echo:
+	@ echo
+	@ for rjsFile in $(rcsFiles); \
+	do \
+		echo $$rjsFile; \
+	done
+	@ echo
+
+clean:
+	clean.sh
+
+diff:
+	@ for rjsFile in $(rcsFiles); \
+	do \
+		echo; \
+		echo $$rjsFile; \
+		rcsdiff.sh $$rjsFile; \
+		rjsdiff.sh $$rjsFile; \
+	done \
+
+ci:
+	@ for rjsFile in $(rcsFiles); \
+	do \
+		echo; \
+		echo $$rjsFile; \
+		rcsci.sh $$rjsFile; \
+		rjsci.sh $$rjsFile; \
+	done \
+
+ci2:
+	@ for rjsFile in $(rcsFiles); \
+	do \
+		echo; \
+		echo $$rjsFile; \
+		rcsci2.sh $$rjsFile; \
+		rjsci2.sh $$rjsFile; \
+	done \
