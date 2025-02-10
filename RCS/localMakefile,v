@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2025.02.09.20.45.31;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2025.02.08.12.58.32;	author rjs;	state Exp;
@@ -17,18 +22,18 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
 text
 @txtFiles=$(wildcard *.txt)
 texFiles=$(wildcard *.tex)
-rstFiles=$(wildcard *.rst))
+rstFiles=$(wildcard *.rst)
 confFiles=$(wildcard *.conf)
 htmlFiles=$(wildcard *.html)
 shellFiles=$(wildcard *.sh) $(wildcard *.csh) $(wildcard *.bash) $(wildcard *.tcsh)
-makeFiles=$(wildcard *Makefile))
+makeFiles=$(wildcard *Makefile)
 rcsFiles=$(wildcard $(txtFiles) $(texFiles) $(rstFiles) $(confFiles) $(shellFiles) $(htmlFiles) $(makeFiles))
 
 echo:
@@ -68,4 +73,18 @@ ci2:
 		rcsci2.sh $$rjsFile; \
 		rjsci2.sh $$rjsFile; \
 	done \
+@
+
+
+1.1
+log
+@.
+@
+text
+@d3 1
+a3 1
+rstFiles=$(wildcard *.rst))
+d7 1
+a7 1
+makeFiles=$(wildcard *Makefile))
 @

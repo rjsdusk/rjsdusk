@@ -1,10 +1,10 @@
 txtFiles=$(wildcard *.txt)
 texFiles=$(wildcard *.tex)
-rstFiles=$(wildcard *.rst))
+rstFiles=$(wildcard *.rst)
 confFiles=$(wildcard *.conf)
 htmlFiles=$(wildcard *.html)
 shellFiles=$(wildcard *.sh) $(wildcard *.csh) $(wildcard *.bash) $(wildcard *.tcsh)
-makeFiles=$(wildcard *Makefile))
+makeFiles=$(wildcard *Makefile)
 rcsFiles=$(wildcard $(txtFiles) $(texFiles) $(rstFiles) $(confFiles) $(shellFiles) $(htmlFiles) $(makeFiles))
 
 echo:

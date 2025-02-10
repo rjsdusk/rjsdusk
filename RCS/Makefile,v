@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2025.02.09.20.45.31;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2024.04.09.11.44.38;	author rjs;	state Exp;
@@ -17,15 +22,31 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
 text
 @
+all:
+	@@ cd ../main; $(MAKE)
+
+%:
+	@@ cd ../main; $(MAKE) $@@
+@
+
+
+1.1
+log
+@.
+@
+text
+@d2 2
+a3 2
 diff:
 	diffall.sh all
-
+d5 2
+a6 8
 ci:
 	ciall.sh all
 
