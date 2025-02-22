@@ -1,10 +1,15 @@
-head	1.25;
+head	1.26;
 access;
 symbols;
 locks
-	rjs:1.25; strict;
+	rjs:1.26; strict;
 comment	@# @;
 
+
+1.26
+date	2025.02.22.23.42.27;	author rjs;	state Exp;
+branches;
+next	1.25;
 
 1.25
 date	2025.02.20.13.47.40;	author rjs;	state Exp;
@@ -137,7 +142,7 @@ desc
 @
 
 
-1.25
+1.26
 log
 @.
 @
@@ -702,7 +707,29 @@ text
 <p><a href="https://youtu.be/Yzt_cWDa9GM" target="_blank">https://youtu.be/Yzt_cWDa9GM</a></p>
 <p>Aula 37 - Parte 05/05 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/lPbYynCs5Nw" target="_blank">https://youtu.be/lPbYynCs5Nw</a></p>
+
+<br>
+<p>Aula 38 no YouTube!</p>
+<p>Aula 38 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/UNORbRcp7UI" target="_blank">https://youtu.be/UNORbRcp7UI</a></p>
+<p>Aula 38 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/O2RKPyagrjQ" target="_blank">https://youtu.be/O2RKPyagrjQ</a></p>
+<p>Aula 38 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/x7ZgPKTdYuE" target="_blank">https://youtu.be/x7ZgPKTdYuE</a></p>
+<p>Aula 38 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Vsf85Uwg4wk" target="_blank">https://youtu.be/Vsf85Uwg4wk</a></p>
+<p>Aula 38 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/ZPhk-YB_M24" target="_blank">https://youtu.be/ZPhk-YB_M24</a></p>
 </font>
+@
+
+
+1.25
+log
+@.
+@
+text
+@d561 13
 @
 
 
