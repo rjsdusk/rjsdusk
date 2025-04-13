@@ -1,0 +1,94 @@
+head	1.2;
+access;
+symbols;
+locks
+	rjs:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2025.04.10.13.33.25;	author rjs;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2025.04.08.13.59.04;	author rjs;	state Exp;
+branches;
+next	;
+
+
+desc
+@.
+@
+
+
+1.2
+log
+@.
+@
+text
+@<html>
+<head>
+  <title> Minha Página HTML: rjsdusk </title>
+</head>
+<body>
+
+<style type="text/css">
+  body { margin-left: 5%; margin-right: 5%;
+       margin-top: 5%; margin-bottom: 5%;}
+</style>
+
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+      Favor informar qualquer inconsistência<br>
+      encontrada nos endereços dos vídeos.<br>
+      Posso ter informado algum link errado.<br>
+      Envie um e-mail informando o problema<br>
+      encontrado para rjsdusk@@gmail.com.
+    </font>
+  </p>
+</h1>
+
+<font face="Lucida Bright, Times New Roman" size="+1">
+
+<br>
+<p>Aula 01 no YouTube!</p>
+<p>Aula 01 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/77SGH3kGb0g" target="_blank">https://youtu.be/77SGH3kGb0g</a></p>
+<p>Aula 01 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/g5TwLzd7zlY" target="_blank">https://youtu.be/g5TwLzd7zlY</a></p>
+<p>Aula 01 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/PaKqEuPXP8s" target="_blank">https://youtu.be/PaKqEuPXP8s</a></p>
+<p>Aula 01 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/8k8MIgfntbo" target="_blank">https://youtu.be/8k8MIgfntbo</a></p>
+<p>Aula 01 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/tFtsfI90rKo" target="_blank">https://youtu.be/tFtsfI90rKo</a></p>
+<p>Aula 01 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/PZc1cMFxutU" target="_blank">https://youtu.be/PZc1cMFxutU</a></p>
+
+<br>
+<p>Aula 02 no YouTube!</p>
+<p>Aula 02 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/CeCRpmP4jCE" target="_blank">https://youtu.be/CeCRpmP4jCE</a></p>
+<p>Aula 02 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/qwXa5616DAo" target="_blank">https://youtu.be/qwXa5616DAo</a></p>
+<p>Aula 02 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/O8v23E2aYyw" target="_blank">https://youtu.be/O8v23E2aYyw</a></p>
+<p>Aula 02 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/H4fB99p4msk" target="_blank">https://youtu.be/H4fB99p4msk</a></p>
+<p>Aula 02 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/0fEcJeL8DKU" target="_blank">https://youtu.be/0fEcJeL8DKU</a></p>
+<p>Aula 02 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/wUx2IetHK1I" target="_blank">https://youtu.be/wUx2IetHK1I</a></p>
+</font>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d40 15
+@
