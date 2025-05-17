@@ -1,10 +1,15 @@
-head	1.12;
+head	1.13;
 access;
 symbols;
 locks
-	rjs:1.12; strict;
+	rjs:1.13; strict;
 comment	@# @;
 
+
+1.13
+date	2025.05.17.18.14.53;	author rjs;	state Exp;
+branches;
+next	1.12;
 
 1.12
 date	2025.05.13.13.12.13;	author rjs;	state Exp;
@@ -72,7 +77,7 @@ desc
 @
 
 
-1.12
+1.13
 log
 @.
 @
@@ -281,7 +286,46 @@ text
 <p><a href="https://youtu.be/5LJkO_yhWho" target="_blank">https://youtu.be/5LJkO_yhWho</a></p>
 <p>Aula 12 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/8p_4DAamt-s" target="_blank">https://youtu.be/8p_4DAamt-s</a></p>
+
+<br>
+<p>Aula 13 no YouTube!</p>
+<p>Aula 13 - Parte 01/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/xX6XsiVgTb8" target="_blank">https://youtu.be/xX6XsiVgTb8</a></p>
+<p>Aula 13 - Parte 02/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/k7ibrUfXp0Y" target="_blank">https://youtu.be/k7ibrUfXp0Y</a></p>
+<p>Aula 13 - Parte 03/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/5b0cRvU83V0" target="_blank">https://youtu.be/5b0cRvU83V0</a></p>
+<p>Aula 13 - Parte 04/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/nbOp6WY6mE0" target="_blank">https://youtu.be/nbOp6WY6mE0</a></p>
+<p>Aula 13 - Parte 05/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/4y7ueC_7yJY" target="_blank">https://youtu.be/4y7ueC_7yJY</a></p>
+<p>Aula 13 - Parte 06/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/qoyowASZj-8" target="_blank">https://youtu.be/qoyowASZj-8</a></p>
+<p>Aula 13 - Parte 07/07 - Ciência da Computação</p>
+<p><a href="https://youtu.be/6AOmIoE3zeY" target="_blank">https://youtu.be/6AOmIoE3zeY</a></p>
+
+<br>
+<p>Aula 14 no YouTube!</p>
+<p>Aula 14 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/8fM74ZDOCA0" target="_blank">https://youtu.be/8fM74ZDOCA0</a></p>
+<p>Aula 14 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/7M_w5Wj6i7M" target="_blank">https://youtu.be/7M_w5Wj6i7M</a></p>
+<p>Aula 14 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/OiegQcjP6Yg" target="_blank">https://youtu.be/OiegQcjP6Yg</a></p>
+<p>Aula 14 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/Gg5q5tncnu4" target="_blank">https://youtu.be/Gg5q5tncnu4</a></p>
+<p>Aula 14 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ZZkWfg5JAwY" target="_blank">https://youtu.be/ZZkWfg5JAwY</a></p>
 </font>
+@
+
+
+1.12
+log
+@.
+@
+text
+@d205 30
 @
 
 
