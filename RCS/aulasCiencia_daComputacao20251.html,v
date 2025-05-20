@@ -1,10 +1,15 @@
-head	1.13;
+head	1.14;
 access;
 symbols;
 locks
-	rjs:1.13; strict;
+	rjs:1.14; strict;
 comment	@# @;
 
+
+1.14
+date	2025.05.20.13.00.24;	author rjs;	state Exp;
+branches;
+next	1.13;
 
 1.13
 date	2025.05.17.18.14.53;	author rjs;	state Exp;
@@ -77,7 +82,7 @@ desc
 @
 
 
-1.13
+1.14
 log
 @.
 @
@@ -316,7 +321,31 @@ text
 <p><a href="https://youtu.be/Gg5q5tncnu4" target="_blank">https://youtu.be/Gg5q5tncnu4</a></p>
 <p>Aula 14 - Parte 05/05 - Ciência da Computação</p>
 <p><a href="https://youtu.be/ZZkWfg5JAwY" target="_blank">https://youtu.be/ZZkWfg5JAwY</a></p>
+
+<br>
+<p>Aula 15 no YouTube!</p>
+<p>Aula 15 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/vwIG-A_7XN8" target="_blank">https://youtu.be/vwIG-A_7XN8</a></p>
+<p>Aula 15 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/XWebj_pUGHo" target="_blank">https://youtu.be/XWebj_pUGHo</a></p>
+<p>Aula 15 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/cd-BQJjFP6U" target="_blank">https://youtu.be/cd-BQJjFP6U</a></p>
+<p>Aula 15 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/oP3Ff__8Oc0" target="_blank">https://youtu.be/oP3Ff__8Oc0</a></p>
+<p>Aula 15 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/4BNDJMGuDu0" target="_blank">https://youtu.be/4BNDJMGuDu0</a></p>
+<p>Aula 15 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/OrT-jjNOr38" target="_blank">https://youtu.be/OrT-jjNOr38</a></p>
 </font>
+@
+
+
+1.13
+log
+@.
+@
+text
+@d235 15
 @
 
 
