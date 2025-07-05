@@ -1,10 +1,15 @@
-head	1.24;
+head	1.25;
 access;
 symbols;
 locks
-	rjs:1.24; strict;
+	rjs:1.25; strict;
 comment	@# @;
 
+
+1.25
+date	2025.07.05.16.53.11;	author rjs;	state Exp;
+branches;
+next	1.24;
 
 1.24
 date	2025.06.19.13.40.23;	author rjs;	state Exp;
@@ -132,7 +137,7 @@ desc
 @
 
 
-1.24
+1.25
 log
 @.
 @
@@ -598,7 +603,104 @@ text
 <p><a href="https://youtu.be/ubZZCjYGbGQ" target="_blank">https://youtu.be/ubZZCjYGbGQ</a></p>
 <p>Aula 28 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/847ddooVYvY" target="_blank">https://youtu.be/847ddooVYvY</a></p>
+
+<br>
+<p>Aula 29 no YouTube!</p>
+<p>Aula 29 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/2S2e1tabroY" target="_blank">https://youtu.be/2S2e1tabroY</a></p>
+<p>Aula 29 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/C8MDW77Zq4M" target="_blank">https://youtu.be/C8MDW77Zq4M</a></p>
+<p>Aula 29 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/jMgilqobrzk" target="_blank">https://youtu.be/jMgilqobrzk</a></p>
+<p>Aula 29 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/v5PPFWRLnag" target="_blank">https://youtu.be/v5PPFWRLnag</a></p>
+<p>Aula 29 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/WNLUcATlfeY" target="_blank">https://youtu.be/WNLUcATlfeY</a></p>
+<p>Aula 29 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/m93Iay6lNPs" target="_blank">https://youtu.be/m93Iay6lNPs</a></p>
+
+<br>
+<p>Aula 30 no YouTube!</p>
+<p>Aula 30 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/b-PDw7RurpU" target="_blank">https://youtu.be/b-PDw7RurpU</a></p>
+<p>Aula 30 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/bY2XFVDIJ08" target="_blank">https://youtu.be/bY2XFVDIJ08</a></p>
+<p>Aula 30 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/GmeEad-j_XM" target="_blank">https://youtu.be/GmeEad-j_XM</a></p>
+<p>Aula 30 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/vKnITB8v0OY" target="_blank">https://youtu.be/vKnITB8v0OY</a></p>
+<p>Aula 30 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/fSTRLtiGCVI" target="_blank">https://youtu.be/fSTRLtiGCVI</a></p>
+<p>Aula 30 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/apqklFRIHbg" target="_blank">https://youtu.be/apqklFRIHbg</a></p>
+
+<br>
+<p>Aula de Exercício 01 no YouTube!</p>
+<p>Aula de Exercício 01 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/HpUyf1kG3ao" target="_blank">https://youtu.be/HpUyf1kG3ao</a></p>
+<p>Aula de Exercício 01 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/8TuYxYEtT8c" target="_blank">https://youtu.be/8TuYxYEtT8c</a></p>
+<p>Aula de Exercício 01 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/38a76CU_PYQ" target="_blank">https://youtu.be/38a76CU_PYQ</a></p>
+<p>Aula de Exercício 01 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/AGmKq1O_J-g" target="_blank">https://youtu.be/AGmKq1O_J-g</a></p>
+<p>Aula de Exercício 01 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/hKg8i1gr6ss" target="_blank">https://youtu.be/hKg8i1gr6ss</a></p>
+
+<br>
+<p>Aula 31 no YouTube!</p>
+<p>Aula 31 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/RGuH19sG72g" target="_blank">https://youtu.be/RGuH19sG72g</a></p>
+<p>Aula 31 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/K8I8FnUeOAQ" target="_blank">https://youtu.be/K8I8FnUeOAQ</a></p>
+<p>Aula 31 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/LUpacD--AcU" target="_blank">https://youtu.be/LUpacD--AcU</a></p>
+<p>Aula 31 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/dF7uJaH3lr0" target="_blank">https://youtu.be/dF7uJaH3lr0</a></p>
+<p>Aula 31 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/otbsDaBQC1I" target="_blank">https://youtu.be/otbsDaBQC1I</a></p>
+<p>Aula 31 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/76vjCDxdMdI" target="_blank">https://youtu.be/76vjCDxdMdI</a></p>
+
+<br>
+<p>Aula 32 no YouTube!</p>
+<p>Aula 32 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/adeM8FgR_JI" target="_blank">https://youtu.be/adeM8FgR_JI</a></p>
+<p>Aula 32 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/nDOqQ6mK_io" target="_blank">https://youtu.be/nDOqQ6mK_io</a></p>
+<p>Aula 32 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/WNuX9lsRVIc" target="_blank">https://youtu.be/WNuX9lsRVIc</a></p>
+<p>Aula 32 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/zd53T7_96cM" target="_blank">https://youtu.be/zd53T7_96cM</a></p>
+<p>Aula 32 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Re55kz1Ye2w" target="_blank">https://youtu.be/Re55kz1Ye2w</a></p>
+<p>Aula 32 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/xpG30233rvw" target="_blank">https://youtu.be/xpG30233rvw</a></p>
+
+<br>
+<p>Aula 33 no YouTube!</p>
+<p>Aula 33 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/txJLM385HMg" target="_blank">https://youtu.be/txJLM385HMg</a></p>
+<p>Aula 33 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/xGDZv6dZZZs" target="_blank">https://youtu.be/xGDZv6dZZZs</a></p>
+<p>Aula 33 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/4aYciIUoJYI" target="_blank">https://youtu.be/4aYciIUoJYI</a></p>
+<p>Aula 33 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/5vo6OYsRPNI" target="_blank">https://youtu.be/5vo6OYsRPNI</a></p>
+<p>Aula 33 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/xwTMC3fF4HI" target="_blank">https://youtu.be/xwTMC3fF4HI</a></p>
+<p>Aula 33 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/spjlADU-7lA" target="_blank">https://youtu.be/spjlADU-7lA</a></p>
 </font>
+@
+
+
+1.24
+log
+@.
+@
+text
+@d462 88
 @
 
 
