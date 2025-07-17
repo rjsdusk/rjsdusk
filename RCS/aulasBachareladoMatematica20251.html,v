@@ -1,10 +1,15 @@
-head	1.27;
+head	1.28;
 access;
 symbols;
 locks
-	rjs:1.27; strict;
+	rjs:1.28; strict;
 comment	@# @;
 
+
+1.28
+date	2025.07.17.01.25.04;	author rjs;	state Exp;
+branches;
+next	1.27;
 
 1.27
 date	2025.07.12.21.15.35;	author rjs;	state Exp;
@@ -147,7 +152,7 @@ desc
 @
 
 
-1.27
+1.28
 log
 @.
 @
@@ -731,7 +736,44 @@ text
 <p><a href="https://youtu.be/XuFtSZfq7Zg" target="_blank">https://youtu.be/XuFtSZfq7Zg</a></p>
 <p>Aula 35 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/Ag1payWdJ80" target="_blank">https://youtu.be/Ag1payWdJ80</a></p>
+
+<br>
+<p>Aula 36 no YouTube!</p>
+<p>Aula 36 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/2dBbzcBgkWM" target="_blank">https://youtu.be/2dBbzcBgkWM</a></p>
+<p>Aula 36 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Kl_65xroYkk" target="_blank">https://youtu.be/Kl_65xroYkk</a></p>
+<p>Aula 36 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/qiiNgSQUL_0" target="_blank">https://youtu.be/qiiNgSQUL_0</a></p>
+<p>Aula 36 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/EwX5VP--3hI" target="_blank">https://youtu.be/EwX5VP--3hI</a></p>
+<p>Aula 36 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/p2e6FzcWhFo" target="_blank">https://youtu.be/p2e6FzcWhFo</a></p>
+
+<br>
+<p>Aula 37 no YouTube!</p>
+<p>Aula 37 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/bqhrgvsT0HM" target="_blank">https://youtu.be/bqhrgvsT0HM</a></p>
+<p>Aula 37 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/SP_KOOIep1k" target="_blank">https://youtu.be/SP_KOOIep1k</a></p>
+<p>Aula 37 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/EvA7MWDDTKQ" target="_blank">https://youtu.be/EvA7MWDDTKQ</a></p>
+<p>Aula 37 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/Ad6yKTc1DSo" target="_blank">https://youtu.be/Ad6yKTc1DSo</a></p>
+<p>Aula 37 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/g_f3EpbYn8I" target="_blank">https://youtu.be/g_f3EpbYn8I</a></p>
+<p>Aula 37 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/KOSHz2OxviQ" target="_blank">https://youtu.be/KOSHz2OxviQ</a></p>
 </font>
+@
+
+
+1.27
+log
+@.
+@
+text
+@d580 28
 @
 
 
