@@ -1,10 +1,15 @@
-head	1.29;
+head	1.30;
 access;
 symbols;
 locks
-	rjs:1.29; strict;
+	rjs:1.30; strict;
 comment	@# @;
 
+
+1.30
+date	2025.07.22.01.02.16;	author rjs;	state Exp;
+branches;
+next	1.29;
 
 1.29
 date	2025.07.19.15.00.20;	author rjs;	state Exp;
@@ -157,7 +162,7 @@ desc
 @
 
 
-1.29
+1.30
 log
 @.
 @
@@ -784,7 +789,31 @@ text
 <p><a href="https://youtu.be/6QB7ndaFE_o" target="_blank">https://youtu.be/6QB7ndaFE_o</a></p>
 <p>Aula 38 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/mJjBzYiSp8k" target="_blank">https://youtu.be/mJjBzYiSp8k</a></p>
+
+<br>
+<p>Aula 39 no YouTube!</p>
+<p>Aula 39 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/eYvCGiO6_xU" target="_blank">https://youtu.be/eYvCGiO6_xU</a></p>
+<p>Aula 39 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/7srbZeYD6Ls" target="_blank">https://youtu.be/7srbZeYD6Ls</a></p>
+<p>Aula 39 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/FyGbSOqbL5E" target="_blank">https://youtu.be/FyGbSOqbL5E</a></p>
+<p>Aula 39 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/YYDUOqv3vUU" target="_blank">https://youtu.be/YYDUOqv3vUU</a></p>
+<p>Aula 39 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/OXOx_Vs3uR8" target="_blank">https://youtu.be/OXOx_Vs3uR8</a></p>
+<p>Aula 39 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/4ov67a61AJc" target="_blank">https://youtu.be/4ov67a61AJc</a></p>
 </font>
+@
+
+
+1.29
+log
+@.
+@
+text
+@d623 15
 @
 
 

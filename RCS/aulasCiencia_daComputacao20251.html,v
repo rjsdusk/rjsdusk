@@ -1,10 +1,15 @@
-head	1.29;
+head	1.30;
 access;
 symbols;
 locks
-	rjs:1.29; strict;
+	rjs:1.30; strict;
 comment	@# @;
 
+
+1.30
+date	2025.07.22.01.02.17;	author rjs;	state Exp;
+branches;
+next	1.29;
 
 1.29
 date	2025.07.19.15.00.20;	author rjs;	state Exp;
@@ -157,7 +162,7 @@ desc
 @
 
 
-1.29
+1.30
 log
 @.
 @
@@ -759,7 +764,29 @@ text
 <p><a href="https://youtu.be/jMWQzq1sSlU" target="_blank">https://youtu.be/jMWQzq1sSlU</a></p>
 <p>Aula 38 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/LyfyGr1LwVg" target="_blank">https://youtu.be/LyfyGr1LwVg</a></p>
+
+<br>
+<p>Aula 39 no YouTube!</p>
+<p>Aula 39 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/GXnbm7qrqy0" target="_blank">https://youtu.be/GXnbm7qrqy0</a></p>
+<p>Aula 39 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/j1rac9pQT5c" target="_blank">https://youtu.be/j1rac9pQT5c</a></p>
+<p>Aula 39 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/BXYqjRjJTvU" target="_blank">https://youtu.be/BXYqjRjJTvU</a></p>
+<p>Aula 39 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/QTFyZ-mLFvo" target="_blank">https://youtu.be/QTFyZ-mLFvo</a></p>
+<p>Aula 39 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/UQzQCG27INY" target="_blank">https://youtu.be/UQzQCG27INY</a></p>
 </font>
+@
+
+
+1.29
+log
+@.
+@
+text
+@d598 13
 @
 
 
