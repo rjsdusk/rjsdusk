@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2025.09.07.18.52.57;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2024.10.24.19.19.10;	author rjs;	state Exp;
@@ -17,7 +22,7 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
@@ -39,7 +44,7 @@ text
 Professor: Romildo José da Silva<br>
 Disciplina: Cálculo Diferencial e Integral II<br>
 Código: CB0535 Turma: 02<br>
-Curso: Bacharelado em Física<br>
+Curso: Bacharelado em Matemática<br>
 Semestre: 2024.2<br>
 Horário: Seg, Qua e Sex, 08h00 - 10h00
     </font>
@@ -53,10 +58,24 @@ Horário: Seg, Qua e Sex, 08h00 - 10h00
 <p> <a href="https://drive.google.com/drive/folders/16eM8bdBDSxFHHS_FcCIjFQoCMvH0iqCa?usp=sharing" target="_blank">Pasta da Disciplina no Google Drive</a> </p>
 <p> <a href="https://groups.google.com/g/calculosegundomate20242" target="_blank">Grupo da Disciplina no Google</a> </p>
 <p> <a href="aulasBachareladoMatematica20242.html" target="_blank">Aulas no YouTube</a> </p>
-<p> <a href="https://www.ufc.br/calendario-universitario/2024-ajuste-pos-greve" target="_blank">Calendário Universitário da UFC - 2023</a> </p>
+<p> <a href="https://www.ufc.br/calendario-universitario/2024-ajuste-pos-greve" target="_blank">Calendário Universitário da UFC - 2024</a> </p>
 <p> <a href="https://www.rjsdusk.org">Página Inicial</a> </p>
 </font>
 
 </body>
 </html>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d18 1
+a18 1
+Curso: Bacharelado em Física<br>
+d32 1
+a32 1
+<p> <a href="https://www.ufc.br/calendario-universitario/2024-ajuste-pos-greve" target="_blank">Calendário Universitário da UFC - 2023</a> </p>
 @
