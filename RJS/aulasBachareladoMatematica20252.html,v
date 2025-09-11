@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2025.09.11.00.32.31;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2025.09.07.18.52.56;	author rjs;	state Exp;
@@ -17,7 +22,7 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
@@ -48,6 +53,28 @@ text
 <font face="Lucida Bright, Times New Roman" size="+1">
 
 <br>
+<p>Aula 05 no YouTube!</p>
+<p>Aula 05 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/vC6mmbq-XUw" target="_blank">https://youtu.be/vC6mmbq-XUw</a></p>
+<p>Aula 05 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/MEEhf2hSedw" target="_blank">https://youtu.be/MEEhf2hSedw</a></p>
+<p>Aula 05 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/MT-XPrMf7Zs" target="_blank">https://youtu.be/MT-XPrMf7Zs</a></p>
+<p>Aula 05 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/NBQnUFFiLr8" target="_blank">https://youtu.be/NBQnUFFiLr8</a></p>
+<p>Aula 05 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/4ZYkhig_RWE" target="_blank">https://youtu.be/4ZYkhig_RWE</a></p>
+</font>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d27 11
+a37 7
 <p>Aula 01 no YouTube!</p>
 <p>Aula 01 - Parte 01/06 - Bacharelado em Matemática</p>
 <p>Aula 01 - Parte 02/06 - Bacharelado em Matemática</p>
@@ -55,5 +82,4 @@ text
 <p>Aula 01 - Parte 04/06 - Bacharelado em Matemática</p>
 <p>Aula 01 - Parte 05/06 - Bacharelado em Matemática</p>
 <p>Aula 01 - Parte 06/06 - Bacharelado em Matemática</p>
-</font>
 @
