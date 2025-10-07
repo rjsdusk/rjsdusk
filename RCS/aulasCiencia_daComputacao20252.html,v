@@ -1,10 +1,15 @@
-head	1.11;
+head	1.12;
 access;
 symbols;
 locks
-	rjs:1.11; strict;
+	rjs:1.12; strict;
 comment	@# @;
 
+
+1.12
+date	2025.10.07.15.35.48;	author rjs;	state Exp;
+branches;
+next	1.11;
 
 1.11
 date	2025.10.04.14.24.44;	author rjs;	state Exp;
@@ -67,7 +72,7 @@ desc
 @
 
 
-1.11
+1.12
 log
 @.
 @
@@ -259,7 +264,27 @@ text
 <p><a href="https://youtu.be/8LAg6e7jP2A" target="_blank">https://youtu.be/8LAg6e7jP2A</a></p>
 <p>Aula 11 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/m0-1MhS4r7w" target="_blank">https://youtu.be/m0-1MhS4r7w</a></p>
+
+<br>
+<p>Aula 12 no YouTube!</p>
+<p>Aula 12 - Parte 01/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/AtXPIVFj0oo" target="_blank">https://youtu.be/AtXPIVFj0oo</a></p>
+<p>Aula 12 - Parte 02/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/RQ-pnatZDsw" target="_blank">https://youtu.be/RQ-pnatZDsw</a></p>
+<p>Aula 12 - Parte 03/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/9CtfkFlx2uo" target="_blank">https://youtu.be/9CtfkFlx2uo</a></p>
+<p>Aula 12 - Parte 04/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/YEARFSszu8A" target="_blank">https://youtu.be/YEARFSszu8A</a></p>
 </font>
+@
+
+
+1.11
+log
+@.
+@
+text
+@d188 11
 @
 
 
