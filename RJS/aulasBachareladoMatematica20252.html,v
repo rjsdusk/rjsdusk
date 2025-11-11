@@ -1,10 +1,15 @@
-head	1.18;
+head	1.19;
 access;
 symbols;
 locks
-	rjs:1.18; strict;
+	rjs:1.19; strict;
 comment	@# @;
 
+
+1.19
+date	2025.11.11.00.03.09;	author rjs;	state Exp;
+branches;
+next	1.18;
 
 1.18
 date	2025.11.01.01.49.29;	author rjs;	state Exp;
@@ -102,7 +107,7 @@ desc
 @
 
 
-1.18
+1.19
 log
 @.
 @
@@ -396,7 +401,44 @@ text
 <p><a href="https://youtu.be/20P1pb-am-s" target="_blank">https://youtu.be/20P1pb-am-s</a></p>
 <p>Aula 19 - Parte 06/06 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/gnuQiIjHoHM" target="_blank">https://youtu.be/gnuQiIjHoHM</a></p>
+
+<br>
+<p>Aula 20 no YouTube!</p>
+<p>Aula 20 - Parte 01/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/kMIs2tOG4QY" target="_blank">https://youtu.be/kMIs2tOG4QY</a></p>
+<p>Aula 20 - Parte 02/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/iht3hsVae94" target="_blank">https://youtu.be/iht3hsVae94</a></p>
+<p>Aula 20 - Parte 03/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/xPn9gY1TXMg" target="_blank">https://youtu.be/xPn9gY1TXMg</a></p>
+<p>Aula 20 - Parte 04/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/UlaDI44FFXk" target="_blank">https://youtu.be/UlaDI44FFXk</a></p>
+<p>Aula 20 - Parte 05/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/AaY3bucDzEA" target="_blank">https://youtu.be/AaY3bucDzEA</a></p>
+<p>Aula 20 - Parte 06/06 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/HG2VxGq_eGA" target="_blank">https://youtu.be/HG2VxGq_eGA</a></p>
+
+<br>
+<p>Aula 21 no YouTube!</p>
+<p>Aula 21 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/iAiuBPmLpck" target="_blank">https://youtu.be/iAiuBPmLpck</a></p>
+<p>Aula 21 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/9tOcEM_oCRI" target="_blank">https://youtu.be/9tOcEM_oCRI</a></p>
+<p>Aula 21 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/4ZRdvet54EQ" target="_blank">https://youtu.be/4ZRdvet54EQ</a></p>
+<p>Aula 21 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/glh9Bq9dyMk" target="_blank">https://youtu.be/glh9Bq9dyMk</a></p>
+<p>Aula 21 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/YFHqi0xXjug" target="_blank">https://youtu.be/YFHqi0xXjug</a></p>
 </font>
+@
+
+
+1.18
+log
+@.
+@
+text
+@d290 28
 @
 
 
