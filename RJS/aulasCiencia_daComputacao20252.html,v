@@ -1,10 +1,15 @@
-head	1.20;
+head	1.21;
 access;
 symbols;
 locks
-	rjs:1.20; strict;
+	rjs:1.21; strict;
 comment	@# @;
 
+
+1.21
+date	2025.11.18.15.48.25;	author rjs;	state Exp;
+branches;
+next	1.20;
 
 1.20
 date	2025.11.15.16.14.39;	author rjs;	state Exp;
@@ -112,7 +117,7 @@ desc
 @
 
 
-1.20
+1.21
 log
 @.
 @
@@ -476,7 +481,29 @@ text
 <p><a href="https://youtu.be/dgbKAC48EVY" target="_blank">https://youtu.be/dgbKAC48EVY</a></p>
 <p>Aula 23 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/0y63f81l_Jg" target="_blank">https://youtu.be/0y63f81l_Jg</a></p>
+
+<br>
+<p>Aula 24 no YouTube!</p>
+<p>Aula 24 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/tnj8Pe31dk0" target="_blank">https://youtu.be/tnj8Pe31dk0</a></p>
+<p>Aula 24 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/44DZ4ySQRAs" target="_blank">https://youtu.be/44DZ4ySQRAs</a></p>
+<p>Aula 24 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/msnq9ltybYg" target="_blank">https://youtu.be/msnq9ltybYg</a></p>
+<p>Aula 24 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/tUlh3kV75AY" target="_blank">https://youtu.be/tUlh3kV75AY</a></p>
+<p>Aula 24 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/CUqagg5yTAA" target="_blank">https://youtu.be/CUqagg5yTAA</a></p>
 </font>
+@
+
+
+1.20
+log
+@.
+@
+text
+@d360 13
 @
 
 
