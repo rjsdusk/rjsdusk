@@ -1,10 +1,15 @@
-head	1.26;
+head	1.27;
 access;
 symbols;
 locks
-	rjs:1.26; strict;
+	rjs:1.27; strict;
 comment	@# @;
 
+
+1.27
+date	2025.12.14.19.25.39;	author rjs;	state Exp;
+branches;
+next	1.26;
 
 1.26
 date	2025.12.11.00.08.11;	author rjs;	state Exp;
@@ -142,7 +147,7 @@ desc
 @
 
 
-1.26
+1.27
 log
 @.
 @
@@ -611,7 +616,29 @@ text
 <p><a href="https://youtu.be/TH00iMwSuiM" target="_blank">https://youtu.be/TH00iMwSuiM</a></p>
 <p>Aula 32 - Parte 04/04 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/Qx-a6HSGmk4" target="_blank">https://youtu.be/Qx-a6HSGmk4</a></p>
+
+<br>
+<p>Aula 33 no YouTube!</p>
+<p>Aula 33 - Parte 01/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/uEbZkhWlcCQ" target="_blank">https://youtu.be/uEbZkhWlcCQ</a></p>
+<p>Aula 33 - Parte 02/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/A-FW-3n10nE" target="_blank">https://youtu.be/A-FW-3n10nE</a></p>
+<p>Aula 33 - Parte 03/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/fdSpuTN0Q28" target="_blank">https://youtu.be/fdSpuTN0Q28</a></p>
+<p>Aula 33 - Parte 04/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/DL7VC3oASMM" target="_blank">https://youtu.be/DL7VC3oASMM</a></p>
+<p>Aula 33 - Parte 05/05 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/hAG-rkMkYdY" target="_blank">https://youtu.be/hAG-rkMkYdY</a></p>
 </font>
+@
+
+
+1.26
+log
+@.
+@
+text
+@d465 13
 @
 
 
