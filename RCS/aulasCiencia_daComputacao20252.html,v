@@ -1,10 +1,15 @@
-head	1.30;
+head	1.31;
 access;
 symbols;
 locks
-	rjs:1.30; strict;
+	rjs:1.31; strict;
 comment	@# @;
 
+
+1.31
+date	2026.01.08.15.36.02;	author rjs;	state Exp;
+branches;
+next	1.30;
 
 1.30
 date	2025.12.19.22.39.12;	author rjs;	state Exp;
@@ -162,7 +167,7 @@ desc
 @
 
 
-1.30
+1.31
 log
 @.
 @
@@ -707,7 +712,46 @@ text
 <p><a href="https://youtu.be/CT5aqi1ACUo" target="_blank">https://youtu.be/CT5aqi1ACUo</a></p>
 <p>Aula 36 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/V0vH5M79xcc" target="_blank">https://youtu.be/V0vH5M79xcc</a></p>
+
+<br>
+<p>Aula 37 no YouTube!</p>
+<p>Aula 37 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/hvw2WPcrllw" target="_blank">https://youtu.be/hvw2WPcrllw</a></p>
+<p>Aula 37 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ViPELAwIauE" target="_blank">https://youtu.be/ViPELAwIauE</a></p>
+<p>Aula 37 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/L_Cd0cNt0BY" target="_blank">https://youtu.be/L_Cd0cNt0BY</a></p>
+<p>Aula 37 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/CSak5B6PTfs" target="_blank">https://youtu.be/CSak5B6PTfs</a></p>
+<p>Aula 37 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/-XdyY9L38f0" target="_blank">https://youtu.be/-XdyY9L38f0</a></p>
+<p>Aula 37 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/UrFwjbByIP8" target="_blank">https://youtu.be/UrFwjbByIP8</a></p>
+
+<br>
+<p>Aula 38 no YouTube!</p>
+<p>Aula 38 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ZPCXFcBbscs" target="_blank">https://youtu.be/ZPCXFcBbscs</a></p>
+<p>Aula 38 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/EXy_p2RdfAs" target="_blank">https://youtu.be/EXy_p2RdfAs</a></p>
+<p>Aula 38 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/MMj_Hf-Ox6k" target="_blank">https://youtu.be/MMj_Hf-Ox6k</a></p>
+<p>Aula 38 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/L58INRbP480" target="_blank">https://youtu.be/L58INRbP480</a></p>
+<p>Aula 38 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/hRUsekfbXNo" target="_blank">https://youtu.be/hRUsekfbXNo</a></p>
+<p>Aula 38 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/4_ZEKz33fmg" target="_blank">https://youtu.be/4_ZEKz33fmg</a></p>
 </font>
+@
+
+
+1.30
+log
+@.
+@
+text
+@d541 30
 @
 
 
