@@ -1,10 +1,15 @@
-head	1.33;
+head	1.34;
 access;
 symbols;
 locks
-	rjs:1.33; strict;
+	rjs:1.34; strict;
 comment	@# @;
 
+
+1.34
+date	2026.01.15.01.09.36;	author rjs;	state Exp;
+branches;
+next	1.33;
 
 1.33
 date	2026.01.13.02.23.41;	author rjs;	state Exp;
@@ -177,7 +182,7 @@ desc
 @
 
 
-1.33
+1.34
 log
 @.
 @
@@ -756,7 +761,27 @@ text
 <p><a href="https://youtu.be/L6IHkoVXLN8" target="_blank">https://youtu.be/L6IHkoVXLN8</a></p>
 <p>Aula 40 - Parte 05/05 - Bacharelado em Matemática</p>
 <p><a href="https://youtu.be/F1kJu-qdIAM" target="_blank">https://youtu.be/F1kJu-qdIAM</a></p>
+
+<br>
+<p>Aula 41 no YouTube!</p>
+<p>Aula 41 - Parte 01/04 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/L0ib8c0Cqtw" target="_blank">https://youtu.be/L0ib8c0Cqtw</a></p>
+<p>Aula 41 - Parte 02/04 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/8iiyQx_pfHU" target="_blank">https://youtu.be/8iiyQx_pfHU</a></p>
+<p>Aula 41 - Parte 03/04 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/3NoITaxiNrs" target="_blank">https://youtu.be/3NoITaxiNrs</a></p>
+<p>Aula 41 - Parte 04/04 - Bacharelado em Matemática</p>
+<p><a href="https://youtu.be/GSLr73pwods" target="_blank">https://youtu.be/GSLr73pwods</a></p>
 </font>
+@
+
+
+1.33
+log
+@.
+@
+text
+@d575 11
 @
 
 
