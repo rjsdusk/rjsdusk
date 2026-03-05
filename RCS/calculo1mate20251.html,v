@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	rjs:1.1; strict;
+	rjs:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2026.03.05.13.32.45;	author rjs;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2025.04.05.17.03.39;	author rjs;	state Exp;
@@ -17,7 +22,7 @@ desc
 @
 
 
-1.1
+1.2
 log
 @.
 @
@@ -38,7 +43,7 @@ text
     <font face="Lucida Bright, Times New Roman">
 Professor: Romildo José da Silva<br>
 Disciplina: Cálculo Diferencial e Integral I<br>
-Código: CB0535 Turma: 01<br>
+Código: CB0534 Turma: 01<br>
 Curso: Bacharelado em Matemática<br>
 Semestre: 2025.1<br>
 Horário: Seg, Qua e Sex, 08h00 - 10h00
@@ -59,4 +64,15 @@ Horário: Seg, Qua e Sex, 08h00 - 10h00
 
 </body>
 </html>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d17 1
+a17 1
+Código: CB0535 Turma: 01<br>
 @
