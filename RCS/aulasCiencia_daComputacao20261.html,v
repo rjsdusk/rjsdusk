@@ -1,10 +1,15 @@
-head	1.6;
+head	1.7;
 access;
 symbols;
 locks
-	rjs:1.6; strict;
+	rjs:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2026.04.17.21.19.22;	author rjs;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2026.04.11.14.07.44;	author rjs;	state Exp;
@@ -42,7 +47,7 @@ desc
 @
 
 
-1.6
+1.7
 log
 @.
 @
@@ -235,7 +240,40 @@ text
 <p><a href="https://youtu.be/LHVoIyiCDL0" target="_blank">https://youtu.be/LHVoIyiCDL0</a></p>
 <p>Aula 12 - Parte 05/05 - Ciência da Computação</p>
 <p><a href="https://youtu.be/aOp8hTYSpIQ" target="_blank">https://youtu.be/aOp8hTYSpIQ</a></p>
+
+<br>
+<p>Aula 13 no YouTube!</p>
+<p>Aula 13 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/Q_gk7t22WZ4" target="_blank">https://youtu.be/Q_gk7t22WZ4</a></p>
+<p>Aula 13 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/CHw2K_G8WXs" target="_blank">https://youtu.be/CHw2K_G8WXs</a></p>
+<p>Aula 13 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/cJY-aXNLCOA" target="_blank">https://youtu.be/cJY-aXNLCOA</a></p>
+<p>Aula 13 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/YNrwxUXKu24" target="_blank">https://youtu.be/YNrwxUXKu24</a></p>
+<p>Aula 13 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/dGv16Z2YnfA" target="_blank">https://youtu.be/dGv16Z2YnfA</a></p>
+
+<br>
+<p>Aula 14 no YouTube!</p>
+<p>Aula 14 - Parte 01/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/Ie0t0sMWlaA" target="_blank">https://youtu.be/Ie0t0sMWlaA</a></p>
+<p>Aula 14 - Parte 02/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/7m4GRLRGBkE" target="_blank">https://youtu.be/7m4GRLRGBkE</a></p>
+<p>Aula 14 - Parte 03/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/mlJdiGr-Wg4" target="_blank">https://youtu.be/mlJdiGr-Wg4</a></p>
+<p>Aula 14 - Parte 04/04 - Ciência da Computação</p>
+<p><a href="https://youtu.be/pmkOvaBcHHo" target="_blank">https://youtu.be/pmkOvaBcHHo</a></p>
 </font>
+@
+
+
+1.6
+log
+@.
+@
+text
+@d189 24
 @
 
 
