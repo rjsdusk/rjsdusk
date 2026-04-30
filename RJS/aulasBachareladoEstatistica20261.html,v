@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	rjs:1.10; strict;
+	rjs:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2026.04.29.22.21.08;	author rjs;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2026.04.27.21.39.50;	author rjs;	state Exp;
@@ -62,7 +67,7 @@ desc
 @
 
 
-1.10
+1.11
 log
 @.
 @
@@ -323,7 +328,31 @@ text
 <p><a href="https://youtu.be/CS9Ki2iexIs" target="_blank">https://youtu.be/CS9Ki2iexIs</a></p>
 <p>Aula 16 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/w651Ut_S_08" target="_blank">https://youtu.be/w651Ut_S_08</a></p>
+
+<br>
+<p>Aula 17 no YouTube!</p>
+<p>Aula 17 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/GPGp3j-nr7w" target="_blank">https://youtu.be/GPGp3j-nr7w</a></p>
+<p>Aula 17 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/T7_cxLzZjv4" target="_blank">https://youtu.be/T7_cxLzZjv4</a></p>
+<p>Aula 17 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/K3tmejTG1bI" target="_blank">https://youtu.be/K3tmejTG1bI</a></p>
+<p>Aula 17 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/GOCjaAelsbA" target="_blank">https://youtu.be/GOCjaAelsbA</a></p>
+<p>Aula 17 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/16afVsSbOHs" target="_blank">https://youtu.be/16afVsSbOHs</a></p>
+<p>Aula 17 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/V1d19iwUQOQ" target="_blank">https://youtu.be/V1d19iwUQOQ</a></p>
 </font>
+@
+
+
+1.10
+log
+@.
+@
+text
+@d257 15
 @
 
 
