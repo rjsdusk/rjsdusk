@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	rjs:1.10; strict;
+	rjs:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2026.05.05.10.32.18;	author rjs;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2026.04.29.22.21.09;	author rjs;	state Exp;
@@ -62,7 +67,7 @@ desc
 @
 
 
-1.10
+1.11
 log
 @.
 @
@@ -339,7 +344,29 @@ text
 <p><a href="https://youtu.be/mvN1XoJx2uQ" target="_blank">https://youtu.be/mvN1XoJx2uQ</a></p>
 <p>Aula 18 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/jU4dVGuFXuc" target="_blank">https://youtu.be/jU4dVGuFXuc</a></p>
+
+<br>
+<p>Aula 19 no YouTube!</p>
+<p>Aula 19 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/jMj1spUN_dQ" target="_blank">https://youtu.be/jMj1spUN_dQ</a></p>
+<p>Aula 19 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/sTLJm9YMkFU" target="_blank">https://youtu.be/sTLJm9YMkFU</a></p>
+<p>Aula 19 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/AnlYnvNbIaU" target="_blank">https://youtu.be/AnlYnvNbIaU</a></p>
+<p>Aula 19 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/CqK4AxMJW18" target="_blank">https://youtu.be/CqK4AxMJW18</a></p>
+<p>Aula 19 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/lCALWSrzuiQ" target="_blank">https://youtu.be/lCALWSrzuiQ</a></p>
 </font>
+@
+
+
+1.10
+log
+@.
+@
+text
+@d273 13
 @
 
 
