@@ -1,10 +1,15 @@
-head	1.18;
+head	1.19;
 access;
 symbols;
 locks
-	rjs:1.18; strict;
+	rjs:1.19; strict;
 comment	@# @;
 
+
+1.19
+date	2026.05.26.07.28.22;	author rjs;	state Exp;
+branches;
+next	1.18;
 
 1.18
 date	2026.05.23.08.38.21;	author rjs;	state Exp;
@@ -102,7 +107,7 @@ desc
 @
 
 
-1.18
+1.19
 log
 @.
 @
@@ -513,7 +518,31 @@ text
 <p><a href="https://youtu.be/87a9-af6igs" target="_blank">https://youtu.be/87a9-af6igs</a></p>
 <p>Aula 26 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/ejRATaDqiy8" target="_blank">https://youtu.be/ejRATaDqiy8</a></p>
+
+<br>
+<p>Aula 27 no YouTube!</p>
+<p>Aula 27 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/5vZ2LcU0raE" target="_blank">https://youtu.be/5vZ2LcU0raE</a></p>
+<p>Aula 27 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/D4CFG-VRjkE" target="_blank">https://youtu.be/D4CFG-VRjkE</a></p>
+<p>Aula 27 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/1kg4H-GvB9E" target="_blank">https://youtu.be/1kg4H-GvB9E</a></p>
+<p>Aula 27 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/1g8_-XtXZtw" target="_blank">https://youtu.be/1g8_-XtXZtw</a></p>
+<p>Aula 27 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/TROxM3Wkp8Y" target="_blank">https://youtu.be/TROxM3Wkp8Y</a></p>
+<p>Aula 27 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/VXU0f0yZMz8" target="_blank">https://youtu.be/VXU0f0yZMz8</a></p>
 </font>
+@
+
+
+1.18
+log
+@.
+@
+text
+@d407 15
 @
 
 
