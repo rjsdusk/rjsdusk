@@ -1,10 +1,15 @@
-head	1.17;
+head	1.18;
 access;
 symbols;
 locks
-	rjs:1.17; strict;
+	rjs:1.18; strict;
 comment	@# @;
 
+
+1.18
+date	2026.05.30.08.28.10;	author rjs;	state Exp;
+branches;
+next	1.17;
 
 1.17
 date	2026.05.23.08.38.22;	author rjs;	state Exp;
@@ -97,7 +102,7 @@ desc
 @
 
 
-1.17
+1.18
 log
 @.
 @
@@ -501,7 +506,29 @@ text
 <p><a href="https://youtu.be/xDFGxe4F4u8" target="_blank">https://youtu.be/xDFGxe4F4u8</a></p>
 <p>Aula 27 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/mhRdVI5Zsqs" target="_blank">https://youtu.be/mhRdVI5Zsqs</a></p>
+
+<br>
+<p>Aula 28 no YouTube!</p>
+<p>Aula 28 - Parte 01/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/kj0dismnAQY" target="_blank">https://youtu.be/kj0dismnAQY</a></p>
+<p>Aula 28 - Parte 02/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/-CQItV0GCuw" target="_blank">https://youtu.be/-CQItV0GCuw</a></p>
+<p>Aula 28 - Parte 03/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/AnKT1w0eHBo" target="_blank">https://youtu.be/AnKT1w0eHBo</a></p>
+<p>Aula 28 - Parte 04/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/dhWKMAy1OQc" target="_blank">https://youtu.be/dhWKMAy1OQc</a></p>
+<p>Aula 28 - Parte 05/05 - Ciência da Computação</p>
+<p><a href="https://youtu.be/J_d8OzkBj8w" target="_blank">https://youtu.be/J_d8OzkBj8w</a></p>
 </font>
+@
+
+
+1.17
+log
+@.
+@
+text
+@d400 13
 @
 
 
