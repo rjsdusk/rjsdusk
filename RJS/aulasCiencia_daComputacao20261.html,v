@@ -1,10 +1,15 @@
-head	1.21;
+head	1.22;
 access;
 symbols;
 locks
-	rjs:1.21; strict;
+	rjs:1.22; strict;
 comment	@# @;
 
+
+1.22
+date	2026.06.11.14.39.03;	author rjs;	state Exp;
+branches;
+next	1.21;
 
 1.21
 date	2026.06.09.08.11.23;	author rjs;	state Exp;
@@ -117,7 +122,7 @@ desc
 @
 
 
-1.21
+1.22
 log
 @.
 @
@@ -575,7 +580,31 @@ text
 <p><a href="https://youtu.be/TPLR25ounyE" target="_blank">https://youtu.be/TPLR25ounyE</a></p>
 <p>Aula 31 - Parte 06/06 - Ciência da Computação</p>
 <p><a href="https://youtu.be/eGkAfS6mnIk" target="_blank">https://youtu.be/eGkAfS6mnIk</a></p>
+
+<br>
+<p>Aula 32 no YouTube!</p>
+<p>Aula 32 - Parte 01/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ReNrRsOA234" target="_blank">https://youtu.be/ReNrRsOA234</a></p>
+<p>Aula 32 - Parte 02/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/YGgunhLq9Ok" target="_blank">https://youtu.be/YGgunhLq9Ok</a></p>
+<p>Aula 32 - Parte 03/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/y_jW9OkEv2Q" target="_blank">https://youtu.be/y_jW9OkEv2Q</a></p>
+<p>Aula 32 - Parte 04/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/do7g_w8QMfU" target="_blank">https://youtu.be/do7g_w8QMfU</a></p>
+<p>Aula 32 - Parte 05/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/TSr2PjE926w" target="_blank">https://youtu.be/TSr2PjE926w</a></p>
+<p>Aula 32 - Parte 06/06 - Ciência da Computação</p>
+<p><a href="https://youtu.be/ot5suNQn8c8" target="_blank">https://youtu.be/ot5suNQn8c8</a></p>
 </font>
+@
+
+
+1.21
+log
+@.
+@
+text
+@d454 15
 @
 
 
