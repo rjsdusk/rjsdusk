@@ -1,10 +1,15 @@
-head	1.24;
+head	1.25;
 access;
 symbols;
 locks
-	rjs:1.24; strict;
+	rjs:1.25; strict;
 comment	@# @;
 
+
+1.25
+date	2026.06.14.13.24.09;	author rjs;	state Exp;
+branches;
+next	1.24;
 
 1.24
 date	2026.06.11.14.39.02;	author rjs;	state Exp;
@@ -132,9 +137,9 @@ desc
 @
 
 
-1.24
+1.25
 log
-@.
+@*** empty log message ***
 @
 text
 @<html>
@@ -635,7 +640,31 @@ text
 <p><a href="https://youtu.be/RDqThOfbu0w" target="_blank">https://youtu.be/RDqThOfbu0w</a></p>
 <p>Aula 32 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/6hiLFYXB278" target="_blank">https://youtu.be/6hiLFYXB278</a></p>
+
+<br>
+<p>Aula 33 no YouTube!</p>
+<p>Aula 33 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/UBY-UP2yhmY" target="_blank">https://youtu.be/UBY-UP2yhmY</a></p>
+<p>Aula 33 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/qpSGWcr7z8c" target="_blank">https://youtu.be/qpSGWcr7z8c</a></p>
+<p>Aula 33 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/tyvH_Ag8_Fc" target="_blank">https://youtu.be/tyvH_Ag8_Fc</a></p>
+<p>Aula 33 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/_WmRk-cfq3o" target="_blank">https://youtu.be/_WmRk-cfq3o</a></p>
+<p>Aula 33 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/u1HOpktybJ4" target="_blank">https://youtu.be/u1HOpktybJ4</a></p>
+<p>Aula 33 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/Jx20rlI_0C0" target="_blank">https://youtu.be/Jx20rlI_0C0</a></p>
 </font>
+@
+
+
+1.24
+log
+@.
+@
+text
+@d499 15
 @
 
 
