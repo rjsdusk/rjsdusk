@@ -1,10 +1,15 @@
-head	1.32;
+head	1.33;
 access;
 symbols;
 locks
-	rjs:1.32; strict;
+	rjs:1.33; strict;
 comment	@# @;
 
+
+1.33
+date	2026.07.02.07.21.46;	author rjs;	state Exp;
+branches;
+next	1.32;
 
 1.32
 date	2026.06.30.07.31.48;	author rjs;	state Exp;
@@ -172,7 +177,7 @@ desc
 @
 
 
-1.32
+1.33
 log
 @.
 @
@@ -797,7 +802,31 @@ text
 <p><a href="https://youtu.be/8KkzneIdbkg" target="_blank">https://youtu.be/8KkzneIdbkg</a></p>
 <p>Aula 40 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/jAG24Yv3fEU" target="_blank">https://youtu.be/jAG24Yv3fEU</a></p>
+
+<br>
+<p>Aula 41 no YouTube!</p>
+<p>Aula 41 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/8RERS29o_Fc" target="_blank">https://youtu.be/8RERS29o_Fc</a></p>
+<p>Aula 41 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/eyegKSgtCKA" target="_blank">https://youtu.be/eyegKSgtCKA</a></p>
+<p>Aula 41 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/7f7TYhVkR3g" target="_blank">https://youtu.be/7f7TYhVkR3g</a></p>
+<p>Aula 41 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/W0kw5EBvRQ4" target="_blank">https://youtu.be/W0kw5EBvRQ4</a></p>
+<p>Aula 41 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/bndmDnadZ7g" target="_blank">https://youtu.be/bndmDnadZ7g</a></p>
+<p>Aula 41 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/4v6wbUDnpo8" target="_blank">https://youtu.be/4v6wbUDnpo8</a></p>
 </font>
+@
+
+
+1.32
+log
+@.
+@
+text
+@d621 15
 @
 
 
