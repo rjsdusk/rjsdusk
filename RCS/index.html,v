@@ -1,10 +1,15 @@
-head	1.30;
+head	1.31;
 access;
 symbols;
 locks
-	rjs:1.30; strict;
+	rjs:1.31; strict;
 comment	@# @;
 
+
+1.31
+date	2026.08.08.20.46.11;	author rjs;	state Exp;
+branches;
+next	1.30;
 
 1.30
 date	2026.03.05.13.32.45;	author rjs;	state Exp;
@@ -162,7 +167,7 @@ desc
 @
 
 
-1.30
+1.31
 log
 @.
 @
@@ -210,13 +215,17 @@ text
     aplicação das provas em Fortaleza.</p>
     <p> <a href="https://www.obm.org.br/" target="_blank">Página da OBM</a> </p>
 
-    <h3> Disciplinas, do Departamento de Matemática da UFC, que leciono no primeiro semestre de 2026. </h3>
+    <h3> Disciplinas, do Departamento de Matemática da UFC, que leciono no segundo semestre de 2026. </h3>
+    <p><a href="./calculo2fisi20262.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 03 - Bacharelado em Física</a></p>
+    <p><a href="./calculo2esta20262.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 05 - Bacharelado em Estatística</a></p>    
+
+    <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionei no primeiro semestre de 2026. </h3>
     <p><a href="./calculo1esta20261.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 03 - Bacharelado em Estatística</a></p>
     <p><a href="./calculo1comp20261.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 06 - Ciência da Computação</a></p>    
 
     <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionei no segundo semestre de 2025. </h3>
-    <p><a href="./calculo2mate20252.html" target="_blank">CB0534 - Cálculo Diferencial e Integral II - Turma 01 - Bacharelado em Matemática</a></p>
-    <p><a href="./calculo2comp20252.html" target="_blank">CB0534 - Cálculo Diferencial e Integral II - Turma 05 - Ciência da Computação</a></p>      
+    <p><a href="./calculo2mate20252.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 01 - Bacharelado em Matemática</a></p>
+    <p><a href="./calculo2comp20252.html" target="_blank">CB0535 - Cálculo Diferencial e Integral II - Turma 05 - Ciência da Computação</a></p>      
 
     <h3> Disciplinas, do Departamento de Matemática da UFC, que lecionei no primeiro semestre de 2025. </h3>
     <p><a href="./calculo1mate20251.html" target="_blank">CB0534 - Cálculo Diferencial e Integral I - Turma 01 - Bacharelado em Matemática</a></p>
@@ -276,6 +285,21 @@ text
 </body>
 </html>
 
+@
+
+
+1.30
+log
+@.
+@
+text
+@d44 5
+a48 1
+    <h3> Disciplinas, do Departamento de Matemática da UFC, que leciono no primeiro semestre de 2026. </h3>
+d53 2
+a54 2
+    <p><a href="./calculo2mate20252.html" target="_blank">CB0534 - Cálculo Diferencial e Integral II - Turma 01 - Bacharelado em Matemática</a></p>
+    <p><a href="./calculo2comp20252.html" target="_blank">CB0534 - Cálculo Diferencial e Integral II - Turma 05 - Ciência da Computação</a></p>      
 @
 
 
