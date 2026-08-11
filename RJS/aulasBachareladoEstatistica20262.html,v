@@ -1,0 +1,84 @@
+head	1.2;
+access;
+symbols;
+locks
+	rjs:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2026.08.11.08.51.12;	author rjs;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2026.08.08.21.54.28;	author rjs;	state Exp;
+branches;
+next	;
+
+
+desc
+@.
+@
+
+
+1.2
+log
+@.
+@
+text
+@<html>
+<head>
+  <title> Minha Página HTML: rjsdusk </title>
+</head>
+<body>
+
+<style type="text/css">
+  body { margin-left: 5%; margin-right: 5%;
+       margin-top: 5%; margin-bottom: 5%;}
+</style>
+
+<h1>
+  <p>
+    <font face="Lucida Bright, Times New Roman">
+      Favor informar qualquer inconsistência<br>
+      encontrada nos endereços dos vídeos.<br>
+      Posso ter informado algum link errado.<br>
+      Envie um e-mail informando o problema<br>
+      encontrado para rjsdusk@@gmail.com.
+    </font>
+  </p>
+</h1>
+
+<font face="Lucida Bright, Times New Roman" size="+1">
+
+<br>
+<p>Aula 01 no YouTube!</p>
+<p>Aula 01 - Parte 01/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/yzLRu3z0L3A" target="_blank">https://youtu.be/yzLRu3z0L3A</a></p>
+<p>Aula 01 - Parte 02/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/9-OHAecvdH8" target="_blank">https://youtu.be/9-OHAecvdH8</a></p>
+<p>Aula 01 - Parte 03/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/qP_KEC-IPpA" target="_blank">https://youtu.be/qP_KEC-IPpA</a></p>
+<p>Aula 01 - Parte 04/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/pujq-b6IIck" target="_blank">https://youtu.be/pujq-b6IIck</a></p>
+<p>Aula 01 - Parte 05/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/m94Vg-mUL0s" target="_blank">https://youtu.be/m94Vg-mUL0s</a></p>
+</font>
+@
+
+
+1.1
+log
+@.
+@
+text
+@d28 10
+a37 6
+<p>Aula 01 - Parte 01/06 - Bacharelado em Física</p>
+<p>Aula 01 - Parte 02/06 - Bacharelado em Física</p>
+<p>Aula 01 - Parte 03/06 - Bacharelado em Física</p>
+<p>Aula 01 - Parte 04/06 - Bacharelado em Física</p>
+<p>Aula 01 - Parte 05/06 - Bacharelado em Física</p>
+<p>Aula 01 - Parte 06/06 - Bacharelado em Física</p>
+@
