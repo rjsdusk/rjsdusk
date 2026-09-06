@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	rjs:1.10; strict;
+	rjs:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2026.09.06.13.46.25;	author rjs;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2026.09.03.07.23.27;	author rjs;	state Exp;
@@ -62,7 +67,7 @@ desc
 @
 
 
-1.10
+1.11
 log
 @.
 @
@@ -252,7 +257,31 @@ text
 <p><a href="https://youtu.be/7mszlrQBftk" target="_blank">https://youtu.be/7mszlrQBftk</a></p>
 <p>Aula 11 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/9MTcg8XzAOk" target="_blank">https://youtu.be/9MTcg8XzAOk</a></p>
+
+<br>
+<p>Aula 12 no YouTube!</p>
+<p>Aula 12 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/efl36AETSxA" target="_blank">https://youtu.be/efl36AETSxA</a></p>
+<p>Aula 12 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/Qr6d4bs2flg" target="_blank">https://youtu.be/Qr6d4bs2flg</a></p>
+<p>Aula 12 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/XXa9jRHLFVY" target="_blank">https://youtu.be/XXa9jRHLFVY</a></p>
+<p>Aula 12 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/J_jOVY3oDXI" target="_blank">https://youtu.be/J_jOVY3oDXI</a></p>
+<p>Aula 12 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/JR01UklXLPs" target="_blank">https://youtu.be/JR01UklXLPs</a></p>
+<p>Aula 12 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/q0BKsfhbPx4" target="_blank">https://youtu.be/q0BKsfhbPx4</a></p>
 </font>
+@
+
+
+1.10
+log
+@.
+@
+text
+@d186 15
 @
 
 
