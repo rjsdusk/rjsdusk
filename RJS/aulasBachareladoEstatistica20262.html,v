@@ -1,10 +1,15 @@
-head	1.11;
+head	1.12;
 access;
 symbols;
 locks
-	rjs:1.11; strict;
+	rjs:1.12; strict;
 comment	@# @;
 
+
+1.12
+date	2026.09.19.22.31.55;	author rjs;	state Exp;
+branches;
+next	1.11;
 
 1.11
 date	2026.09.06.13.46.25;	author rjs;	state Exp;
@@ -67,7 +72,7 @@ desc
 @
 
 
-1.11
+1.12
 log
 @.
 @
@@ -272,7 +277,74 @@ text
 <p><a href="https://youtu.be/JR01UklXLPs" target="_blank">https://youtu.be/JR01UklXLPs</a></p>
 <p>Aula 12 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/q0BKsfhbPx4" target="_blank">https://youtu.be/q0BKsfhbPx4</a></p>
+
+<br>
+<p>Aula 13 no YouTube!</p>
+<p>Aula 13 - Parte 01/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/vGZESvx1kZg" target="_blank">https://youtu.be/vGZESvx1kZg</a></p>
+<p>Aula 13 - Parte 02/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/hdDnZYzPQlA" target="_blank">https://youtu.be/hdDnZYzPQlA</a></p>
+<p>Aula 13 - Parte 03/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/8XR78Yody-8" target="_blank">https://youtu.be/8XR78Yody-8</a></p>
+<p>Aula 13 - Parte 04/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/M9uu1NXzvFw" target="_blank">https://youtu.be/M9uu1NXzvFw</a></p>
+<p>Aula 13 - Parte 05/05 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/KFacv4ANadc" target="_blank">https://youtu.be/KFacv4ANadc</a></p>
+
+<br>
+<p>Aula 14 no YouTube!</p>
+<p>Aula 14 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/VLiG1YMetg8" target="_blank">https://youtu.be/VLiG1YMetg8</a></p>
+<p>Aula 14 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/qfpeZ2f2XZ8" target="_blank">https://youtu.be/qfpeZ2f2XZ8</a></p>
+<p>Aula 14 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/tM2nV0VrcX4" target="_blank">https://youtu.be/tM2nV0VrcX4</a></p>
+<p>Aula 14 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/-E6quJQIcqo" target="_blank">https://youtu.be/-E6quJQIcqo</a></p>
+<p>Aula 14 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/pQWdL589ShY" target="_blank">https://youtu.be/pQWdL589ShY</a></p>
+<p>Aula 14 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/cO7omL3GMFI" target="_blank">https://youtu.be/cO7omL3GMFI</a></p>
+
+<br>
+<p>Aula 15 no YouTube!</p>
+<p>Aula 15 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/5zJ-i-zdiO8" target="_blank">https://youtu.be/5zJ-i-zdiO8</a></p>
+<p>Aula 15 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/He3DCDeEOIY" target="_blank">https://youtu.be/He3DCDeEOIY</a></p>
+<p>Aula 15 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/ocMU5imUY1c" target="_blank">https://youtu.be/ocMU5imUY1c</a></p>
+<p>Aula 15 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/vsg6PpWJE9U" target="_blank">https://youtu.be/vsg6PpWJE9U</a></p>
+<p>Aula 15 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/zaVlkXa9ZHY" target="_blank">https://youtu.be/zaVlkXa9ZHY</a></p>
+<p>Aula 15 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/ghSjs920xFM" target="_blank">https://youtu.be/ghSjs920xFM</a></p>
+
+<br>
+<p>Aula 16 no YouTube!</p>
+<p>Aula 16 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/ozx-TWCyz8g" target="_blank">https://youtu.be/ozx-TWCyz8g</a></p>
+<p>Aula 16 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/9Rd_wpa8Fdw" target="_blank">https://youtu.be/9Rd_wpa8Fdw</a></p>
+<p>Aula 16 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/UF3XwG8nahE" target="_blank">https://youtu.be/UF3XwG8nahE</a></p>
+<p>Aula 16 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/jgRPV0GKIE4" target="_blank">https://youtu.be/jgRPV0GKIE4</a></p>
+<p>Aula 16 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/pmOcJLRsICw" target="_blank">https://youtu.be/pmOcJLRsICw</a></p>
+<p>Aula 16 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/gsB3kNmlHOU" target="_blank">https://youtu.be/gsB3kNmlHOU</a></p>
 </font>
+@
+
+
+1.11
+log
+@.
+@
+text
+@d201 58
 @
 
 
