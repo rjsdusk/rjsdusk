@@ -1,10 +1,15 @@
-head	1.15;
+head	1.16;
 access;
 symbols;
 locks
-	rjs:1.15; strict;
+	rjs:1.16; strict;
 comment	@# @;
 
+
+1.16
+date	2026.10.08.07.48.48;	author rjs;	state Exp;
+branches;
+next	1.15;
 
 1.15
 date	2026.10.08.07.06.10;	author rjs;	state Exp;
@@ -87,7 +92,7 @@ desc
 @
 
 
-1.15
+1.16
 log
 @.
 @
@@ -446,16 +451,30 @@ text
 <p>Aula 23 - Parte 01/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/W2Wm5-zvZ2Q" target="_blank">https://youtu.be/W2Wm5-zvZ2Q</a></p>
 <p>Aula 23 - Parte 02/06 - Bacharelado em Estatística</p>
-<p><a href="https://youtu.be/xRaKLxZuuMg" target="_blank">https://youtu.be/xRaKLxZuuMg</a></p>
+<p><a href="https://youtu.be/dr3oLh0dFHo" target="_blank">https://youtu.be/dr3oLh0dFHo</a></p>
 <p>Aula 23 - Parte 03/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/y0sR_gBxZ3I" target="_blank">https://youtu.be/y0sR_gBxZ3I</a></p>
 <p>Aula 23 - Parte 04/06 - Bacharelado em Estatística</p>
-<p><a href="https://youtu.be/vN2ozJb4zaU" target="_blank">https://youtu.be/vN2ozJb4zaU</a></p>
+<p><a href="https://youtu.be/Ef-9eUJ_YHY" target="_blank">https://youtu.be/Ef-9eUJ_YHY</a></p>
 <p>Aula 23 - Parte 05/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/8FU-EWEEvqQ" target="_blank">https://youtu.be/8FU-EWEEvqQ</a></p>
 <p>Aula 23 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/A_k0VZWcl9c" target="_blank">https://youtu.be/A_k0VZWcl9c</a></p>
 </font>
+@
+
+
+1.15
+log
+@.
+@
+text
+@d355 1
+a355 1
+<p><a href="https://youtu.be/xRaKLxZuuMg" target="_blank">https://youtu.be/xRaKLxZuuMg</a></p>
+d359 1
+a359 1
+<p><a href="https://youtu.be/vN2ozJb4zaU" target="_blank">https://youtu.be/vN2ozJb4zaU</a></p>
 @
 
 
