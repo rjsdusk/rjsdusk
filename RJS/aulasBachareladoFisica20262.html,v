@@ -1,10 +1,15 @@
-head	1.16;
+head	1.17;
 access;
 symbols;
 locks
-	rjs:1.16; strict;
+	rjs:1.17; strict;
 comment	@# @;
 
+
+1.17
+date	2026.10.15.08.48.27;	author rjs;	state Exp;
+branches;
+next	1.16;
 
 1.16
 date	2026.10.08.07.48.48;	author rjs;	state Exp;
@@ -92,7 +97,7 @@ desc
 @
 
 
-1.16
+1.17
 log
 @.
 @
@@ -442,7 +447,42 @@ text
 <p><a href="https://youtu.be/q6Z7HS0DH5A" target="_blank">https://youtu.be/q6Z7HS0DH5A</a></p>
 <p>Aula 23 - Parte 05/05 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/Z31vMRlnFKQ" target="_blank">https://youtu.be/Z31vMRlnFKQ</a></p>
+
+<br>
+<p>Aula 24 no YouTube!</p>
+<p>Aula 24 - Parte 01/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/up-72UOjYpM" target="_blank">https://youtu.be/up-72UOjYpM</a></p>
+<p>Aula 24 - Parte 02/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/2jXIYqMppYw" target="_blank">https://youtu.be/2jXIYqMppYw</a></p>
+<p>Aula 24 - Parte 03/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/JcpFJzr7Ma4" target="_blank">https://youtu.be/JcpFJzr7Ma4</a></p>
+<p>Aula 24 - Parte 04/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/nVxXQDsEPQo" target="_blank">https://youtu.be/nVxXQDsEPQo</a></p>
+<p>Aula 24 - Parte 05/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/OdGv9jrEs6Y" target="_blank">https://youtu.be/OdGv9jrEs6Y</a></p>
+
+<br>
+<p>Aula 25 no YouTube!</p>
+<p>Aula 25 - Parte 01/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/DEwjgsU42f4" target="_blank">https://youtu.be/DEwjgsU42f4</a></p>
+<p>Aula 25 - Parte 02/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/VMoCXcsIrWo" target="_blank">https://youtu.be/VMoCXcsIrWo</a></p>
+<p>Aula 25 - Parte 03/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/fb2nAF2dKT0" target="_blank">https://youtu.be/fb2nAF2dKT0</a></p>
+<p>Aula 25 - Parte 04/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/6o1nmmaeioA" target="_blank">https://youtu.be/6o1nmmaeioA</a></p>
+<p>Aula 25 - Parte 05/05 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/de8yvoH_y_U" target="_blank">https://youtu.be/de8yvoH_y_U</a></p>
 </font>
+@
+
+
+1.16
+log
+@.
+@
+text
+@d346 26
 @
 
 
