@@ -1,10 +1,15 @@
-head	1.20;
+head	1.21;
 access;
 symbols;
 locks
-	rjs:1.20; strict;
+	rjs:1.21; strict;
 comment	@# @;
 
+
+1.21
+date	2026.11.12.12.08.03;	author rjs;	state Exp;
+branches;
+next	1.20;
 
 1.20
 date	2026.11.10.15.19.53;	author rjs;	state Exp;
@@ -112,7 +117,7 @@ desc
 @
 
 
-1.20
+1.21
 log
 @.
 @
@@ -585,7 +590,31 @@ text
 <p><a href="https://youtu.be/NEi7OJHkDXw" target="_blank">https://youtu.be/NEi7OJHkDXw</a></p>
 <p>Aula 30 - Parte 06/06 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/3TA_j3ycN_U" target="_blank">https://youtu.be/3TA_j3ycN_U</a></p>
+
+<br>
+<p>Aula 31 no YouTube!</p>
+<p>Aula 31 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/rDsUpHhsEPM" target="_blank">https://youtu.be/rDsUpHhsEPM</a></p>
+<p>Aula 31 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/vDDHdlzGCCM" target="_blank">https://youtu.be/vDDHdlzGCCM</a></p>
+<p>Aula 31 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/0ps2B-bWr3g" target="_blank">https://youtu.be/0ps2B-bWr3g</a></p>
+<p>Aula 31 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/d24ElRGWonU" target="_blank">https://youtu.be/d24ElRGWonU</a></p>
+<p>Aula 31 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/0PqNOFcl_t8" target="_blank">https://youtu.be/0PqNOFcl_t8</a></p>
+<p>Aula 31 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/PyD8xNePOc4" target="_blank">https://youtu.be/PyD8xNePOc4</a></p>
 </font>
+@
+
+
+1.20
+log
+@.
+@
+text
+@d469 15
 @
 
 
