@@ -1,10 +1,15 @@
-head	1.23;
+head	1.24;
 access;
 symbols;
 locks
-	rjs:1.23; strict;
+	rjs:1.24; strict;
 comment	@# @;
 
+
+1.24
+date	2026.11.26.11.14.30;	author rjs;	state Exp;
+branches;
+next	1.23;
 
 1.23
 date	2026.11.17.08.02.02;	author rjs;	state Exp;
@@ -127,7 +132,7 @@ desc
 @
 
 
-1.23
+1.24
 log
 @.
 @
@@ -643,7 +648,61 @@ text
 <p><a href="https://youtu.be/c1Lhl0scZX4" target="_blank">https://youtu.be/c1Lhl0scZX4</a></p>
 <p>Aula 33 - Parte 05/05 - Bacharelado em Estatística</p>
 <p><a href="https://youtu.be/6yjpGu0c8a8" target="_blank">https://youtu.be/6yjpGu0c8a8</a></p>
+
+<br>
+<p>Aula 34 no YouTube!</p>
+<p>Aula 34 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/s_ZbtdoN0Y8" target="_blank">https://youtu.be/s_ZbtdoN0Y8</a></p>
+<p>Aula 34 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/AdFVlnCOSxg" target="_blank">https://youtu.be/AdFVlnCOSxg</a></p>
+<p>Aula 34 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/YCVEzX1KK4g" target="_blank">https://youtu.be/YCVEzX1KK4g</a></p>
+<p>Aula 34 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/sOiINUcvyIo" target="_blank">https://youtu.be/sOiINUcvyIo</a></p>
+<p>Aula 34 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/seCtsvbrcLk" target="_blank">https://youtu.be/seCtsvbrcLk</a></p>
+<p>Aula 34 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/vRlxa0WrwIE" target="_blank">https://youtu.be/vRlxa0WrwIE</a></p>
+
+<br>
+<p>Aula 35 no YouTube!</p>
+<p>Aula 35 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/-FImZU3D9MU" target="_blank">https://youtu.be/-FImZU3D9MU</a></p>
+<p>Aula 35 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/IRSSNlqKfx0" target="_blank">https://youtu.be/IRSSNlqKfx0</a></p>
+<p>Aula 35 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/8pnpPu-DQ8I" target="_blank">https://youtu.be/8pnpPu-DQ8I</a></p>
+<p>Aula 35 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/-DUZwfATIXs" target="_blank">https://youtu.be/-DUZwfATIXs</a></p>
+<p>Aula 35 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/6Ov_EfolK0c" target="_blank">https://youtu.be/6Ov_EfolK0c</a></p>
+<p>Aula 35 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/gCrmlQPeQwA" target="_blank">https://youtu.be/gCrmlQPeQwA</a></p>
+
+<br>
+<p>Aula 36 no YouTube!</p>
+<p>Aula 36 - Parte 01/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/eUbkhSxRcBI" target="_blank">https://youtu.be/eUbkhSxRcBI</a></p>
+<p>Aula 36 - Parte 02/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/lOedw5NZJ_4" target="_blank">https://youtu.be/lOedw5NZJ_4</a></p>
+<p>Aula 36 - Parte 03/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/Br9h7j-tRI0" target="_blank">https://youtu.be/Br9h7j-tRI0</a></p>
+<p>Aula 36 - Parte 04/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/4CR_3H1ARYc" target="_blank">https://youtu.be/4CR_3H1ARYc</a></p>
+<p>Aula 36 - Parte 05/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/dmbFAKCshr0" target="_blank">https://youtu.be/dmbFAKCshr0</a></p>
+<p>Aula 36 - Parte 06/06 - Bacharelado em Estatística</p>
+<p><a href="https://youtu.be/qEjRcwwyDoA" target="_blank">https://youtu.be/qEjRcwwyDoA</a></p>
 </font>
+@
+
+
+1.23
+log
+@.
+@
+text
+@d512 45
 @
 
 

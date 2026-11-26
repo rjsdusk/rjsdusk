@@ -1,10 +1,15 @@
-head	1.23;
+head	1.24;
 access;
 symbols;
 locks
-	rjs:1.23; strict;
+	rjs:1.24; strict;
 comment	@# @;
 
+
+1.24
+date	2026.11.26.11.14.31;	author rjs;	state Exp;
+branches;
+next	1.23;
 
 1.23
 date	2026.11.17.08.02.02;	author rjs;	state Exp;
@@ -127,7 +132,7 @@ desc
 @
 
 
-1.23
+1.24
 log
 @.
 @
@@ -617,7 +622,61 @@ text
 <p><a href="https://youtu.be/SVzmWtpZj6E" target="_blank">https://youtu.be/SVzmWtpZj6E</a></p>
 <p>Aula 33 - Parte 05/05 - Bacharelado em Física</p>
 <p><a href="https://youtu.be/uNozGmxM4S4" target="_blank">https://youtu.be/uNozGmxM4S4</a></p>
+
+<br>
+<p>Aula 34 no YouTube!</p>
+<p>Aula 34 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/QmrLFsBLEgs" target="_blank">https://youtu.be/QmrLFsBLEgs</a></p>
+<p>Aula 34 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/_YBTdMB0UpI" target="_blank">https://youtu.be/_YBTdMB0UpI</a></p>
+<p>Aula 34 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/Sex9tEMqTyM" target="_blank">https://youtu.be/Sex9tEMqTyM</a></p>
+<p>Aula 34 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/mp-BFeVBck4" target="_blank">https://youtu.be/mp-BFeVBck4</a></p>
+<p>Aula 34 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/J6BQObS9_aw" target="_blank">https://youtu.be/J6BQObS9_aw</a></p>
+<p>Aula 34 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/eUcK8Ovy1HY" target="_blank">https://youtu.be/eUcK8Ovy1HY</a></p>
+
+<br>
+<p>Aula 35 no YouTube!</p>
+<p>Aula 35 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/iQxsRl8dz8s" target="_blank">https://youtu.be/iQxsRl8dz8s</a></p>
+<p>Aula 35 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/h631MDGZDWg" target="_blank">https://youtu.be/h631MDGZDWg</a></p>
+<p>Aula 35 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/4yEaVAHfihA" target="_blank">https://youtu.be/4yEaVAHfihA</a></p>
+<p>Aula 35 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/xCLNWdebyhI" target="_blank">https://youtu.be/xCLNWdebyhI</a></p>
+<p>Aula 35 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/KXjECdpf5FE" target="_blank">https://youtu.be/KXjECdpf5FE</a></p>
+<p>Aula 35 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/qwXJAFaSkOg" target="_blank">https://youtu.be/qwXJAFaSkOg</a></p>
+
+<br>
+<p>Aula 36 no YouTube!</p>
+<p>Aula 36 - Parte 01/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/t5HbxxWSlsw" target="_blank">https://youtu.be/t5HbxxWSlsw</a></p>
+<p>Aula 36 - Parte 02/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/TBZT74Qvhmc" target="_blank">https://youtu.be/TBZT74Qvhmc</a></p>
+<p>Aula 36 - Parte 03/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/1tq7j1S1PEk" target="_blank">https://youtu.be/1tq7j1S1PEk</a></p>
+<p>Aula 36 - Parte 04/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/bVyIcWjKRA4" target="_blank">https://youtu.be/bVyIcWjKRA4</a></p>
+<p>Aula 36 - Parte 05/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/hyuTbMT8BUw" target="_blank">https://youtu.be/hyuTbMT8BUw</a></p>
+<p>Aula 36 - Parte 06/06 - Bacharelado em Física</p>
+<p><a href="https://youtu.be/zJ5UKzBY4So" target="_blank">https://youtu.be/zJ5UKzBY4So</a></p>
 </font>
+@
+
+
+1.23
+log
+@.
+@
+text
+@d486 45
 @
 
 
